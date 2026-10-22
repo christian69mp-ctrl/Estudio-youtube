@@ -18,6 +18,9 @@ Actualizado: 2026-10-22 (canales activos confirmados).
 | Código Mafia | — | — | Enlace e inventario de vídeos |
 | Jager Explica (inactivo) | — | — | Definir enfoque y fecha de reactivación |
 
+## Pedido en curso
+- `ESTUDIO/PEDIDO_01.md`: 10 guiones (2 por canal) para el nuevo editor. Fase: temas propuestos, pendientes de aprobar.
+
 ## Prioridades
 1. Elegir canal y vídeo con el que empezar.
 2. Reunir enlaces y métricas recientes de los 4 canales activos.
