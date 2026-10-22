@@ -21,8 +21,7 @@ Actualizado: 2026-10-22 (canales activos confirmados).
 ## Prioridades
 1. Elegir canal y vídeo con el que empezar.
 2. Reunir enlaces y métricas recientes de los 4 canales activos.
-3. Subir el estudio a su repositorio propio en GitHub.
+3. Definir enfoque y fecha de reactivación de Jager Explica.
 
 ## Bloqueos
 - Sin enlaces ni métricas de ningún canal.
-- Repositorio `estudio-youtube` pendiente de crear por Christian en GitHub (la integración no tiene permiso para crearlo).

@@ -8,11 +8,10 @@
 - Último punto confirmado: canales activos confirmados (Jager Aviación, Jager Crime, Archivos Sagrados, Código Mafia; Jager Explica inactivo con reactivación prevista). Carpetas renombradas a `jager-aviacion` y `jager-crime`.
 
 ## Siguiente paso concreto
-1. Christian crea el repositorio vacío `estudio-youtube` en GitHub; se sube este estudio.
-2. Christian elige canal y vídeo de arranque y aporta enlaces/métricas.
+Christian elige canal y vídeo de arranque y aporta enlaces/métricas.
 
 ## Preguntas abiertas
 Ver `BANDEJA_ENTRADA.md` → "Dudas abiertas del arranque".
 
 ## Estado en git
-Ver informe de cierre de la última respuesta. No asumir que está subido.
+Repositorio: github.com/christian69mp-ctrl/estudio-youtube (privado), rama `main`. Comprobar con `git status` / `git log origin/main` antes de afirmar que algo está subido.
