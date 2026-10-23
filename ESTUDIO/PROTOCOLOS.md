@@ -107,6 +107,27 @@ Guardar en `VIDEOS/[id]/TITULOS_Y_MINIATURAS.md` con versión y estado.
 
 ---
 
+## 6b. Plantilla de guion largo de alta retención (aprobada 2026-10-23)
+
+Objetivo de diseño: retención alta (meta de Christian: ≥ 50 %). Es un objetivo, no una garantía; se valida con los datos de Studio.
+
+1. **Super hook (0:00–0:30, ~70–90 palabras).** Entrar en el momento de máxima tensión o con el dato más fuerte y verificado. Plantear la pregunta del vídeo y prometer la respuesta. Sin saludo.
+2. **Bienvenida breve (≤ 2 frases).** Nombre del canal + qué va a descubrir el espectador. Nada más.
+3. **Cuerpo en actos de ~2–3 min.** Cada acto abre un bucle (pregunta) y cierra otro anterior. Micro hook cada ~45–90 s: dato concreto, giro, contradicción o «pero había un detalle…».
+4. **Cliffhangers** antes de los puntos típicos de abandono (~25 %, 50 % y 75 %): cortar justo antes de una revelación y resolverla tras la transición.
+5. **Datos impactantes solo verificados**, con fuente en `INVESTIGACION.md`. Las dramatizaciones se marcan.
+6. **CTA:**
+   - Suscripción breve justo después del primer gran pago de información (no al inicio).
+   - Comentario: una pregunta concreta sobre la historia, hacia la mitad.
+   - Final: puente al siguiente vídeo relacionado (pantalla final), sin despedida larga.
+7. **Cierre:** responder la pregunta del super hook y dejar una última idea que dé valor al espectador (lección, consecuencia, giro final).
+8. **Tono:** el de `ESTILO.md` de cada canal (D-TONO). Nunca la misma voz en todos los canales.
+9. **Entrega:** `GUION.md` = locución limpia (pegable en la voz sintética, sin acotaciones) + indicaciones visuales por bloque + fuentes + afirmaciones a verificar + bloques recortables si la locución pasa de 20 min.
+
+**Extensión con voz sintética:** a 150–160 palabras/min, 4.000 palabras ≈ 25–27 min; a 190–200 palabras/min ≈ 20–21 min. Supuesto provisional: 3.600–4.000 palabras con bloques marcados como recortables. Calibrar con la duración real de la primera locución.
+
+---
+
 ## 7. Shorts
 
 Cada short funciona solo y pertenece al canal.

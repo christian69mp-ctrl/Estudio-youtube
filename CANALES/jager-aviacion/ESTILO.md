@@ -3,7 +3,9 @@
 > **Ficha provisional** creada el 2026-10-22 a partir del contexto histórico aportado por Christian. Nada de lo aquí escrito describe la situación actual del canal hasta que se confirme.
 
 ## Voz y tono
-Documental, preciso y tenso sin dramatismo artificial. Términos técnicos explicados la primera vez (p. ej. "pérdida de sustentación" antes que "stall" sin contexto).
+**Decisión 2026-10-23 (D-TONO):** Formal pero entretenido: precisión técnica explicada con imágenes mentales, tensión real, sin sensacionalismo.
+
+Anterior: Documental, preciso y tenso sin dramatismo artificial. Términos técnicos explicados la primera vez (p. ej. "pérdida de sustentación" antes que "stall" sin contexto).
 
 ## Narrativa
 - Entrar en la historia desde la primera frase; sin saludos largos.

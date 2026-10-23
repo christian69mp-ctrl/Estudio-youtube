@@ -3,7 +3,9 @@
 > **Ficha provisional** creada el 2026-10-22 a partir del contexto histórico aportado por Christian. Nada de lo aquí escrito describe la situación actual del canal hasta que se confirme.
 
 ## Voz y tono
-Claridad, ritmo visual y ejemplos concretos. Voz y personalidad del personaje: pendiente de confirmar.
+**Decisión 2026-10-23 (D-TONO):** Divertido: comparaciones cotidianas absurdas, humor ligero y el personaje como guía. La ciencia/historia, correcta.
+
+Anterior: Claridad, ritmo visual y ejemplos concretos. Voz y personalidad del personaje: pendiente de confirmar.
 
 ## Narrativa
 - Entrar en la historia desde la primera frase; sin saludos largos.

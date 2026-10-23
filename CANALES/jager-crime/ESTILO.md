@@ -3,7 +3,9 @@
 > **Ficha provisional** creada el 2026-10-22 a partir del contexto histórico aportado por Christian. Nada de lo aquí escrito describe la situación actual del canal hasta que se confirme.
 
 ## Voz y tono
-Intriga documental, sobria y respetuosa.
+**Decisión 2026-10-23 (D-TONO):** Intriga documental sobria y respetuosa con las víctimas (supuesto: Christian no indicó tono nuevo; se mantiene el de IDENTIDAD).
+
+Anterior: Intriga documental, sobria y respetuosa.
 
 ## Narrativa
 - Entrar en la historia desde la primera frase; sin saludos largos.

@@ -3,7 +3,9 @@
 > **Ficha provisional** creada el 2026-10-22 a partir del contexto histórico aportado por Christian. Nada de lo aquí escrito describe la situación actual del canal hasta que se confirme.
 
 ## Voz y tono
-Documental de investigación, sobrio, con intriga basada en cómo se descubrió o desmontó la red. Sin jerga glamurosa.
+**Decisión 2026-10-23 (D-TONO):** Informal y burlesco: sarcasmo e ironía dirigidos a los criminales, a su ego y a sus errores. Nunca burla hacia víctimas. Sin glorificar ni dar instrucciones operativas.
+
+Anterior: Documental de investigación, sobrio, con intriga basada en cómo se descubrió o desmontó la red. Sin jerga glamurosa.
 
 ## Narrativa
 - Entrar en la historia desde la primera frase; sin saludos largos.

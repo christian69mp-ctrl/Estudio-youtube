@@ -22,3 +22,11 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 - Por qué: Christian lo confirmó al pasar la URL.
 - Sustituye a: la duda abierta registrada en D-002.
 - Alcance: canal
+
+### D-TONO — 2026-10-23 — Tono de los guiones largos
+- Estado: aprobada (Christian)
+- Qué se decidió: Intriga documental sobria y respetuosa con las víctimas (supuesto: Christian no indicó tono nuevo; se mantiene el de IDENTIDAD).
+- También: voz sintética, ≤ 20 min, ~4.000 palabras, estructura de alta retención (super hook → bienvenida breve → micro hooks y cliffhangers → CTA).
+- Por qué: diferenciar los canales entre sí y mejorar la retención.
+- Sustituye a: tono provisional de la ficha.
+- Alcance: canal
