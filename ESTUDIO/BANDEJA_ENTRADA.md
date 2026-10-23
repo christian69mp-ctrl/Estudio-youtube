@@ -14,5 +14,11 @@ Material, ideas y dudas sin clasificar. Al procesar un elemento, muévelo a su c
 - [ ] Ritmo de locución real de Christian (para calibrar extensión de guiones).
 - [ ] Herramientas de producción (locución, edición, generación de imágenes) para adaptar los entregables.
 
+### 2026-10-23 — Análisis de canales propios y competencia
+- Christian enviará la URL de cada canal para analizar qué ha funcionado (propio y competencia).
+- Limitación comprobada el 2026-10-23: la política de red de la sesión bloquea `www.youtube.com` e `i.ytimg.com`. `www.googleapis.com` sí responde (YouTube Data API, requiere clave).
+- Opciones: (A) clave de YouTube Data API v3 en la configuración del entorno, variable `YOUTUBE_API_KEY` (recomendada); (B) permitir `www.youtube.com` en la red del entorno; (C) capturas o exportaciones de YouTube Studio.
+- Método previsto: por canal, inventario de vídeos (título, fecha, duración, visualizaciones públicas); comparación con la mediana del propio canal; 3–5 competidores por canal con datos públicos; patrones de tema, ángulo, título y miniatura marcados como indicio o hipótesis. Sin métricas privadas de terceros.
+
 ## Procesado
 - 2026-10-22 — Ubicación del estudio: repositorio propio `estudio-youtube`, separado de Reino Peludos (decisión de Christian). → ESTADO_SESION.md
