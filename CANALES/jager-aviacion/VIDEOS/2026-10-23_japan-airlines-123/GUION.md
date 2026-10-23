@@ -23,7 +23,7 @@ Bienvenido a Jager Aviación. Hoy vas a entender qué falló, cómo se puede vol
 
 Doce de agosto de 1985. Aeropuerto de Haneda, en Tokio.
 
-Es plena temporada de vacaciones en Japón, y miles de personas viajan para reunirse con sus familias. El vuelo 123 es un trayecto corto y rutinario: Tokio – Osaka, menos de una hora de vuelo. Una ruta tan transitada que Japan Airlines la cubre con una versión especial del 747, el SR, diseñada precisamente para vuelos cortos con muchísimos despegues y aterrizajes.
+Es verano en Japón y el puente aéreo entre Tokio y Osaka va lleno de gente. El vuelo 123 es un trayecto corto y rutinario: Tokio – Osaka, menos de una hora de vuelo. Una ruta tan transitada que Japan Airlines la cubre con una versión especial del 747, el SR, diseñada precisamente para vuelos cortos con muchísimos despegues y aterrizajes.
 
 Y ese detalle, el de los muchos despegues y aterrizajes, va a ser más importante de lo que parece. Guárdalo.
 
@@ -55,7 +55,7 @@ Piénsalo un momento, porque aquí está una de las grandes paradojas de la avia
 
 Y esa puerta, aquella tarde, era la cola de un 747.
 
-En la cabina, los pilotos todavía no saben qué ha ocurrido. Una alarma. Un golpe. Una pérdida de presión. Su primera interpretación es razonable: quizá una puerta ha fallado. Piden volver a Tokio. Pero cuando intentan girar, descubren lo impensable. El volante se mueve, sí. Pero no ocurre nada.
+En la cabina, los pilotos todavía no saben qué ha ocurrido. Una alarma. Un golpe. Una pérdida de presión. Declaran emergencia y piden volver a Tokio. Pero cuando intentan girar, descubren lo impensable. El volante se mueve, sí. Pero no ocurre nada.
 
 Y aquí empieza la parte que hace única esta historia. Porque un avión sin mandos no cae como una piedra. Hace algo mucho más inquietante.
 
@@ -97,7 +97,7 @@ También extienden los flaps, las superficies de las alas que ayudan a volar má
 
 Y mientras tanto, el reloj corre.
 
-Son ya más de las seis y cuarenta. El vuelo 123 lleva casi veinte minutos sin control. Desde tierra, los controladores le ofrecen todas las opciones posibles: aeropuertos cercanos, frecuencias, ayuda. Incluso una base aérea estadounidense cercana, Yokota, se ofrece a recibirlo.
+Son ya más de las seis y cuarenta. El vuelo 123 lleva casi veinte minutos sin control. Desde tierra, los controladores intentan ayudar con todo lo que tienen: rumbos, aeropuertos cercanos, frecuencias.
 
 Pero un avión que no puede girar a voluntad no puede elegir aeropuerto. Va adonde puede.
 
@@ -167,7 +167,7 @@ Lo más inquietante es por qué nadie las vio. Japan Airlines hacía sus inspecc
 
 Hasta que, el doce de agosto de 1985, las grietas se unieron y el mamparo cedió.
 
-En 1987, la Comisión de Investigación de Accidentes Aéreos de Japón publicó su informe final. Su conclusión fue que el mamparo se rompió por grietas de fatiga originadas en la reparación defectuosa de 1978. Boeing asumió la responsabilidad de aquella reparación.
+En 1987, la Comisión de Investigación de Accidentes Aéreos de Japón publicó su informe final. Su conclusión fue que el mamparo se rompió por grietas de fatiga originadas en la reparación defectuosa de 1978. Y aquella reparación la había hecho el propio fabricante.
 
 Las consecuencias fueron enormes. Se revisaron los procedimientos de reparación y de inspección de este tipo de piezas. Y se estudió cómo evitar que la rotura de una zona del avión arrastrara a todos los sistemas hidráulicos a la vez.
 
@@ -245,17 +245,17 @@ Si quieres ver otro caso en el que un avión siguió volando cuando nadie a bord
 Ver `INVESTIGACION.md`.
 
 ## 4. AFIRMACIONES QUE REQUIEREN ÚLTIMA COMPROBACIÓN
-1. «Es plena temporada de vacaciones en Japón» (Obon). [VERIFICAR]
-2. «Boeing asumió la responsabilidad de aquella reparación». [VERIFICAR la formulación con fuente]
+1. «Es plena temporada de vacaciones en Japón» (Obon). [VERIFICAR] → RETIRADO del texto (2026-10-23).
+2. «Boeing asumió la responsabilidad de aquella reparación». [VERIFICAR la formulación con fuente] → RETIRADO del texto (2026-10-23).
 3. «La idea de controlar un avión solo con los motores… se convirtió en objeto de estudio» (programa PCA de la NASA). [VERIFICAR]
 4. «Notas que escribieron algunos pasajeros a sus familias» (conservadas en el centro: confirmado; escritas durante el vuelo: no se afirma).
 5. «Los médicos… creían que algunas víctimas sobrevivieron al impacto»: formulado sin cita literal. [VERIFICAR]
-6. Base de Yokota ofreciéndose a recibir el avión. [VERIFICAR]
+6. Base de Yokota ofreciéndose a recibir el avión. [VERIFICAR] → RETIRADO del texto (2026-10-23).
 9. «Menos de medio segundo»: la FAA indica que el cortafuegos del APU y el estabilizador fallaron unos 0,4 s después del mamparo. [CONFIRMADO, FAA]
 10. Fragmentos de la cola recuperados del mar (bahía de Sagami). [CONFIRMADO, secundaria + FAA]
 11. United 232: 296 a bordo, 185 supervivientes; tres sistemas hidráulicos perdidos; motivó el programa de la NASA de control con motores. [CONFIRMADO, secundaria + NASA NTRS]
 12. Marcas microscópicas de fatiga («como anillos de un árbol»): descripción general de las estrías de fatiga; confirmar que el informe las usó. [VERIFICAR]
-7. «Su primera interpretación… quizá una puerta ha fallado»: muy citado; confirmar con transcripción oficial antes de mantenerlo.
+7. «Su primera interpretación… quizá una puerta ha fallado»: muy citado; confirmar con transcripción oficial antes de mantenerlo. → RETIRADO del texto (2026-10-23).
 8. Mención a Kyu Sakamoto: **no incluida** a propósito hasta verificarla; si se confirma, puede añadirse en el bloque 22.
 
 ## 5. RECUENTO
