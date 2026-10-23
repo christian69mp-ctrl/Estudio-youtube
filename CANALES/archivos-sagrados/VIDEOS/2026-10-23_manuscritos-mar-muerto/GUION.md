@@ -1,0 +1,217 @@
+# GUION — Los Manuscritos del Mar Muerto: lo que revelaron y lo que nunca dijeron
+
+- Canal: Archivos Sagrados · Tono: misterioso, envolvente; separando texto, tradición y evidencia (D-TONO) · Voz sintética · ≤ 20 min
+- Versión: v1 · 2026-10-23
+- Entrega al editor: `LOCUCION_EDITOR.txt` (solo la sección 1)
+
+---
+
+## 1. LOCUCIÓN LIMPIA
+
+Uno de junio de 1954. En las páginas del Wall Street Journal, el periódico de los negocios de Nueva York, en la sección de anuncios clasificados, entre artículos de todo tipo, aparece uno muy extraño.
+
+El título dice así: Los cuatro manuscritos del mar Muerto. Y debajo, una oferta que, resumida, venía a decir esto: manuscritos bíblicos que datan de al menos doscientos años antes de Cristo. Ideales como regalo para una institución educativa o religiosa.
+
+Como quien vende un coche de segunda mano.
+
+Lo que se ofrecía en esas líneas eran algunos de los documentos más importantes jamás encontrados sobre la historia de la Biblia. Textos copiados a mano hace más de dos mil años, escondidos en cuevas del desierto durante siglos. Y alguien estaba intentando venderlos en la sección de anuncios por palabras.
+
+¿Cómo llegaron hasta allí? ¿Quién los escondió en el desierto? ¿Y qué dicen realmente? Porque desde que se descubrieron, alrededor de estos manuscritos se ha dicho de todo: que contenían secretos sobre Jesús, que alguien los ocultó durante décadas, que demostraban o desmentían la Biblia.
+
+Hoy vamos a separar lo que revelaron de verdad de todo lo que se ha inventado sobre ellos. Y te adelanto algo: la verdad es mucho más interesante que el mito.
+
+Bienvenido a Archivos Sagrados. Esta historia empieza con una piedra lanzada al interior de una cueva.
+
+Invierno de 1946 o principios de 1947. Las fuentes no se ponen de acuerdo en la fecha exacta. Desierto de Judea, cerca de la orilla noroeste del mar Muerto, el lugar más bajo de la superficie de la Tierra.
+
+Un joven pastor beduino, Muhammad edh-Dhib, de la tribu Ta'amireh, busca un animal que se ha perdido entre las rocas. Según el relato más conocido, ve una abertura en la pared de un acantilado. Lanza una piedra dentro. Y escucha algo que no esperaba: el sonido de cerámica rompiéndose.
+
+Cuando él y otros pastores entran en la cueva, encuentran varias jarras de barro. Algunas vacías. Otras con algo dentro: rollos de cuero envueltos en tela, cubiertos de una escritura antigua que ellos no saben leer.
+
+Imagina la escena. Unos pastores que no tienen ni idea de lo que acaban de encontrar, sosteniendo en sus manos algunos de los manuscritos bíblicos más antiguos del mundo.
+
+Y aquí empieza un viaje casi novelesco.
+
+Los beduinos llevan los rollos a Belén, a un zapatero que también comerciaba con antigüedades. Se llamaba Khalil Iskander Shahin, aunque todos lo conocían como Kando. Kando no sabe exactamente qué tiene entre manos, pero intuye que puede tener valor.
+
+En el verano de 1947, vende cuatro de los rollos a un líder religioso cristiano de Jerusalén, el metropolita de la Iglesia sirio-ortodoxa, Athanasius Yeshue Samuel. Y otros rollos de la misma cueva acaban, a través de otro comerciante, en manos de un arqueólogo de la Universidad Hebrea de Jerusalén, Eleazar Sukenik.
+
+Sukenik es el primero en darse cuenta de lo que tienen. Cuando examina los textos, comprende que son extremadamente antiguos. Mucho más que cualquier manuscrito bíblico hebreo conocido hasta entonces.
+
+Pero todo esto ocurre en el peor momento posible. Es el final del mandato británico en Palestina, justo antes de la guerra de 1948. Jerusalén es una ciudad dividida y peligrosa. Y en medio de ese caos, los rollos van de mano en mano.
+
+En 1948, el metropolita Samuel se lleva sus cuatro rollos a Estados Unidos, buscando un comprador. Durante años, nadie los compra. Hasta que, en 1954, decide publicar ese anuncio en el Wall Street Journal.
+
+Y aquí llega el giro más increíble de esta parte de la historia.
+
+En ese momento, en Estados Unidos, está de gira dando conferencias un arqueólogo israelí llamado Yigael Yadin. Y Yigael Yadin es, precisamente, el hijo de Eleazar Sukenik, el hombre que había comprado los otros rollos.
+
+Alguien le enseña el anuncio. Y Yadin decide actuar con discreción. La compra se organiza a través de un intermediario, un empresario de Nueva York, sin que su nombre aparezca. El precio acordado: doscientos cincuenta mil dólares.
+
+Los cuatro rollos vuelven a Jerusalén. Y el hijo completa lo que había empezado el padre: reunir los primeros manuscritos de aquella cueva.
+
+Hoy, esos rollos se conservan en el Museo de Israel, en un edificio construido especialmente para ellos, el Santuario del Libro.
+
+Pero aquella primera cueva era solo el principio.
+
+Tras el primer hallazgo, beduinos y arqueólogos empiezan una carrera por explorar las cuevas de la zona. Durante los años siguientes, entre 1947 y 1956, se encuentran manuscritos en once cuevas alrededor de unas ruinas llamadas Khirbet Qumrán, cerca del mar Muerto.
+
+El total es asombroso: alrededor de novecientos treinta textos distintos. Algunos casi completos. La inmensa mayoría, en fragmentos.
+
+Solo en una de esas cuevas, la cueva cuatro, aparecieron unos quince mil fragmentos, que pertenecían a al menos seiscientos textos diferentes. Quince mil trozos de cuero y papiro, algunos del tamaño de una uña, mezclados entre sí. Un rompecabezas gigantesco que los especialistas han tardado décadas en reconstruir.
+
+Piensa en lo que supone. No hay una imagen en la tapa de la caja que te diga cómo debe quedar el resultado. Muchas piezas se han perdido para siempre. Otras están deformadas por el tiempo, oscurecidas o rotas por los bordes. Y las piezas de cientos de puzles distintos están mezcladas en el mismo montón. Para encajarlas, los especialistas comparaban la forma de las letras, el color y el grosor de la piel, la distancia entre las líneas e incluso las manchas. Fragmento a fragmento, durante años.
+
+Y mientras tanto, en el desierto, se vivía otra carrera. Los beduinos descubrieron enseguida que aquellos trozos de cuero valían dinero. Así que muchas cuevas fueron exploradas primero por ellos, antes que por los arqueólogos, y muchos fragmentos llegaron al mercado de antigüedades a través de intermediarios, a menudo a través del propio Kando. Una parte de lo que sabemos sobre Qumrán se reconstruyó, literalmente, comprando trozos de la historia uno a uno.
+
+Si te gustan estos misterios, contados con rigor, suscríbete a Archivos Sagrados. Porque ahora vamos a ver qué dicen realmente estos textos. Y por qué uno de ellos cambió para siempre lo que sabíamos sobre la Biblia.
+
+Para entender la importancia de Qumrán, tienes que saber algo sobre cómo nos ha llegado la Biblia hebrea.
+
+Durante siglos, los textos sagrados se copiaron a mano. Copia tras copia, generación tras generación. Y antes del descubrimiento de Qumrán, los manuscritos hebreos completos más antiguos que se conocían de la Biblia hebrea eran de la Edad Media, de en torno al año mil después de Cristo.
+
+Eso dejaba una pregunta inquietante en el aire. Entre los textos originales y esas copias medievales habían pasado muchísimos siglos. ¿Cuánto había cambiado el texto por el camino? ¿Cuántos errores, añadidos o cambios se habían colado en todas esas copias?
+
+Y entonces apareció el gran rollo de Isaías.
+
+Es uno de los manuscritos de la primera cueva. Mide más de siete metros de largo. Contiene el libro de Isaías completo, de principio a fin. Y es aproximadamente mil años más antiguo que los manuscritos hebreos que se conocían antes.
+
+Mil años.
+
+Los especialistas pudieron hacer algo que nunca habían podido hacer: comparar un texto bíblico con una copia del mismo texto hecha un milenio antes. Y el resultado sorprendió a muchos. Aunque había diferencias, sobre todo de ortografía y de detalles, el texto era, en lo esencial, notablemente parecido.
+
+Para los creyentes, fue una confirmación del cuidado extraordinario con que se habían transmitido las Escrituras. Para los historiadores, fue una mina de información. Porque no todos los manuscritos de Qumrán eran tan parecidos a los textos posteriores. Algunos mostraban versiones distintas de ciertos libros. Es decir: hace dos mil años, todavía circulaban variantes de algunos textos bíblicos, antes de que se fijara el texto que conocemos hoy.
+
+Y la ciencia moderna ha añadido otra pista sorprendente. En 2020, un equipo de investigadores israelíes y suecos publicó un estudio en el que analizó el ADN de las pieles con las que se fabricaron algunos manuscritos. La mayoría eran de oveja, pero también aparecieron de cabra y de vaca.
+
+¿Y por qué importa eso? Porque dos fragmentos del libro de Jeremías resultaron estar escritos sobre piel de vaca. Y en el desierto de Judea, alrededor de Qumrán, no se podía criar ganado vacuno. Los investigadores dedujeron que esos manuscritos se escribieron en otro lugar y se llevaron después a las cuevas. Además, esos fragmentos de Jeremías no coinciden exactamente con el texto que conocemos hoy. Es decir: en aquella época circulaban versiones distintas de Jeremías al mismo tiempo, en distintos lugares.
+
+Imagina lo que esto significa. Hoy podemos leer el ADN de una oveja o de una vaca que vivió hace más de dos mil años, para averiguar de dónde vino un texto sagrado.
+
+Y eso es justo lo que hace a Qumrán tan valioso. No demuestra ni desmiente la fe de nadie. Nos enseña cómo eran realmente los textos, y cómo se fueron fijando con el tiempo.
+
+Los manuscritos están escritos sobre todo en hebreo, pero también en arameo, la lengua que se hablaba en la región en tiempos de Jesús, y algunos en griego. La mayoría son de pergamino, es decir, piel de animal preparada para escribir. Otros, de papiro.
+
+Pero en Qumrán no había solo textos bíblicos.
+
+Junto al rollo de Isaías, en aquella primera cueva, aparecieron también una especie de reglamento de una comunidad y un comentario sobre el libro del profeta Habacuc. Ese comentario es especialmente curioso: interpreta las palabras del antiguo profeta como si hablaran de los acontecimientos que estaba viviendo la propia comunidad, con personajes misteriosos a los que solo se menciona por apodos, como el Maestro de Justicia o el Sacerdote Impío. Quiénes eran exactamente esos personajes sigue siendo, a día de hoy, objeto de debate.
+
+Había comentarios sobre libros de profetas, reglas de vida de una comunidad, himnos, oraciones, textos sobre el fin de los tiempos y una guerra final entre los hijos de la luz y los hijos de las tinieblas. Y textos que no forman parte de la Biblia que conocemos hoy, como el libro de Enoc, del que se encontraron fragmentos en arameo.
+
+El libro de Enoc merece una pausa. Es un texto antiguo que habla, entre otras cosas, de los ángeles caídos y de los gigantes que, según ese relato, nacieron de su unión con mujeres humanas. Ni la Biblia judía ni la mayoría de las Biblias cristianas lo incluyen. Pero hay una iglesia que sí lo considera parte de sus Escrituras: la Iglesia ortodoxa etíope. La misma que, como vimos en el vídeo del Arca de la Alianza, dice custodiar el arca en Aksum. Durante siglos, el texto completo de Enoc se conoció sobre todo gracias a las copias etíopes. Y en Qumrán aparecieron fragmentos en arameo mucho más antiguos, que demostraron que aquel libro ya se leía en Judea siglos antes de Cristo.
+
+Y había un manuscrito que no se parecía a ningún otro.
+
+En la cueva tres, los arqueólogos encontraron un rollo que no era de cuero ni de papiro. Era de metal. Una fina lámina de cobre, tan oxidada y frágil que no se podía desenrollar. Hubo que cortarla en tiras para poder leerla.
+
+Y cuando por fin se leyó, lo que apareció fue desconcertante. El rollo de cobre es una lista. Una lista de lugares donde, supuestamente, se habían escondido grandes cantidades de oro, plata y objetos valiosos. Con indicaciones del tipo: en tal lugar, a tantos codos, hay tal cantidad de plata.
+
+Un mapa del tesoro escrito hace dos mil años.
+
+¿Es real? ¿Es simbólico? ¿Es una leyenda? No hay consenso entre los especialistas sobre qué es exactamente ni para qué se escribió. Y por supuesto, nadie ha encontrado ninguno de esos tesoros.
+
+Ahora te pregunto a ti: si pudieras hacerle una sola pregunta a la persona que escribió el rollo de cobre, ¿cuál sería? Déjamela en los comentarios.
+
+Porque ahora llega la pregunta que más debate ha generado: ¿quién escondió todos estos manuscritos?
+
+En los años cincuenta, un arqueólogo y sacerdote dominico francés, Roland de Vaux, excavó las ruinas de Qumrán, junto a las cuevas. Y llegó a una conclusión que se hizo muy popular: allí había vivido una comunidad religiosa judía, probablemente los esenios, un grupo del que hablan autores antiguos. Según esta teoría, los esenios habrían copiado y guardado los manuscritos, y los habrían escondido en las cuevas ante la llegada de los romanos, durante la guerra del siglo primero.
+
+Las ruinas que excavó De Vaux no son pequeñas. Hay un sistema de acueductos que recogía el agua de las escasas lluvias del desierto y la llevaba hasta varios depósitos y cisternas. Hay piscinas escalonadas que muchos interpretan como baños rituales de purificación. Y hay una sala que De Vaux bautizó como scriptorium, el lugar donde, según él, los miembros de la comunidad copiaban los manuscritos. Un nombre que, por cierto, ha sido muy criticado, porque hace pensar en los monasterios medievales cristianos, algo que no tiene nada que ver con aquel lugar.
+
+Y hay un dato que encaja con la teoría de la ocultación. Según las excavaciones, el asentamiento fue destruido por los romanos alrededor del año sesenta y ocho después de Cristo, durante la primera gran revuelta judía contra Roma. Justo el momento en que alguien habría tenido motivos de sobra para esconder una biblioteca.
+
+Es una teoría muy atractiva. Una comunidad de copistas en el desierto, escondiendo su biblioteca ante la invasión.
+
+Pero tiene un problema: Roland de Vaux murió en 1971 sin publicar el informe final de sus excavaciones. Y muchas de sus interpretaciones se han discutido desde entonces.
+
+Pero no todos los especialistas la aceptan. Hay investigadores que sostienen que Qumrán fue la finca de una familia rica de Jerusalén. Otros creen que fue un lugar de fabricación de cerámica que no tenía nada que ver con ninguna secta. Y algunos piensan que los manuscritos vinieron de varias bibliotecas distintas, quizá de Jerusalén, y se escondieron en las cuevas durante la guerra.
+
+Así que, más de setenta años después, la pregunta de quién escondió los manuscritos sigue abierta.
+
+Y en ese hueco, como pasa siempre, crecieron los mitos.
+
+Durante décadas, la publicación de los manuscritos fue lentísima. Un pequeño grupo de especialistas controlaba el acceso a los fragmentos, y muchos textos tardaron muchísimo en publicarse. Y eso alimentó una sospecha: si no los publicaban, sería porque había algo que esconder.
+
+Así nacieron teorías de todo tipo. Que los manuscritos hablaban de Jesús.
+
+Y aquí hay un capítulo que nos toca muy de cerca. En 1972, un jesuita español, José O'Callaghan, especialista en papiros, propuso una idea explosiva. Según él, un pequeño fragmento de papiro en griego encontrado en la cueva siete, conocido como 7Q5, podía ser un trozo del Evangelio de Marcos. Si eso fuera cierto, significaría que había un texto cristiano escondido en Qumrán, y que los evangelios se habían escrito mucho antes de lo que se pensaba.
+
+La propuesta dio la vuelta al mundo. Pero había un problema: el fragmento es diminuto. Contiene apenas una veintena de letras, y varias de ellas son dudosas. Con tan pocas letras, se puede encajar el fragmento con distintos textos. Y la gran mayoría de los especialistas rechazó la identificación. Hoy, casi nadie la sostiene. Pero la historia de 7Q5 es un ejemplo perfecto de cómo un pequeño trozo de papiro puede convertirse en un gran misterio. Que contenían secretos sobre los orígenes del cristianismo. Que alguna institución religiosa estaba ocultándolos.
+
+La realidad fue mucho menos conspirativa. El retraso se debió, sobre todo, a un equipo pequeño, a un trabajo enormemente difícil y a una forma de trabajar muy cerrada. Y a principios de los años noventa, la situación cambió: se hicieron públicas fotografías de los manuscritos que se habían guardado como copia de seguridad en una biblioteca de California, y se amplió el acceso a los originales.
+
+¿Y qué pasó cuando todo el mundo pudo leerlos? Que no apareció ningún secreto escandaloso. Ningún manuscrito de Qumrán menciona a Jesús ni a los primeros cristianos. Los textos son anteriores o contemporáneos a los orígenes del cristianismo, y son enormemente valiosos para entender el judaísmo de aquella época, el mundo en el que nació el cristianismo. Pero no contienen ninguna revelación oculta sobre él.
+
+Hoy, de hecho, cualquiera puede ver muchos de ellos desde su casa. La Autoridad de Antigüedades de Israel ha digitalizado los manuscritos en alta resolución y los ha puesto en internet, en una biblioteca digital gratuita.
+
+Y la búsqueda de manuscritos en el desierto no terminó en los años cincuenta. En marzo de 2021, la Autoridad de Antigüedades de Israel anunció un hallazgo que hacía más de sesenta años que no se producía: nuevos fragmentos de manuscritos encontrados en una excavación arqueológica en el desierto de Judea.
+
+Aparecieron en una cueva con un nombre inquietante: la Cueva del Horror. Se la llamó así porque en ella aparecieron restos humanos de personas que se habían refugiado allí durante una revuelta judía contra Roma, en el siglo segundo. A principios de los años sesenta, el equipo de Yigael Yadin ya había recuperado en esa misma cueva trozos de un rollo. Pero no todos.
+
+Los nuevos fragmentos contenían versículos de dos profetas menores de la Biblia, Zacarías y Nahúm, escritos en griego. Y con un detalle fascinante: todo el texto estaba en griego excepto el nombre de Dios, que los copistas escribieron con letras hebreas antiguas. Un gesto de respeto que, dos mil años después, todavía se puede ver en la tinta.
+
+Es decir, que el desierto todavía no ha dicho su última palabra.
+
+Pero la historia de los manuscritos tiene un último giro. Y este no es un mito. Es un fraude.
+
+El enorme valor simbólico de los manuscritos del mar Muerto hizo que muchos coleccionistas quisieran tener su propio fragmento. Y donde hay demanda, aparecen los falsificadores.
+
+En Washington existe un gran museo dedicado a la Biblia. Entre 2009 y 2014, compró dieciséis fragmentos que, según le dijeron, procedían de los manuscritos del mar Muerto.
+
+En 2018, unas pruebas encargadas por el propio museo revelaron que al menos cinco de esos fragmentos eran falsos. Y en 2020, una investigación independiente llegó a una conclusión todavía más dura: los dieciséis eran falsificaciones. Según los investigadores, el material podía ser cuero antiguo, pero la tinta era moderna, manipulada para parecer antigua.
+
+El museo reconoció el error. Y decidió mantener los fragmentos expuestos, pero como lo que realmente son: una lección sobre las falsificaciones.
+
+Y aun así, los manuscritos auténticos siguen dando sorpresas. En 2025, un equipo de la Universidad de Groningen, en los Países Bajos, presentó un modelo de inteligencia artificial bautizado, precisamente, como Enoch. El sistema aprendió a estimar la antigüedad de un manuscrito a partir de su escritura, combinándola con dataciones por radiocarbono. Y sus resultados sugieren que algunos manuscritos podrían ser entre cincuenta y cien años más antiguos de lo que se pensaba. Uno de ellos, un fragmento del libro del Eclesiastés, podría datar de entre el año trescientos y el doscientos cuarenta antes de Cristo.
+
+Es decir: más de setenta años después de que un pastor lanzara una piedra a una cueva, los manuscritos del mar Muerto siguen reescribiendo su propia historia.
+
+Volvamos al anuncio del principio. Cuatro manuscritos de hace dos mil años, ofrecidos en un periódico de Nueva York como regalo ideal para una institución.
+
+Lo que había en esas páginas no era el secreto de ninguna conspiración. Era algo más valioso: una ventana directa al mundo en el que se escribieron y copiaron los textos sagrados. Un mundo de copistas pacientes, de comunidades que esperaban el fin de los tiempos, de textos que todavía no habían adoptado su forma definitiva.
+
+Los manuscritos del mar Muerto no demostraron que la Biblia sea verdad ni que sea mentira. Demostraron algo que, quizá, es todavía más asombroso: que un texto puede viajar dos mil años en una jarra de barro, escondido en la oscuridad de una cueva, y llegar hasta nosotros casi intacto.
+
+Si quieres seguir con otro de los grandes misterios de los textos sagrados, te dejo aquí nuestro vídeo sobre el Arca de la Alianza. El objeto que desapareció de la Biblia. Te espero allí.
+
+---
+
+## 2. INDICACIONES VISUALES (uso interno)
+
+| # | Bloque | Visual | Texto |
+|---|---|---|---|
+| 1 | Anuncio WSJ | Recreación de una página de periódico de 1954 (no reproducir la original sin licencia), zoom al anuncio. | 1 de junio de 1954 |
+| 2 | «Coche de segunda mano» | Contraste: anuncio de coche ilustrado junto al de los rollos. | — |
+| 3 | Promesa | Rollo antiguo que se desenrolla. Tres etiquetas: TEXTO / TRADICIÓN / EVIDENCIA. | — |
+| 4 | Bienvenida | Logo. | — |
+| 5 | Desierto de Judea | Ilustración de acantilados y el mar Muerto al fondo. | Qumrán |
+| 6 | La piedra | Piedra que entra en la oscuridad; sonido de cerámica rota. | — |
+| 7 | Jarras | Ilustración de jarras con rollos dentro. | — |
+| 8 | Belén / Kando | Tienda antigua ilustrada. | — |
+| 9 | Samuel / Sukenik | Dos siluetas; rótulos. | 1947 |
+| 10 | 1947-48 | Mapa de Jerusalén dividido; ambiente de tensión. | — |
+| 11 | Yadin | Silueta + rótulo «hijo de Sukenik». | 250.000 $ |
+| 12 | Santuario del Libro | Ilustración de la cúpula blanca del museo. | Museo de Israel |
+| 13 | 11 cuevas | Mapa con 11 puntos. | ~930 textos |
+| 14 | Cueva 4 | Animación de miles de fragmentos tipo puzle. | 15.000 fragmentos |
+| 15 | CTA suscripción | Botón breve. | — |
+| 16 | Copias a mano | Escriba ilustrado; línea temporal de copias. | — |
+| 17 | Isaías | Rollo larguísimo que cruza la pantalla con una regla de 7 m. | +7 m · ~1.000 años más antiguo |
+| 18 | Comparación | Dos textos lado a lado que coinciden en lo esencial. | — |
+| 19 | Variantes | Texto con pequeñas variantes resaltadas. | — |
+| 20 | Otros textos | Iconos: reglas, himnos, guerra luz/tinieblas, Enoc. | — |
+| 21 | Rollo de cobre | Lámina de metal cortada en tiras. | Cueva 3 |
+| 22 | Mapa del tesoro | Mapa antiguo con marcas «a tantos codos». | — |
+| 23 | CTA comentario | Pregunta en pantalla. | ¿Qué le preguntarías? |
+| 24 | De Vaux / esenios | Ruinas de Qumrán; comunidad de copistas ilustrada. | Hipótesis esenia |
+| 25 | Otras teorías | Tres iconos: finca, cerámica, bibliotecas de Jerusalén. | Debate abierto |
+| 26 | Mitos | Titulares inventados tachados (genéricos). | — |
+| 27 | Apertura 1991 | Biblioteca con cajas de fotografías que se abren. | Principios de los 90 |
+| 28 | Biblioteca digital | Pantalla de ordenador con un fragmento en alta resolución. | — |
+| 29 | Museo de la Biblia | Fragmentos en vitrina con un sello «FALSO». | 16 / 16 falsos |
+| 30 | Enoch IA | Escritura antigua analizada por una red neuronal ilustrada. | 2025 · Groningen |
+| 31 | Cierre | Vuelve el anuncio; transición a la jarra en la cueva. | — |
+| 32 | Pantalla final | Tarjeta del vídeo del Arca. | — |
+
+## 3. FUENTES
+Ver `INVESTIGACION.md`.
