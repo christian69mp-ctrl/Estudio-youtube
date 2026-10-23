@@ -1,0 +1,221 @@
+# GUION — El asesino de la baraja: 54 días de miedo en Madrid
+
+- Canal: Jager Crime (público: HistoriasProhibidas) · Tono: intriga documental sobria, respeto a las víctimas (D-TONO) · Voz sintética · ≤ 20 min
+- Versión: v1 · 2026-10-23
+- Entrega al editor: `LOCUCION_EDITOR.txt` (solo la sección 1)
+
+---
+
+## 1. LOCUCIÓN LIMPIA
+
+Tres de julio de 2003. Puertollano, Ciudad Real.
+
+Un hombre entra en una comisaría. Ha bebido. Se acerca al mostrador y dice algo que el agente que lo atiende no se toma en serio: que él es el hombre al que busca media España. El asesino que lleva meses aterrorizando Madrid.
+
+El agente no le cree. Es comprensible: ¿cuántos borrachos dicen cosas así un jueves por la noche?
+
+Pero unas horas después, ante la Policía Nacional, ese hombre empieza a dar detalles. Detalles que no habían salido en ningún periódico. Detalles que solo conocían los investigadores… y el autor de los crímenes.
+
+En ese momento, la policía entiende que el caso que no había conseguido resolver acaba de resolverse solo. El hombre más buscado de España no había sido detenido. Se había entregado.
+
+Durante cincuenta y cuatro días de aquel año, en Madrid y sus alrededores, seis personas murieron asesinadas y otras tres sobrevivieron de milagro. Víctimas que no tenían nada en común. En lugares distintos. Sin ningún motivo aparente. Y junto a algunas de ellas, un detalle que convirtió el caso en una obsesión nacional: un naipe de la baraja española.
+
+Hoy vas a entender quién era el llamado asesino de la baraja, por qué la policía no conseguía encontrarlo y por qué, al final, fue él quien decidió cuándo terminaba todo.
+
+Bienvenido a Historias Prohibidas. Y antes de empezar, una advertencia: en esta historia, los protagonistas no van a ser el asesino ni sus cartas. Van a ser las personas a las que les arrebató la vida.
+
+Veinticuatro de enero de 2003. Madrid. Calle Alonso Cano, en pleno barrio de Chamberí.
+
+Un hombre de cincuenta años, Juan Francisco Ledesma, está con su hijo, un niño de dos años. Es un momento cotidiano, de esos que se repiten miles de veces cada día en cualquier ciudad.
+
+Un hombre se le acerca. Y le dispara en la cabeza. Delante de su hijo.
+
+El agresor se marcha. Y deja a un niño pequeño junto a su padre, y a la policía ante un crimen que no tiene ninguna explicación. No hay robo. No hay discusión. No hay una relación conocida entre la víctima y nadie que pudiera querer hacerle daño.
+
+Durante los primeros días, los investigadores barajan todas las hipótesis habituales: un ajuste de cuentas, un problema personal, una venganza. Pero ninguna encaja.
+
+Lo que no saben todavía es que no se trata de un crimen aislado. Es el principio de algo mucho peor.
+
+Cinco de febrero de 2003. Las inmediaciones del aeropuerto de Barajas.
+
+Aparece el cuerpo de un joven de veintiocho años, Juan Carlos Martín Estacio, que trabajaba en la limpieza del aeropuerto. Ha muerto de un disparo en la cabeza.
+
+Y junto a él, los investigadores encuentran algo que no esperaban: una carta de la baraja española. Un as de copas.
+
+Las fuentes no coinciden del todo sobre en qué escena apareció el primer naipe ni sobre si aquella primera carta fue deliberada. Pero lo que sí está claro es lo que pasó después: el detalle se filtra, la prensa lo convierte en titular y el autor de los crímenes adopta esa marca como propia. A partir de ese momento, el naipe se convierte en una firma.
+
+Y una firma lo cambia todo. Porque una firma significa que hay alguien que quiere que se sepa que ha sido él.
+
+Los criminólogos distinguen entre dos cosas que a menudo se confunden. Por un lado, el método: lo que un delincuente hace para cometer el crimen y escapar. Por otro, la firma: algo que no necesita para cometerlo, pero que hace igualmente, porque le aporta algo a él. Una carta junto a una víctima no sirve para matar ni para huir. Sirve para otra cosa: para dejar una marca, para reclamar la autoría, para formar parte de la historia.
+
+Y eso, para los investigadores, era una pista sobre su personalidad. Alguien que firma sus crímenes quiere ser visto. Y quien quiere ser visto, tarde o temprano, puede cometer un error. O puede, como acabó ocurriendo, decidir mostrarse por sí mismo.
+
+Si te interesan los casos reales contados con rigor y respeto, suscríbete a Historias Prohibidas. Porque lo que viene ahora es la parte más difícil de esta historia.
+
+Poco después llega el ataque más brutal de todos.
+
+Alcalá de Henares. Un bar de barrio. Un lugar de los de toda la vida, de los que abren temprano y donde todo el mundo se conoce.
+
+Un hombre entra y empieza a disparar. Mata a dos personas: un chico joven y una mujer. La dueña del establecimiento recibe varios disparos, pero sobrevive.
+
+Y aquí hay un detalle importante: en este ataque no aparece ningún naipe. Pero el testimonio de la mujer que sobrevivió permite a la policía hacer algo que hasta entonces no había podido: elaborar un retrato robot del agresor. Por primera vez, el asesino tiene cara. Aunque esa cara todavía no tiene nombre.
+
+Imagina lo que significó para ella. Haber visto la muerte de cerca, haber perdido a dos personas en su propio local, y aun así tener la fuerza de describir con precisión al hombre que había disparado. Gracias a personas como ella, los investigadores empezaron a reducir el círculo.
+
+Lo que la policía no sabía es que el hombre del retrato no se parecía a ningún criminal conocido. No tenía antecedentes que lo hicieran aparecer en los archivos. Su cara no estaba en ninguna base de datos. Un retrato robot es muy útil cuando alguien ya ha pasado por una comisaría. Pero cuando el autor no ha tenido nunca problemas con la ley, puede cruzarse con cientos de personas sin que nadie lo relacione con aquel dibujo.
+
+Pero el miedo ya se había apoderado de Madrid.
+
+Los periódicos, las radios y los programas de televisión hablaban del caso a todas horas. El asesino de la baraja estaba en todas partes. Y había algo especialmente aterrador en él: no elegía a sus víctimas por nada que ellas hubieran hecho. Un hombre en la calle con su hijo. Un trabajador del aeropuerto. Unos clientes en un bar. Cualquiera podía ser el siguiente. Y cuando no sabes por qué alguien mata, tampoco sabes cómo protegerte.
+
+Los ataques continúan.
+
+En Arganda del Rey, al sureste de Madrid, el asesino ataca a otra pareja en un camino de tierra.
+
+En Tres Cantos, al norte, dispara contra un hombre y una mujer. El hombre muere en el acto. La mujer consigue escapar.
+
+Al final, el balance de aquellos cincuenta y cuatro días es devastador: seis personas asesinadas y tres que sobrevivieron a los disparos. Nueve vidas atravesadas por la misma pistola. Nueve familias que nunca volverán a ser las mismas.
+
+Hagamos una pausa para ordenar lo que había pasado hasta ese momento. Un hombre asesinado en Madrid delante de su hijo. Un joven trabajador asesinado cerca del aeropuerto, con un naipe junto a su cuerpo. Dos personas asesinadas y una mujer herida en un bar de Alcalá. Una pareja atacada en Arganda. Otra pareja atacada en Tres Cantos. Todo en apenas unas semanas. Todo con la misma pistola. Y ningún sospechoso.
+
+Y aquí llega la gran pregunta. ¿Por qué la policía no conseguía encontrarlo?
+
+La respuesta tiene varias partes. Y ninguna es sencilla.
+
+La primera es la más importante: el asesino no tenía ninguna relación con sus víctimas. Y eso, para un investigador, es lo peor que puede pasar. Porque la inmensa mayoría de los crímenes se resuelven buscando en el entorno de la víctima: su familia, su trabajo, sus amigos, sus enemigos. Cuando no hay entorno, no hay hilo del que tirar.
+
+La segunda parte de la respuesta estaba en el arma. Los balísticos llegaron a una conclusión clara: todos los disparos salían de la misma pistola. Y no era una pistola cualquiera. Era una Tokarev, un modelo de fabricación soviética muy poco habitual en España.
+
+Ese dato era una pista muy valiosa. Si el arma venía del este de Europa, quizá el asesino también tenía alguna relación con esa zona. Los investigadores empezaron a buscar en esa dirección: personas con vínculos con países del Este, y también militares españoles que hubieran participado en misiones internacionales en esa región.
+
+Y ahí estaba la respuesta. Pero encontrarla entre miles de nombres no era sencillo.
+
+Y había una cuarta dificultad, mucho menos visible: el tiempo. Los crímenes se sucedían a gran velocidad, en apenas unas semanas. Cada nuevo ataque abría una nueva escena, nuevos testigos, nuevas pruebas que analizar. Los investigadores trabajaban contra el reloj, sabiendo que, mientras no tuvieran un nombre, podía haber otra víctima en cualquier momento.
+
+Cuando no hay relación entre el autor y las víctimas, los investigadores recurren a otras herramientas. Analizan dónde y cuándo se producen los crímenes, buscando un patrón geográfico que indique dónde puede vivir o moverse el autor. Comparan las balas y los casquillos para saber si se trata de la misma arma. Y construyen un perfil: qué tipo de persona actúa así, qué conocimientos tiene, qué experiencia. En el caso de la baraja, todas esas herramientas apuntaban en la misma dirección. Pero ninguna podía, por sí sola, dar un nombre y una dirección.
+
+La tercera parte es el propio asesino. Actuaba en lugares distintos, a horas distintas, sin un patrón geográfico claro. Llegaba, disparaba y se marchaba. Y en algunos casos, según se ha contado, tomaba precauciones para dejar el menor número posible de pruebas.
+
+Así que la policía tenía un arma identificada, un retrato robot, una firma en forma de naipe y un perfil que empezaba a dibujarse: el de alguien con conocimientos militares. Pero no tenía un nombre.
+
+Y entonces, el tres de julio, el nombre llegó solo.
+
+Volvamos a la comisaría de Puertollano.
+
+El hombre que se presenta aquella noche se llama Alfredo Galán Sotillo. Es natural de Puertollano. Y es exmilitar. Había estado destinado en misiones en Bosnia, y de allí, según la investigación, se había traído la pistola con la que mató a seis personas.
+
+Llega bebido. Un agente de la Policía Local, según se ha contado, no le da credibilidad. Pero horas después, ya ante la Policía Nacional, confiesa. Y lo más importante: aporta detalles que solo podía conocer el autor. Entre ellos, una pequeña marca en el reverso de las cartas que nunca se había hecho pública.
+
+No había duda. El asesino de la baraja estaba sentado delante de ellos.
+
+Y entonces, al reconstruir su vida, los investigadores descubrieron hasta qué punto había estado a la vista de todos.
+
+Alfredo Galán había entrado en el Ejército en 1998. Llegó a cabo en un regimiento mecanizado con base en Madrid y participó en misiones en Bosnia. Era, sobre el papel, un militar profesional con experiencia internacional. Exactamente el perfil que los investigadores habían empezado a buscar.
+
+Pero su historia tenía otra cara. Según se ha publicado, había sido ingresado en el Hospital Central de la Defensa, donde se le diagnosticó un trastorno de ansiedad. Le concedieron la baja con asistencia psiquiátrica. Y, según las crónicas del caso, fue precisamente en ese periodo, entre visita y visita al médico, cuando se produjeron los primeros crímenes.
+
+Y hay un dato todavía más inquietante. En marzo de 2003, mientras media España hablaba del asesino de la baraja y la policía seguía buscándolo, Alfredo Galán empezó a trabajar como vigilante de seguridad en Madrid.
+
+Piénsalo. El hombre al que buscaban estaba trabajando, precisamente, en un puesto pensado para proteger a los demás. Llevaba un uniforme. Saludaba a la gente. Veía, como todo el mundo, las noticias sobre sus propios crímenes.
+
+Así de invisible puede ser alguien que no tiene ninguna relación con sus víctimas.
+
+Pero aquí hay que hacer una precisión importante. Un diagnóstico de ansiedad no convierte a nadie en un asesino. La inmensa mayoría de las personas que sufren ansiedad, o que han pasado por una baja psiquiátrica, jamás harían daño a nadie. Y, como veremos enseguida, la justicia concluyó que Alfredo Galán sabía perfectamente lo que hacía.
+
+Y aquí conviene detenerse un momento. Porque el final de este caso deja una sensación incómoda. Si aquella noche no hubiera ido a Puertollano, ¿cuánto tiempo más habría pasado hasta que lo encontraran? ¿Habría habido más víctimas? Nadie puede saberlo. Lo que sí sabemos es que la investigación estaba cerrando el círculo, con un arma identificada y un perfil militar. Pero el nombre no llegó por la investigación. Llegó por él.
+
+¿Por qué se entregó? Es la pregunta que todo el mundo se hizo. Y las respuestas que se han publicado a lo largo de los años no son nada tranquilizadoras.
+
+Según sus propias declaraciones recogidas en las crónicas del caso, le inquietaba que no lo atraparan y que la gente dejara de hablar de él. Es decir: según esa versión, no se entregó por remordimiento. Se entregó porque el foco se estaba apagando.
+
+Pero sus versiones no se quedaron ahí. Tras confesar ante la policía, ya ante la jueza, cambió de discurso y aseguró que era inocente. Una confesión llena de detalles que solo podía conocer el autor, seguida de una negación. Un patrón que, para los investigadores, no restaba fuerza a las pruebas.
+
+Y más adelante, en el juicio, dio otra versión: aseguró que había actuado bajo la presión de un grupo neonazi que lo estaba extorsionando. El tribunal no le dio credibilidad.
+
+Para muchos especialistas que han analizado el caso, el perfil que se dibuja es el de una persona con una enorme necesidad de atención, que había encontrado en el miedo de los demás una forma de sentirse importante. Y eso es, precisamente, lo que hace tan peligroso convertir a alguien así en un personaje. Por eso, en este vídeo, no vamos a reproducir sus frases ni a convertir sus cartas en un misterio fascinante. Lo único fascinante de esta historia es lo que hicieron los demás.
+
+Y ahora quiero preguntarte algo a ti: ¿recuerdas el miedo que se vivió en Madrid en aquellos meses de 2003? Si lo viviste, o si alguien de tu familia te lo contó, déjamelo en los comentarios. Esas memorias también forman parte de esta historia.
+
+Pero antes, falta una pregunta: ¿qué pasó con él después?
+
+El juicio comenzó en febrero de 2005, en la Audiencia Provincial de Madrid. Y una de las grandes cuestiones que tuvo que resolver fue la de su estado mental. ¿Estaba en condiciones de comprender lo que hacía? ¿Podía ser considerado responsable de sus actos?
+
+Varios peritos psiquiatras lo examinaron. Y la conclusión que se ha recogido es clara: no se le diagnosticó ninguna enfermedad mental que le impidiera entender lo que hacía. Algunos especialistas que han analizado el caso lo han descrito como un perfil psicopático y narcisista: alguien con un profundo desprecio por la vida humana, que mataba, según esa interpretación, para demostrar que podía hacerlo.
+
+Y aquí es interesante compararlo con otro caso que marcó la historia criminal de España. En los años setenta, Manuel Delgado Villegas, conocido como el Arropiero, fue detenido y llegó a atribuírsele un gran número de muertes, aunque la policía solo pudo investigar una parte y la cifra real nunca se aclaró. Pero su caso nunca llegó a juicio: se le diagnosticó una enfermedad mental y la justicia ordenó su internamiento en un centro especializado.
+
+Con Alfredo Galán ocurrió exactamente lo contrario. No hubo ningún diagnóstico que le eximiera de responsabilidad. Se sentó en el banquillo y fue juzgado como alguien plenamente consciente de sus actos.
+
+Esto es importante, porque derriba uno de los grandes mitos sobre los asesinos en serie. No eran personas que no sabían lo que hacían. En el caso de Galán, la justicia consideró que sabía perfectamente lo que hacía. Y que eligió hacerlo.
+
+Así que la Audiencia Provincial de Madrid lo juzgó por seis asesinatos y tres asesinatos en grado de tentativa. La condena fue de ciento cuarenta y dos años y tres meses de prisión.
+
+Era la pena máxima posible. Y el Tribunal Supremo la ratificó después.
+
+Ciento cuarenta y dos años. Una cifra que suena a cadena perpetua. Pero en España, por la ley que estaba en vigor cuando cometió los crímenes, el tiempo máximo de cumplimiento efectivo era de veinticinco años. Y eso significa que, por mucho que la condena sume más de un siglo, el tiempo real que pasará en prisión tiene un límite.
+
+Según algunas informaciones, su salida podría producirse hacia el año 2028.
+
+¿Por qué esa diferencia tan enorme entre la condena y el tiempo real? En España, cuando alguien es condenado por muchos delitos, las penas se suman sobre el papel, pero la ley establece un límite máximo de cumplimiento. Es una regla pensada para que ninguna condena sea, en la práctica, perpetua. En 2015, España introdujo en su Código Penal la prisión permanente revisable para los delitos más graves. Pero las leyes penales no se aplican hacia atrás cuando perjudican al condenado. Los crímenes de 2003 se juzgaron con las reglas de 2003.
+
+Para las familias de las víctimas, esa realidad es muy difícil de aceptar. Ellas no tienen un límite de veinticinco años para su dolor.
+
+Veinte años después de los crímenes, en 2023, Netflix estrenó una serie documental sobre el caso, Baraja: la firma del asesino. Tres capítulos en los que, por fin, tomaban la palabra también los supervivientes y los familiares. Y eso, quizá, fue lo más valioso de todo: escuchar a quienes durante años habían sido solo un nombre en una noticia.
+
+Volvamos al principio. Una comisaría de Puertollano. Un hombre que ha bebido y que dice ser el asesino más buscado de España. Un agente que no le cree.
+
+Esa escena resume muy bien lo que fue este caso. Un asesino que actuó sin motivo, contra personas elegidas al azar, y que durante cincuenta y cuatro días mantuvo en vilo a millones de personas. Una investigación que tenía muchas piezas, el arma, el retrato, la firma, el perfil militar, pero a la que le faltó el tiempo para unirlas. Y un final que no llegó por un gran golpe policial, sino por la decisión del propio culpable.
+
+¿Qué nos deja esta historia?
+
+Nos deja una lección sobre lo difícil que es atrapar a alguien que no tiene relación con sus víctimas. Nos deja una reflexión sobre la responsabilidad de los medios. Durante aquellos meses, el apodo, las cartas y el misterio ocuparon horas y horas de televisión. Y, según sus propias declaraciones recogidas después, lo que más le inquietaba era que dejaran de hablar de él. Es decir: cada titular sobre las cartas alimentaba exactamente lo que el asesino buscaba. Atención. Hoy, muchos expertos en criminología recomiendan contar estos casos de otra manera: con los datos necesarios para informar, pero sin convertir al autor en una celebridad ni a sus actos en un juego. Y, sobre todo, nos deja seis nombres que merecen ser recordados por algo más que por la forma en que murieron.
+
+Y nos deja también a los supervivientes. Tres personas que recibieron los disparos y siguieron adelante, con heridas en el cuerpo y otras que no se ven. Personas que tuvieron que volver a abrir un negocio, a caminar por una calle o a subirse a un coche sabiendo lo que les había pasado. Su valentía al declarar fue decisiva para el caso. Y su forma de seguir viviendo después también merece ser contada.
+
+Juan Francisco Ledesma, que estaba en la calle con su hijo. Juan Carlos Martín Estacio, que iba a trabajar. Y cuatro personas más que, como ellos, solo estaban viviendo su vida.
+
+Esa es la verdadera historia del asesino de la baraja. No la de las cartas. La de las personas.
+
+Si quieres conocer otro caso español en el que la investigación tuvo que reconstruir una historia llena de silencios, te dejo aquí el crimen de los marqueses de Urquijo. Te espero allí.
+
+---
+
+## 2. INDICACIONES VISUALES (uso interno)
+
+| # | Bloque | Visual | Texto |
+|---|---|---|---|
+| 1 | Puertollano | Ilustración nocturna de una comisaría de pueblo; luz fluorescente. | Puertollano · 3/07/2003 |
+| 2 | El agente no le cree | Mostrador visto desde detrás; silueta borrosa. | — |
+| 3 | Detalles | Carpeta de investigación con hojas tachadas en negro. | Detalles nunca publicados |
+| 4 | 54 días | Calendario de enero a marzo marcándose. | 54 días |
+| 5 | Naipe | Reverso de un naipe genérico (no el real). **No mostrar el as de copas como símbolo heroico.** | — |
+| 6 | Bienvenida y advertencia | Logo; rótulo sobre las víctimas. | — |
+| 7 | 24 de enero | Calle de Madrid ilustrada por la mañana; sin recrear el disparo. | Madrid · Chamberí |
+| 8 | Hipótesis | Pizarra con hipótesis que se tachan. | — |
+| 9 | 5 de febrero | Ilustración del entorno de Barajas al amanecer. | Barajas |
+| 10 | Primer naipe | Bolsa de pruebas con una carta; rótulo «las fuentes no coinciden». | — |
+| 11 | Firma | Titulares de prensa recreados (sin reproducir portadas reales). | — |
+| 12 | CTA suscripción | Botón breve, sobrio. | — |
+| 13 | Alcalá | Fachada ilustrada de un bar de barrio; luz fría. Sin recrear el ataque. | Alcalá de Henares |
+| 14 | Retrato robot | Animación de un retrato robot genérico que se va dibujando (no el real). | Retrato robot |
+| 15 | Miedo en Madrid | Collage de radio, televisión y periódicos. | — |
+| 16 | Arganda / Tres Cantos | Mapa de la Comunidad de Madrid con puntos. | Arganda del Rey · Tres Cantos |
+| 17 | Balance | Seis velas y tres siluetas. | 6 · 3 |
+| 18 | Sin relación | Diagrama de víctima → entorno con todas las líneas vacías. | — |
+| 19 | Balística | Ilustración genérica de proyectiles comparados al microscopio. | Misma pistola |
+| 20 | Tokarev | Silueta genérica (sin detalle técnico) + mapa del este de Europa. | Fabricación soviética |
+| 21 | Militares | Archivador con miles de fichas. | — |
+| 22 | Sin nombre | Retrato robot con un signo de interrogación. | — |
+| 23 | Alfredo Galán | **Sin foto en primer plano** salvo licencia; nombre en rótulo pequeño. | Exmilitar · Bosnia |
+| 24 | Marca en las cartas | Reverso de carta con un punto difuminado. | Solo lo sabía el autor |
+| 25 | Por qué se entregó | Foco que se apaga. | — |
+| 26 | CTA comentario | Pregunta en pantalla. | ¿Recuerdas aquel miedo? |
+| 27 | Juicio 2005 | Mazo y cifra. | 142 años · máximo 25 |
+| 28 | Familias | Fondo neutro, frase en pantalla. | — |
+| 29 | Netflix 2023 | Rótulo con el nombre de la serie (sin logotipo si no hay permiso). | — |
+| 30 | Lección | Tres iconos: entorno, medios, nombres. | — |
+| 31 | Nombres | Nombres de las dos víctimas identificadas sobre fondo negro + «y cuatro personas más». | — |
+| 32 | Pantalla final | Tarjeta del vídeo de Urquijo. | — |
+
+## 3. FUENTES
+Ver `INVESTIGACION.md`.
