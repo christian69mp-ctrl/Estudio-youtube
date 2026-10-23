@@ -6,9 +6,9 @@
 - ID: `archivos-sagrados`
 - Nombre: Archivos Sagrados
 - Nombres históricos / alias: —
-- Enlace del canal: pendiente de confirmar
+- Enlace del canal: https://www.youtube.com/@Archivosagrados69 (nombre público: «Archivos Sagrados») [DATO CHRISTIAN, verificado por API 2026-10-23]
 - Activo hoy: **Activo** [DATO CHRISTIAN, 2026-10-22].
-- Suscriptores, monetización, rendimiento: pendiente de confirmar (no deducir)
+- Instantánea pública 2026-10-23: 5 subs · 350 vistas · 3 vídeos (ver `METRICAS/ANALISIS_PUBLICO_2026-10-23.md`). Monetización: pendiente de confirmar.
 
 ## Temática (histórica)
 Religión, relatos bíblicos, interpretaciones y misterios asociados a textos sagrados. [DATO CHRISTIAN]

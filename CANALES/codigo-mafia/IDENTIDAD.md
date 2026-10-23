@@ -6,9 +6,9 @@
 - ID: `codigo-mafia`
 - Nombre: Código Mafia
 - Nombres históricos / alias: —
-- Enlace del canal: pendiente de confirmar
+- Enlace del canal: https://www.youtube.com/@codigomafia69 (nombre público: «Codigo Mafia») [DATO CHRISTIAN, verificado por API 2026-10-23]
 - Activo hoy: **Activo** [DATO CHRISTIAN, 2026-10-22].
-- Suscriptores, monetización, rendimiento: pendiente de confirmar (no deducir)
+- Instantánea pública 2026-10-23: 349 subs · 62.117 vistas · 25 vídeos (ver `METRICAS/ANALISIS_PUBLICO_2026-10-23.md`). Monetización: pendiente de confirmar.
 
 ## Temática (histórica)
 Mafias, organizaciones criminales, códigos internos, cibermafias y redes de dinero. [DATO CHRISTIAN]

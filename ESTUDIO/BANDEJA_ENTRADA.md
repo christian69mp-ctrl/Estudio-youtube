@@ -6,11 +6,11 @@ Material, ideas y dudas sin clasificar. Al procesar un elemento, muévelo a su c
 
 ### 2026-10-22 — Dudas abiertas del arranque
 - [x] Canales activos: Jager Aviación, Jager Crime, Archivos Sagrados, Código Mafia. Jager Explica inactivo, se reactivará. → procesado en INDICE_CANALES.md
-- [ ] Historias Prohibidas: ¿nombre anterior de Jager Crime o canal distinto? (el activo es Jager Crime)
+- [x] Historias Prohibidas = nombre público de Jager Crime (2026-10-23).
 - [ ] Jager Explica: enfoque y fecha de reactivación (hipotéticos, ciencia, economía o una combinación).
 - [x] Jager Vibes, Plays, Bomb, Retro, Relaja2: no mencionados como activos → se tratan como inactivos.
 - [ ] Canal y vídeo con el que empezamos.
-- [ ] Enlaces de los canales y métricas recientes.
+- [x] Enlaces de los canales (2026-10-23). - [ ] Capturas de YouTube Studio (prioridad: largos de Jager Aviación).
 - [ ] Ritmo de locución real de Christian (para calibrar extensión de guiones).
 - [ ] Herramientas de producción (locución, edición, generación de imágenes) para adaptar los entregables.
 

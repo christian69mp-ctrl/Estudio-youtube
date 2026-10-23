@@ -15,3 +15,10 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 - Por qué: Christian indicó los canales activos el 2026-10-22.
 - Sustituye a: —
 - Alcance: canal
+
+### D-003 — 2026-10-23 — Jager Crime = HistoriasProhibidas
+- Estado: aprobada (dato de Christian, verificado por API)
+- Qué se decidió: tratar «Jager Crime» y «HistoriasProhibidas» como el mismo canal. El ID interno sigue siendo `jager-crime`; en textos públicos (títulos, descripciones) se usa el nombre público del canal.
+- Por qué: Christian lo confirmó al pasar la URL.
+- Sustituye a: la duda abierta registrada en D-002.
+- Alcance: canal

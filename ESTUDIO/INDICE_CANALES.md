@@ -7,7 +7,7 @@ Actualizado: 2026-10-22. Estado de actividad confirmado por Christian el 2026-10
 | ID | Nombre | Nombres históricos | Temática | Estado | Carpeta |
 |---|---|---|---|---|---|
 | `jager-aviacion` | Jager Aviación | MrTops | Accidentes e incidentes aéreos, explicaciones de aviación | **Activo** | `CANALES/jager-aviacion/` |
-| `jager-crime` | Jager Crime | ¿Historias Prohibidas? (pendiente) | True crime y crímenes de España | **Activo** | `CANALES/jager-crime/` |
+| `jager-crime` | Jager Crime (público: HistoriasProhibidas) | — | True crime y crímenes de España | **Activo** | `CANALES/jager-crime/` |
 | `archivos-sagrados` | Archivos Sagrados | — | Relatos bíblicos, interpretaciones, misterios de textos sagrados | **Activo** | `CANALES/archivos-sagrados/` |
 | `codigo-mafia` | Código Mafia | — | Mafias, estructuras criminales, cibermafias, redes de dinero | **Activo** | `CANALES/codigo-mafia/` |
 | `jager-explica` | Jager Explica | — | Explicaciones animadas con personaje propio | **Inactivo — reactivación prevista** | `CANALES/jager-explica/` |
@@ -18,8 +18,17 @@ Jager Vibes · Jager Plays · Jager Bomb · Jager Retro · Relaja2. Sin carpeta 
 
 ## Pendientes de confirmar
 1. Grafía: Christian escribe "jager" en todos los canales; se adopta **Jager** (antes figuraba "Jagger Aviación"). Comprobar con el nombre visible en YouTube.
-2. Historias Prohibidas: ¿nombre anterior de Jager Crime o canal distinto?
+2. ~~Historias Prohibidas~~ RESUELTO 2026-10-23: es el nombre público de Jager Crime (@historiasprohibidas-s5h).
 3. Jager Explica: enfoque actual y fecha de reactivación.
 
 ## Regla para añadir un canal
 Crear `CANALES/[id]/` con los 7 archivos base + `METRICAS/` (copiar estructura de un canal existente), añadir fila aquí y registrar D-001 en su `DECISIONES.md`.
+
+## URL y datos públicos (2026-10-23)
+| ID | URL | Subs | Vistas | Vídeos |
+|---|---|---|---|---|
+| jager-aviacion | https://www.youtube.com/@jageraviacion | 1.140 | 595.155 | 88 |
+| codigo-mafia | https://www.youtube.com/@codigomafia69 | 349 | 62.117 | 25 |
+| jager-crime | https://www.youtube.com/@historiasprohibidas-s5h | 192 | 32.668 | 34 |
+| archivos-sagrados | https://www.youtube.com/@Archivosagrados69 | 5 | 350 | 3 |
+| jager-explica | https://www.youtube.com/@jagerexplica | 78 | 35.915 | 44 |

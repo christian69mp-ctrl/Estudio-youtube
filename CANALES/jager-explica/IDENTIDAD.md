@@ -6,9 +6,9 @@
 - ID: `jager-explica`
 - Nombre: Jager Explica
 - Nombres históricos / alias: —
-- Enlace del canal: pendiente de confirmar
+- Enlace del canal: https://www.youtube.com/@jagerexplica (nombre público: «JagerExplica») [DATO CHRISTIAN, verificado por API 2026-10-23]
 - Activo hoy: **Inactivo, reactivación prevista** [DATO CHRISTIAN, 2026-10-22]. Fecha de reactivación y enfoque: pendientes.
-- Suscriptores, monetización, rendimiento: pendiente de confirmar (no deducir)
+- Instantánea pública 2026-10-23: 78 subs · 35.915 vistas · 44 vídeos (ver `METRICAS/ANALISIS_PUBLICO_2026-10-23.md`). Monetización: pendiente de confirmar.
 
 ## Temática (histórica)
 Explicaciones mediante animación y un personaje propio. [DATO CHRISTIAN]

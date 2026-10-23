@@ -6,9 +6,9 @@
 - ID: `jager-aviacion`
 - Nombre: Jager Aviación
 - Nombres históricos / alias: MrTops (nombre anterior) [DATO CHRISTIAN]. Grafía "Jager" indicada por Christian el 2026-10-22 (antes figuraba "Jagger"); comprobar que coincide con el nombre visible en YouTube.
-- Enlace del canal: pendiente de confirmar
+- Enlace del canal: https://www.youtube.com/@jageraviacion (nombre público: «JagerAviación») [DATO CHRISTIAN, verificado por API 2026-10-23]
 - Activo hoy: **Activo** [DATO CHRISTIAN, 2026-10-22].
-- Suscriptores, monetización, rendimiento: pendiente de confirmar (no deducir)
+- Instantánea pública 2026-10-23: 1.140 subs · 595.155 vistas · 88 vídeos (ver `METRICAS/ANALISIS_PUBLICO_2026-10-23.md`). Monetización: pendiente de confirmar.
 
 ## Temática (histórica)
 Reconstrucciones de accidentes aéreos, incidentes y explicaciones de aviación. [DATO CHRISTIAN]

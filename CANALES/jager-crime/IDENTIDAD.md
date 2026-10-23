@@ -5,10 +5,10 @@
 ## Datos básicos
 - ID: `jager-crime`
 - Nombre: Jager Crime
-- Nombres históricos / alias: "Historias Prohibidas" figuraba en el contexto histórico; Christian nombra el canal activo como "Jager Crime" (2026-10-22). Pendiente de confirmar si Historias Prohibidas fue su nombre anterior o un canal distinto. Hasta entonces: no duplicar proyectos ni métricas.
-- Enlace del canal: pendiente de confirmar
+- Nombres históricos / alias: "Jager Crime" es el nombre interno que usa Christian; el nombre público del canal es **HistoriasProhibidas** (confirmado por Christian y por API, 2026-10-23). Es un solo canal. Serie existente: «LA ESPAÑA MALDITA».
+- Enlace del canal: https://www.youtube.com/@historiasprohibidas-s5h (nombre público: «HistoriasProhibidas») [DATO CHRISTIAN, verificado por API 2026-10-23]
 - Activo hoy: **Activo** [DATO CHRISTIAN, 2026-10-22].
-- Suscriptores, monetización, rendimiento: pendiente de confirmar (no deducir)
+- Instantánea pública 2026-10-23: 192 subs · 32.668 vistas · 34 vídeos (ver `METRICAS/ANALISIS_PUBLICO_2026-10-23.md`). Monetización: pendiente de confirmar.
 
 ## Temática (histórica)
 True crime, reconstrucción de casos y crímenes de España. [DATO CHRISTIAN]
