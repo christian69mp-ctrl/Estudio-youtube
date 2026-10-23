@@ -20,5 +20,8 @@ Material, ideas y dudas sin clasificar. Al procesar un elemento, muévelo a su c
 - RESUELTO 2026-10-23: clave de YouTube Data API v3 (proyecto Google Cloud `estudio-youtube`, restringida a esa API) guardada como **secreto de red** del entorno "Predeterminado" para `www.googleapis.com`, cabecera `X-Goog-Api-Key`. Llamadas sin parámetro `key`; la clave no es visible en la sesión. Prueba OK el 2026-10-23. Ver D-ESTUDIO-002.
 - Método previsto: por canal, inventario de vídeos (título, fecha, duración, visualizaciones públicas); comparación con la mediana del propio canal; 3–5 competidores por canal con datos públicos; patrones de tema, ángulo, título y miniatura marcados como indicio o hipótesis. Sin métricas privadas de terceros.
 
+### 2026-10-23 — Guiones hechos sin publicar
+- [ ] Christian tiene AF447 (no aparece entre los vídeos públicos). Pedir lista de guiones o vídeos ya hechos y no publicados de cada canal para no repetir (posible origen: chats «Guion mafia», «Guiones mister tops», «Guiones historias» en claude.ai).
+
 ## Procesado
 - 2026-10-22 — Ubicación del estudio: repositorio propio `estudio-youtube`, separado de Reino Peludos (decisión de Christian). → ESTADO_SESION.md

@@ -7,7 +7,7 @@
 ## Temas propuestos (detalle en el IDEAS.md de cada canal)
 | Canal | ID | Tema | Estado |
 |---|---|---|---|
-| Jager Aviación | ~~JA-I001~~ → JA-I003 | ~~British Airways 5390~~ (ya hecho como short) → **Air France 447** | propuesta v2 |
+| Jager Aviación | ~~JA-I001~~ → ~~JA-I003~~ → JA-I004 | ~~BA5390~~ (short publicado) → ~~Air France 447~~ (Christian ya lo tiene) → **Japan Airlines 123** | propuesta v3 |
 | Jager Aviación | JA-I002 | Spanair JK5022 | propuesta (no cubierto) |
 | Código Mafia | CM-I001 | 'Ndrangheta, ángulo España | propuesta v2 |
 | Código Mafia | CM-I002 | Complejos de ciberestafa, ángulo víctima/vínculo hispano | propuesta v2 |
