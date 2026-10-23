@@ -8,10 +8,9 @@
 - Último punto confirmado: 10 guiones v2 (≥3.750) + títulos y miniaturas definitivos (ESTUDIO/PEDIDO_01_TITULOS_Y_MINIATURAS.md). Norma D-ESTUDIO-003.
 
 ## Siguiente paso concreto
-1. Christian genera las miniaturas en Gemini y sube los vídeos.
-2. Registrar fecha real de publicación de cada vídeo (estado «publicado» solo con confirmación).
-3. A las 48 h / 7 días: capturas de Studio para analizar.
-4. Confirmar diseño del personaje de Jager Explica.
+1. Christian manda captura de Studio → Ganar dinero (Código Mafia y Jager Aviación) y la capacidad semanal del editor.
+2. Aprobar el plan de monetización y los temas de la serie «Mafias en España».
+3. Publicar el PED-01.
 
 ## Preguntas abiertas
 Ver `BANDEJA_ENTRADA.md` → "Dudas abiertas del arranque".

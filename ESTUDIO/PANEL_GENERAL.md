@@ -22,9 +22,9 @@ Actualizado: 2026-10-23 (inventario público y competencia).
 - `ESTUDIO/PEDIDO_01.md`: 10 guiones (2 por canal) **listos para el editor**. Archivo único: `ESTUDIO/PEDIDO_01_GUIONES_COMPLETOS.txt`.
 
 ## Prioridades
-1. Christian aprueba los temas v2 de PED-01 (y duración, locución, fecha).
-2. Capturas de YouTube Studio de 4 largos de Jager Aviación (Helios, Germanwings, 11-S, IC605): impresiones, CTR, duración media, fuentes de tráfico.
-3. Definir enfoque de Jager Explica (recomendado: hipotéticos historia + ciencia).
+1. **Monetizar al menos un canal antes de Navidad** (plan: `ESTUDIO/PLAN_MONETIZACION_2026.md`; candidato: Código Mafia). Fecha límite dura: solicitar antes del 1/02/2027.
+2. Publicar el PED-01 (10 guiones, títulos y miniaturas listos).
+3. Capturas de Studio → Ganar dinero de Código Mafia y Jager Aviación.
 
 ## Bloqueos
 - Sin datos de YouTube Studio. Hallazgo principal: en Jager Aviación los largos recientes apenas tienen vistas (4–30) mientras los shorts sostienen el canal.
