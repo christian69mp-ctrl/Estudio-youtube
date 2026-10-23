@@ -8,9 +8,9 @@
 - Último punto confirmado: 10 guiones v2 (≥3.750) + títulos y miniaturas definitivos (ESTUDIO/PEDIDO_01_TITULOS_Y_MINIATURAS.md). Norma D-ESTUDIO-003.
 
 ## Siguiente paso concreto
-1. Christian manda captura de Studio → Ganar dinero (Código Mafia y Jager Aviación) y la capacidad semanal del editor.
-2. Aprobar el plan de monetización y los temas de la serie «Mafias en España».
-3. Publicar el PED-01.
+- **EN ESPERA por indicación de Christian.** Va a subir dos de los vídeos del PED-01 y ponerlos en producción (pendiente de confirmar cuáles y sus fechas de publicación).
+- No empezar la serie «Mafias en España» hasta nueva orden.
+- Cuando vuelva: registrar los dos vídeos publicados, pedir capturas de Studio → Ganar dinero (Código Mafia y Jager Aviación) y la capacidad semanal del editor.
 
 ## Preguntas abiertas
 Ver `BANDEJA_ENTRADA.md` → "Dudas abiertas del arranque".

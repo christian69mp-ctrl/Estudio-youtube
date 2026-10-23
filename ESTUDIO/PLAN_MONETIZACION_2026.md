@@ -1,6 +1,6 @@
 # PLAN DE MONETIZACIÓN — objetivo: al menos 1 canal monetizado antes de Navidad 2026
 
-Creado: 2026-10-23 · Estado: **propuesto, pendiente de aprobación de Christian**
+Creado: 2026-10-23 · Estado: **aprobado y en espera** (2026-10-23). No empezar hasta que Christian lo indique.
 
 ## Requisitos verificados (2026-10-23)
 - **Programa de Partners completo (ingresos por anuncios):** 1.000 suscriptores + 4.000 horas de visualización públicas válidas en los últimos 12 meses (los Shorts NO cuentan para las horas) **o** 10 M de visualizaciones de Shorts en 90 días. Además: sin advertencias activas, verificación en dos pasos, AdSense vinculado, cumplir políticas. Tras solicitarlo, la revisión suele tardar alrededor de un mes. Fuentes: vidIQ, TubeAnalytics (secundarias).
