@@ -126,6 +126,8 @@ Objetivo de diseño: retención alta (meta de Christian: ≥ 50 %). Es un objeti
    - **Al editor:** `LOCUCION_EDITOR.txt` = solo el texto para la voz sintética. Sin títulos, sin notas, sin marcas, sin bloques recortables, sin nada de revisión. Solo se genera con todas las afirmaciones confirmadas o retiradas del texto.
    - **Interno (estudio):** `GUION.md` con locución, indicaciones visuales, fuentes y afirmaciones a verificar.
 
+**Extensión (Christian, 2026-10-23: «cumple lo prometido»):** objetivo firme 3.600–3.900 palabras de locución; no entregar por debajo de 3.500 salvo que falten datos verificados, y entonces avisar.
+
 **Extensión con voz sintética:** a 150–160 palabras/min, 4.000 palabras ≈ 25–27 min; a 190–200 palabras/min ≈ 20–21 min. Supuesto provisional: 3.600–4.000 palabras con bloques marcados como recortables. Calibrar con la duración real de la primera locución.
 
 ---
