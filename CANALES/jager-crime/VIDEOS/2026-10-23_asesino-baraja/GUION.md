@@ -50,6 +50,10 @@ Los criminólogos distinguen entre dos cosas que a menudo se confunden. Por un l
 
 Y eso, para los investigadores, era una pista sobre su personalidad. Alguien que firma sus crímenes quiere ser visto. Y quien quiere ser visto, tarde o temprano, puede cometer un error. O puede, como acabó ocurriendo, decidir mostrarse por sí mismo.
 
+Detengámonos un momento en lo que la policía tenía en ese momento sobre la mesa. Dos asesinatos en apenas doce días, en lugares distintos de Madrid, sin relación aparente entre sí. Una carta junto a una de las víctimas. Y la sospecha, cada vez más fuerte, de que no se trataba de dos crímenes separados, sino de una misma persona que acababa de empezar.
+
+Para cualquier investigador, esa sospecha es la peor de todas. Porque significa que el reloj ya está corriendo.
+
 Si te interesan los casos reales contados con rigor y respeto, suscríbete a Historias Prohibidas. Porque lo que viene ahora es la parte más difícil de esta historia.
 
 Poco después llega el ataque más brutal de todos.
@@ -100,6 +104,14 @@ Así que la policía tenía un arma identificada, un retrato robot, una firma en
 
 Y entonces, el tres de julio, el nombre llegó solo.
 
+Antes de llegar al final, ordenemos el expediente tal y como estaba en la primavera de 2003.
+
+Lo que constaba: seis personas asesinadas y tres heridas. Todos los disparos, de la misma pistola, un modelo de fabricación soviética poco habitual en España. Un retrato robot hecho a partir del testimonio de una superviviente. Naipes junto a algunas de las víctimas. Y un perfil que apuntaba a alguien con formación militar.
+
+Lo que no constaba: ninguna relación entre las víctimas. Ningún motivo. Ningún testigo que conociera al agresor. Y, sobre todo, ningún nombre.
+
+Con ese expediente sobre la mesa, cada día que pasaba era un día en el que podía haber otra víctima. Y entonces, sin que nadie lo esperara, el caso dio un giro que ningún investigador habría podido planificar.
+
 Volvamos a la comisaría de Puertollano.
 
 El hombre que se presenta aquella noche se llama Alfredo Galán Sotillo. Es natural de Puertollano. Y es exmilitar. Había estado destinado en misiones en Bosnia, y de allí, según la investigación, se había traído la pistola con la que mató a seis personas.
@@ -136,6 +148,8 @@ Para muchos especialistas que han analizado el caso, el perfil que se dibuja es 
 
 Y ahora quiero preguntarte algo a ti: ¿recuerdas el miedo que se vivió en Madrid en aquellos meses de 2003? Si lo viviste, o si alguien de tu familia te lo contó, déjamelo en los comentarios. Esas memorias también forman parte de esta historia.
 
+Detengámonos un momento en lo que significa todo esto. Durante cincuenta y cuatro días, una sola persona consiguió que millones de personas tuvieran miedo de salir a la calle, de entrar en un bar o de esperar en un portal. No porque fuera un genio, sino porque elegía a sus víctimas al azar, y el azar es lo más difícil de prever. Esa es la lección más incómoda del caso: a veces, el peligro no tiene ninguna lógica que podamos descifrar.
+
 Pero antes, falta una pregunta: ¿qué pasó con él después?
 
 El juicio comenzó en febrero de 2005, en la Audiencia Provincial de Madrid. Y una de las grandes cuestiones que tuvo que resolver fue la de su estado mental. ¿Estaba en condiciones de comprender lo que hacía? ¿Podía ser considerado responsable de sus actos?
@@ -162,9 +176,13 @@ Para las familias de las víctimas, esa realidad es muy difícil de aceptar. Ell
 
 Veinte años después de los crímenes, en 2023, Netflix estrenó una serie documental sobre el caso, Baraja: la firma del asesino. Tres capítulos en los que, por fin, tomaban la palabra también los supervivientes y los familiares. Y eso, quizá, fue lo más valioso de todo: escuchar a quienes durante años habían sido solo un nombre en una noticia.
 
+Y una última reflexión sobre el apodo. Durante años, este caso se ha conocido por un naipe. Pero las cartas no mataron a nadie, ni resolvieron nada. Fueron solo el detalle que convirtió una tragedia en un titular. Si algo debería recordarse de aquel 2003 no es la baraja. Es el valor de quienes sobrevivieron y declararon, y el trabajo de quienes intentaron detener a un asesino sin rostro.
+
 Volvamos al principio. Una comisaría de Puertollano. Un hombre que ha bebido y que dice ser el asesino más buscado de España. Un agente que no le cree.
 
 Esa escena resume muy bien lo que fue este caso. Un asesino que actuó sin motivo, contra personas elegidas al azar, y que durante cincuenta y cuatro días mantuvo en vilo a millones de personas. Una investigación que tenía muchas piezas, el arma, el retrato, la firma, el perfil militar, pero a la que le faltó el tiempo para unirlas. Y un final que no llegó por un gran golpe policial, sino por la decisión del propio culpable.
+
+Y hay un aspecto de esta historia del que se habla poco: el de los familiares. Las personas que recibieron una llamada aquel invierno de 2003 y tuvieron que enterarse, a la vez que toda España, de que su padre, su hijo o su pareja había sido asesinado sin ningún motivo. Personas que, durante meses, vieron en la televisión cómo se hablaba de cartas, de juegos y de apodos, mientras ellas intentaban seguir adelante. Y personas que, veinte años después, tuvieron que volver a contar su historia para que no se olvidara quiénes eran las víctimas.
 
 ¿Qué nos deja esta historia?
 

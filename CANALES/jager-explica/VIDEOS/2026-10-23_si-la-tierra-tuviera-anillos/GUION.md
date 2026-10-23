@@ -49,6 +49,8 @@ La explicación que proponen es fascinante. Un asteroide grande pasó demasiado 
 
 ¿Está demostrado? No del todo. Es una hipótesis, y la ciencia necesitará más pruebas para confirmarla o descartarla. Pero es una idea con datos detrás. Y hace que nuestra pregunta de hoy sea mucho menos fantasiosa de lo que parecía.
 
+O sea, que, si la hipótesis es correcta, hace cuatrocientos sesenta y seis millones de años la Tierra tuvo su momento Saturno. Y nadie le hizo ni una foto. Porque, claro, entonces no había nadie para hacerla. La mayor parte de la vida de la época estaba en el mar y, con todo respeto, no tenía móvil. Ni mucho interés por el paisaje.
+
 Si te está gustando este viaje espacial, suscríbete a Jager Explica. Porque ahora vamos a imaginar cómo sería tu vida con un anillo encima de la cabeza. Y spoiler: tus vacaciones de invierno podrían cambiar bastante.
 
 Antes de imaginar, hay una regla de la física que tienes que conocer. Se llama límite de Roche.
@@ -75,6 +77,8 @@ Es decir: en un mundo con anillos, la latitud a la que vives decidiría tu paisa
 
 Y otra cosa: ¿de qué color sería? Esto depende de qué estuviera hecho. Los anillos de Saturno son tan brillantes porque están formados sobre todo por hielo de agua, que refleja muchísima luz. Pero el posible anillo de la Tierra del que hablan los investigadores de Monash sería de restos de un asteroide, es decir, de roca. Y la roca refleja mucha menos luz que el hielo. Así que, imaginando, un anillo rocoso sería bastante más oscuro y discreto que el de Saturno. Un anillo gris en lugar de uno blanco brillante. Menos postal, más polígono industrial. Y estoy seguro de que las inmobiliarias lo usarían: piso exterior con vistas al anillo, se vende.
 
+Y ahora imagina tu infancia con un anillo en el cielo. Los dibujos del colegio no serían una casa, un árbol y un sol con gafas. Serían una casa, un árbol, un sol con gafas y un arco gigante cruzando el folio. Las canciones infantiles hablarían del anillo. Los niños preguntarían por qué está ahí y los padres responderían lo de siempre: porque sí, y cómete la verdura.
+
 Segunda pregunta: ¿y de noche?
 
 Imaginando: un anillo de hielo y roca reflejaría la luz del Sol. Así que, por la noche, el anillo podría brillar en el cielo, iluminando el paisaje. Las noches podrían ser bastante más claras de lo que son ahora.
@@ -91,6 +95,8 @@ Y por supuesto, los fotógrafos. Las fotos de puestas de sol con el anillo de fo
 
 Y para tranquilidad de los que tenéis miedo a volar: los aviones no tendrían ningún problema. Un avión comercial vuela a unos diez u once kilómetros de altura, y el anillo estaría a miles de kilómetros. Mucho, mucho más arriba.
 
+Y los romanceros y poetas lo habrían tenido facilísimo. Olvídate de la luna llena como gran escenario romántico. El clásico sería: te espero bajo el anillo. Las películas románticas tendrían todas la misma escena final, con la pareja mirando el arco en el cielo. Y las agencias de viajes venderían escapadas para ver el anillo más bonito desde la montaña. Con precios de temporada alta, por supuesto.
+
 Tercera pregunta, y esta es importante: ¿qué pasaría con el clima?
 
 Aquí la especulación tiene una base científica. Un anillo alrededor del ecuador proyectaría una sombra sobre la Tierra. Y esa sombra no caería siempre en el mismo sitio. Como el eje de la Tierra está inclinado, según la época del año la sombra del anillo caería más sobre un hemisferio que sobre el otro. Y, en general, caería sobre el hemisferio en el que fuera invierno.
@@ -103,7 +109,13 @@ Así que, en nuestro mundo imaginario, las estaciones serían diferentes. Quizá
 
 Y hay más. Imaginando: en algunas zonas, durante el invierno, la sombra del anillo podría pasar por encima cada día, a ciertas horas. Como un pequeño eclipse diario. El sol desaparecería un rato detrás del anillo y volvería a salir. Eso afectaría a las cosechas, a los animales y, en el mundo de hoy, también a la energía. Imagina tener placas solares en el tejado y que, cada invierno, el anillo te las tape un rato todos los días. La factura de la luz no perdona.
 
+Eso sí, el lado bueno es que nunca habría que discutir sobre qué hacer un sábado por la noche. Siempre habría un plan gratis: salir a mirar el anillo.
+
 Ahora quiero preguntarte algo: si la Tierra tuviera un anillo, ¿te mudarías a otra latitud para verlo mejor, o preferirías un sitio donde no te tape el sol en invierno? Déjamelo en los comentarios. Quiero saber si eres más de vistas o de calefacción.
+
+Resumen rápido, para que no te pierdas, que vamos a toda velocidad. El anillo se vería distinto según dónde vivas: una raya en el ecuador, un arco en España. Haría las noches más claras y fastidiaría a los astrónomos y a los búhos. Su sombra podría enfriar los inviernos. Y probablemente sería más gris de lo que imaginas, si estuviera hecho de roca.
+
+Y ahora, vamos con el problema más gordo de todos. Uno que afecta directamente al móvil con el que, probablemente, estás viendo este vídeo.
 
 Cuarta pregunta, muy moderna: ¿qué pasaría con los satélites?
 
@@ -115,6 +127,8 @@ Y en el espacio, un choque no es un golpecito. A esas velocidades, incluso un tr
 
 Así que, especulando: en un mundo con anillos, la carrera espacial habría sido mucho más difícil. Quizá habríamos tenido que buscar rutas especiales para salir del planeta, por encima de los polos, lejos del plano del anillo. O quizá habríamos tardado mucho más en llegar al espacio. Y sin satélites, despídete del GPS, de muchas comunicaciones y, posiblemente, de ver el fútbol en directo desde el otro lado del mundo. Un drama.
 
+Y ojo, porque esto afectaría también a la exploración del resto del sistema solar. Cada misión hacia la Luna, hacia Marte o hacia más allá tendría que planificar con mucho cuidado su salida para no cruzarse con el anillo. Es como vivir en una casa preciosa cuya única puerta da a una autopista llena de piedras volando. Bonita de ver desde la ventana. Muy poco práctica para salir a por el pan.
+
 Quinta pregunta, la más inquietante: ¿podría caernos el anillo encima?
 
 Aquí vuelve la ciencia. Los anillos no son eternos. Con el tiempo, el material del anillo va perdiendo energía y cayendo hacia el planeta. De hecho, eso es justo lo que proponen los investigadores de Monash: que su posible anillo de hace cuatrocientos sesenta y seis millones de años fue cayendo sobre la Tierra poco a poco, durante millones de años.
@@ -125,6 +139,8 @@ Por cierto, gran parte de lo que sabemos de los anillos de Saturno se lo debemos
 
 Y aquí viene otro dato que te va a sorprender. Incluso los anillos de Saturno podrían no ser eternos. Esto es ciencia: los datos de la sonda Cassini sugirieron que los anillos de Saturno podrían ser relativamente jóvenes, de entre cien y cuatrocientos millones de años. Más jóvenes que los dinosaurios. Aunque otros estudios más recientes lo discuten y creen que podrían ser mucho más antiguos. Es decir: los científicos todavía no se ponen de acuerdo sobre algo tan básico como la edad de los anillos más famosos del sistema solar. Y eso me encanta, porque significa que todavía quedan muchas cosas por descubrir.
 
+Y si alguna vez te ha caído una piedrecita en la cabeza desde un árbol, imagina la reclamación al seguro: daños causados por fragmento del anillo planetario. El perito no sabría ni por dónde empezar. Ni tú tampoco, la verdad.
+
 Y antes de terminar, un último giro. Porque hay una idea todavía más loca relacionada con todo esto.
 
 Esto es ciencia, y es la explicación más aceptada sobre el origen de nuestra Luna. Hace unos cuatro mil quinientos millones de años, cuando la Tierra era muy joven, un objeto del tamaño de un planeta pequeño chocó contra ella. El choque lanzó al espacio una enorme cantidad de material, que formó un disco alrededor de la Tierra. Y con el tiempo, ese material se fue juntando hasta formar la Luna.
@@ -134,6 +150,10 @@ O sea: es muy probable que, durante un tiempo, la Tierra tuviera algo parecido a
 Así que la próxima vez que mires la Luna, piensa que quizá estás mirando lo que quedó de un antiguo anillo de la Tierra.
 
 Y en el futuro, otros planetas podrían ganar anillos. Esto también es ciencia: Marte tiene una pequeña luna llamada Fobos que, según algunos estudios, se va acercando poco a poco al planeta. Y dentro de unas decenas de millones de años, podría acabar rompiéndose y formando un anillo alrededor de Marte. Así que, si dentro de muchísimo tiempo alguien vive en Marte, quizá pueda ver exactamente el paisaje que hemos imaginado hoy.
+
+Y antes de despedirnos, una reflexión un poco más seria. Cuando miramos a otros planetas, solemos pensar que la Tierra es el planeta normal y los demás son los raros. Pero la ciencia nos recuerda una y otra vez que no es así. Que la Tierra ha cambiado muchísimo a lo largo de su historia. Que ha tenido continentes unidos y separados, épocas heladas y épocas tropicales, y quizá incluso un anillo. El planeta que ves hoy es solo una foto de un momento concreto de una película muchísimo más larga.
+
+Y eso, a mí, me parece todavía más fascinante que cualquier anillo.
 
 Volvamos a la pregunta del principio. ¿Qué pasaría si la Tierra tuviera anillos como Saturno?
 

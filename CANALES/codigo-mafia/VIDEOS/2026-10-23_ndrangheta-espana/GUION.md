@@ -88,6 +88,8 @@ En octubre de 2013, Milán celebró un funeral público por Lea Garofalo, con el
 
 Eso es la 'Ndrangheta detrás de los chistes sobre reuniones y organigramas. Y eso es lo que hace que cada arrepentido valga oro para los investigadores.
 
+Y fíjate en la contradicción. Una organización que presume de honor, de lealtad y de familia, y que es capaz de hacerle eso a la madre de una de sus propias hijas. El código del que tanto hablan solo funciona en una dirección: hacia arriba.
+
 Si te está gustando esta forma de contar cómo funcionan las mafias por dentro, con datos y sin glorificar a nadie, suscríbete a Código Mafia. Porque ahora vamos a ver de dónde sale el dinero. Y spoiler: no es de vender pizzas.
 
 Durante décadas, la 'Ndrangheta hizo de todo para ganar dinero. Pero su gran salto llegó con un producto concreto: la cocaína.
@@ -107,6 +109,10 @@ Es decir: el problema no es solo que traigan cocaína. Es que intentan comprar a
 Y aquí hay un detalle que, según los investigadores, los diferencia de muchas otras mafias. La 'Ndrangheta no suele ser la que fabrica la droga ni la que la vende en la esquina. Su especialidad es estar en medio: negociar con los productores en Sudamérica, organizar el transporte y distribuir en Europa. Son, por decirlo de alguna forma, los intermediarios. El Amazon de la cocaína, pero sin valoraciones de clientes y con unas políticas de devolución bastante más agresivas.
 
 Para que todo eso funcione, necesitan gente fuera de Italia. Gente que coordine, que hable con los proveedores, que mueva el dinero. Y durante mucho tiempo, esa expansión pasó casi desapercibida en el resto de Europa.
+
+Recapitulemos, que esta familia tiene más ramas que un árbol de Navidad. Tenemos una organización que se basa en primos, cuñados y suegros. Que se reúne en un santuario. Que elige a su jefe en una boda. Que tiene rituales con Garibaldi de invitado especial. Y que, mientras tanto, mueve cocaína a través de uno de los puertos más grandes del Mediterráneo.
+
+Si lo escribieras como guion de una serie, te dirían que es demasiado exagerado. Pero no. Es todo real. Y todavía falta lo mejor: cuando decidieron que Calabria se les quedaba pequeña.
 
 Hasta una noche de verano en Alemania.
 
@@ -159,6 +165,10 @@ En los registros, en Ibiza y en Barcelona, los agentes encontraron treinta y cin
 Y aquí no puedo evitarlo. De todos los sitios de Europa para pasar desapercibido, elegir Ibiza en pleno agosto tiene su mérito. Es como intentar esconderte de tus padres en el salón de casa el día de Navidad. Discreto, lo que se dice discreto, no es.
 
 Ahora cuéntame tú: ¿sabías que la mafia calabresa tenía presencia en España? ¿Y en qué ciudad crees que es más fácil que pasen desapercibidos? Déjamelo en los comentarios, que tengo curiosidad.
+
+Y hagamos aquí un pequeño homenaje al talento. Porque hay que tener un talento especial para pasar décadas sin salir en la tele, construyendo una red mundial con una discreción envidiable… y que luego te pillen por un pinchazo telefónico en una boda, por una matanza a la salida de un restaurante o por elegir Ibiza en temporada alta. El crimen organizado tiene muchas cosas, pero la humildad de aprender de sus errores no es una de ellas.
+
+Y aun así, sería un error tomárselos a broma del todo. Porque detrás de cada uno de esos chistes hay toneladas de cocaína, dinero sucio que se lava en negocios de verdad y personas que pagaron con su vida. Así que nos reímos de ellos, sí. Pero no les quitamos ni un gramo de peligro.
 
 Pero espera, porque falta la parte en la que Italia decide contraatacar a lo grande.
 

@@ -23,3 +23,9 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 - Por qué: diferenciar los canales entre sí y mejorar la retención.
 - Sustituye a: tono provisional de la ficha.
 - Alcance: canal
+
+### D-EXT — 2026-10-23 — Extensión mínima y tono propio
+- Estado: aprobada (Christian)
+- Qué se decidió: guiones largos con un mínimo de 3.750 palabras y tono claramente distinto al de los demás canales (ver PROTOCOLOS §6b).
+- Sustituye a: objetivo anterior de ~4.000 / 3.600–3.900 palabras.
+- Alcance: canal

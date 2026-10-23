@@ -54,6 +54,16 @@ El vuelo 5022 iba a depender de esas dos barreras. Los pilotos, con su lista de 
 
 Si te está gustando entender los accidentes así, desde dentro y paso a paso, suscríbete a Jager Aviación. Porque ahora llega el momento en que las dos barreras fallan a la vez.
 
+Antes de seguir, conviene fijar las tres ideas técnicas que vas a necesitar para entender todo lo que viene.
+
+Primera: un avión necesita los flaps y los slats extendidos para despegar a la velocidad normal. Sin ellos, el ala no genera suficiente sustentación.
+
+Segunda: los pilotos comprueban esa configuración con listas que se leen en voz alta, punto por punto, entre los dos.
+
+Tercera: si aun así se olvida algo, el sistema de aviso debe sonar en el momento en que se aplica potencia de despegue.
+
+Tres barreras: el conocimiento, el procedimiento y la máquina. Ahora vas a ver qué pasó con cada una de ellas.
+
 Dos y veinticuatro de la tarde. El MD-82 se alinea en la pista y los pilotos aplican potencia de despegue.
 
 El avión acelera con normalidad. Los motores funcionan perfectamente. Desde fuera, nada parece extraño. Pero las alas tienen la forma equivocada. Los flaps y los slats están recogidos, en la posición de crucero.
@@ -118,6 +128,12 @@ Lo que sí estableció fue la conclusión principal. Según la CIAIAC, el accide
 
 Dos barreras. Las dos fallaron a la vez.
 
+Hagamos aquí una pausa técnica, porque es fácil perderse entre tantos factores.
+
+Por un lado, la causa directa: un despegue con las alas en configuración de crucero. Por otro, los factores que permitieron que ocurriera: una interrupción en la rutina, unas listas de comprobación que no se completaron correctamente y una coordinación en cabina que no detectó el error. Y por último, la barrera que debía haber salvado la situación y que no lo hizo: el sistema de aviso.
+
+Ningún investigador serio de accidentes se queda con una sola de estas piezas. Porque la seguridad aérea no depende de que nadie se equivoque nunca. Depende de que, cuando alguien se equivoca, haya otra barrera que lo detecte.
+
 Y entonces llega la parte más inquietante de esta historia.
 
 Porque esto no era nuevo.
@@ -161,6 +177,10 @@ Pero para las familias, aquellas conclusiones llegaron tarde y se quedaron en el
 Y ese mismo año, las propias víctimas dieron un paso más: crearon una fundación dedicada a la seguridad aérea. Para que lo que les ocurrió sirva para algo.
 
 Así que, cuando alguien pregunta qué causó el accidente de Spanair, la respuesta depende de a quién se lo preguntes. Para el informe técnico: un despegue sin flaps ni slats y una alarma que no avisó. Para la justicia penal: no hubo delito en el mantenimiento. Para muchas familias: una cadena de fallos que va más allá de la cabina y que nunca se terminó de explicar.
+
+Hay una frase que se repite a menudo en el mundo de la aviación: los accidentes no tienen una sola causa, tienen una cadena. Y la tarea de los investigadores es encontrar cada eslabón, aunque algunos, como el del sistema de aviso del vuelo 5022, nunca lleguen a explicarse del todo.
+
+Para las familias, eso es lo más difícil de aceptar. Que, después de tantos informes, sentencias y comisiones, siga habiendo preguntas sin una respuesta definitiva.
 
 Volvamos a la pregunta del principio. ¿Cómo puede un avión estrellarse nada más despegar, en un día despejado y con los motores funcionando?
 

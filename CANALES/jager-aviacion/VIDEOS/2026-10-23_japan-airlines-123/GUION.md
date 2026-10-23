@@ -107,6 +107,12 @@ Hay algo que la tripulación no sabe y que tú ya sabes: no les falta solo la hi
 
 Y en ese momento, el avión empieza a perder altura de verdad.
 
+Detengámonos un momento en la cabina, porque merece la pena ponerse en el lugar de esos tres hombres.
+
+Llevan más de veinte minutos luchando contra un avión que no responde. Han perdido la hidráulica, han perdido la mayor parte de la cola y no saben con exactitud qué ha pasado. No tienen un procedimiento que seguir. No tienen a nadie en tierra que pueda decirles qué hacer, porque nadie se ha visto nunca en una situación así. Y cada decisión que toman con los motores tarda segundos en hacer efecto.
+
+En aviación se dice que el trabajo de un piloto es, sobre todo, gestionar información. Leer instrumentos, anticiparse, decidir. Pero en el vuelo 123 la información era escasa y contradictoria, y el tiempo, cada vez menor. Lo que hicieron esos tres tripulantes durante treinta y dos minutos se sigue estudiando hoy como un ejemplo extremo de trabajo en equipo bajo presión.
+
 Lo que ocurrió en los últimos minutos del vuelo 123 lo conocemos gracias a las cajas negras. Los pilotos siguen luchando. Aplican potencia, reducen, vuelven a aplicar. En varios momentos consiguen frenar la caída e incluso ganar algo de altura. Pero el avión ya no tiene margen.
 
 A las seis y cincuenta y seis de la tarde, treinta y dos minutos después de la rotura, el vuelo 123 roza una cresta y se estrella contra la ladera de una montaña en la prefectura de Gunma. Ese lugar se conoce hoy como la cresta de Osutaka.
@@ -136,6 +142,10 @@ Años después, Yumi Ochiai contó algo que todavía hoy pesa sobre esta histori
 Los médicos que atendieron el caso creían que algunas víctimas sobrevivieron al impacto y murieron durante la noche. Nadie puede saber cuántas se habrían salvado con un rescate más rápido. Pero la pregunta ha acompañado a este accidente durante cuarenta años.
 
 Y ahora te pregunto a ti: ¿crees que se podría haber hecho algo más esa noche, o el terreno lo hacía imposible? Déjamelo en los comentarios, porque es uno de los debates más intensos que existen sobre este accidente.
+
+Recapitulemos lo que sabemos hasta aquí, porque ahora llega la parte técnica más importante. Un 747 en ascenso. Una rotura en la parte trasera. La cola arrancada en menos de medio segundo. Cuatro sistemas hidráulicos perdidos a la vez. Treinta y dos minutos de lucha con los motores. Y una noche de espera en la montaña.
+
+Todo eso es el qué. Ahora vamos con el porqué. Y el porqué de este accidente no está en el cielo de Japón en 1985. Está en una pista de aterrizaje, siete años antes.
 
 Pero falta la pregunta más importante de todas. ¿Por qué se rompió el mamparo?
 
