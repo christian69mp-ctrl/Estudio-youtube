@@ -3,7 +3,7 @@ PEDIDO 01 — GUIONES PARA LOCUCIÓN (voz sintética) — v2
 
 
 ============================================================
-CANAL: JAGER AVIACIÓN · tono formal y entretenido
+CANAL: JAGER AVIACIÓN
 ============================================================
 
 --- VÍDEO 1: Japan Airlines 123: 32 minutos sin control ---
@@ -413,7 +413,7 @@ Si quieres ver otra tragedia en la que todo dependió de un detalle que nadie co
 
 
 ============================================================
-CANAL: CÓDIGO MAFIA · tono informal y burlón
+CANAL: CÓDIGO MAFIA
 ============================================================
 
 --- VÍDEO 1: 'Ndrangheta: la mafia de los primos que llegó a España ---
@@ -815,7 +815,7 @@ Si quieres saber cómo una aplicación de mensajería que usas cada día se conv
 
 
 ============================================================
-CANAL: JAGER CRIME (HistoriasProhibidas) · tono documental sobrio
+CANAL: JAGER CRIME (HistoriasProhibidas)
 ============================================================
 
 --- VÍDEO 1: Marqueses de Urquijo: «solo o en compañía de otros» ---
@@ -1219,7 +1219,7 @@ Si quieres conocer otro caso español en el que la investigación tuvo que recon
 
 
 ============================================================
-CANAL: ARCHIVOS SAGRADOS · tono misterioso
+CANAL: ARCHIVOS SAGRADOS
 ============================================================
 
 --- VÍDEO 1: El Arca de la Alianza: el objeto que desapareció de la Biblia ---
@@ -1593,7 +1593,7 @@ Si quieres seguir con otro de los grandes misterios de los textos sagrados, te d
 
 
 ============================================================
-CANAL: JAGER EXPLICA · tono divertido
+CANAL: JAGER EXPLICA
 ============================================================
 
 --- VÍDEO 1: ¿Y si el Imperio romano nunca hubiera caído? ---
