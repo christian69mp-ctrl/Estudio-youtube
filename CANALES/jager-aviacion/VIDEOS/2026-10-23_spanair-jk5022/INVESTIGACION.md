@@ -38,3 +38,10 @@ Estado: investigación (2026-10-23). Solo buscador web disponible; el informe of
 - Conversaciones de cabina (filtradas en 2010; polémica). No se cita ninguna frase.
 - Llamada telefónica / persona ajena en cabina / malware: no confirmados como factores oficiales.
 - «Bolsa de hielo» en la sonda: versión periodística no confirmada.
+
+## Añadido (ampliación v2, 2026-10-23)
+- Filtración de conversaciones de cabina a la prensa en 2010 y polémica (Última Hora 11/05/2010). No se cita ninguna frase.
+- Spanair: suspensión el 27/01/2012; concurso tres días después con pasivo de 474 M€ (Valencia Plaza).
+- Dictamen del Congreso (22/04/2021): combinación de factores; compañía con graves problemas económicos en 2008; certificado de aeronavegabilidad prorrogado automáticamente sin inspección (conclusiones publicadas).
+- 2023: la asociación denuncia que no se ha aplicado ninguna conclusión ni recomendación (Noticias de Navarra).
+- Sesgo de expectativa y reinicio de secuencias interrumpidas: conceptos generales de factores humanos (sin atribuir al informe).

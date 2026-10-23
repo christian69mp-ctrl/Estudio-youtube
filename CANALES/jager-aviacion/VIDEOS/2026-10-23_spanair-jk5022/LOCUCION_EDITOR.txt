@@ -84,6 +84,8 @@ Fue el peor accidente aéreo en España en más de dos décadas. Y durante los d
 
 La respuesta estaba en las cajas negras. Y en las alas.
 
+Y aquí empezó también otra polémica. Porque mientras la investigación seguía en marcha, en 2010, parte de las conversaciones grabadas en la cabina llegaron a la prensa. Para muchas familias, aquello fue un golpe durísimo: escuchar o leer los últimos momentos de sus seres queridos en los medios, antes incluso de conocer el informe final. En este vídeo no vamos a reproducir ninguna de esas conversaciones. No hace falta para entender lo que pasó, y por respeto a quienes iban a bordo.
+
 La investigación técnica la llevó a cabo la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil, la CIAIAC. Es el organismo español encargado de investigar los accidentes aéreos. Y su objetivo, como el de cualquier comisión de este tipo en el mundo, no es buscar culpables, sino entender qué pasó para evitar que vuelva a pasar.
 
 Fue un trabajo largo. La comisión publicó un primer informe preliminar en octubre de 2008, un informe intermedio en 2009 y el informe final en julio de 2011, casi tres años después del accidente. Por el camino analizó las dos cajas negras, los restos del avión, los registros de mantenimiento y todo lo que ocurrió en aquella hora entre el primer intento y el segundo.
@@ -92,13 +94,19 @@ Y el primer dato fue claro: los flaps y los slats estaban recogidos. Cero grados
 
 Eso, por sí solo, bastaba para explicar la caída.
 
-Pero quedaban dos preguntas enormes. La primera: ¿por qué los pilotos no los extendieron? La segunda: ¿por qué no sonó la alarma?
+Pero un dato no es una explicación. Saber que los flaps estaban recogidos dice qué pasó, pero no por qué pasó. Y para las familias, y para la seguridad de todos los que volamos, el porqué era lo más importante. Porque si no entiendes por qué ocurre un error, no puedes evitar que se repita.
+
+Así que quedaban dos preguntas enormes. La primera: ¿por qué los pilotos no los extendieron? La segunda: ¿por qué no sonó la alarma?
 
 Empecemos por la primera.
 
 Antes de cada despegue, los pilotos siguen listas de comprobación muy precisas. Una de ellas incluye la posición de los flaps. La investigación concluyó que la tripulación no completó correctamente esas listas y que la coordinación entre los dos pilotos no funcionó como debía. Los flaps no se seleccionaron, y el error no se detectó en las comprobaciones posteriores.
 
 ¿Recuerdas lo que te pedí que guardaras? La interrupción. El avión había salido una vez, había vuelto a la plataforma, había esperado casi una hora y había vuelto a salir. En aviación se sabe desde hace mucho que las interrupciones son un terreno peligroso para las listas de comprobación. Cuando una rutina se corta y se retoma, es más fácil dar un paso por hecho, creer que ya se hizo, o saltarlo sin darse cuenta.
+
+Y hay algo más que hace a las interrupciones tan traicioneras. Los psicólogos que estudian los errores humanos hablan de algo llamado sesgo de expectativa. Cuando esperas que algo esté de una manera, tu cerebro tiende a ver lo que espera, aunque no sea verdad. Si en tu cabeza los flaps ya están puestos, porque ya has hecho esa preparación una vez esa tarde, es fácil que al mirar el indicador veas lo que esperas ver.
+
+Por eso hoy, en la formación de pilotos de todo el mundo, se insiste tanto en una idea muy sencilla: cuando una secuencia se interrumpe, no se retoma donde se dejó. Se vuelve atrás y se repite. Aunque parezca una pérdida de tiempo. Aunque haya prisa. Aunque el avión esté lleno y los pasajeros lleven una hora esperando.
 
 Ahora, la segunda pregunta. La alarma.
 
@@ -142,11 +150,15 @@ En el juzgado se investigó, entre otros, a dos técnicos de mantenimiento que h
 
 Para las familias, aquello fue muy difícil de aceptar. La asociación de afectados del vuelo JK5022 criticó duramente el informe técnico y pidió que se investigara también a directivos de la compañía, algo que la justicia rechazó. Las familias podían reclamar indemnizaciones por la vía civil, pero la vía penal quedó cerrada.
 
-La compañía, Spanair, ya atravesaba dificultades económicas. En enero de 2012 suspendió sus operaciones y dejó de volar.
+La compañía, Spanair, ya atravesaba dificultades económicas. El veintisiete de enero de 2012 suspendió sus operaciones de forma repentina, dejando a miles de pasajeros en tierra. Tres días después solicitó el concurso de acreedores, con unas deudas de cuatrocientos setenta y cuatro millones de euros. Para muchos, el accidente de Barajas había sido el principio del fin de la compañía.
 
-Años después, en 2021, una comisión de investigación del Congreso de los Diputados publicó sus conclusiones sobre el accidente. Su dictamen describió una combinación de factores detrás de la tragedia, más allá del error en cabina.
+Años después, en abril de 2021, una comisión de investigación del Congreso de los Diputados aprobó sus conclusiones sobre el accidente. Y su dictamen fue más allá del error en cabina. Describió una combinación de factores detrás de la tragedia. Señaló que la compañía ya atravesaba graves problemas económicos en 2008, el año del accidente. Y recogió que el certificado de aeronavegabilidad del avión, el documento que acredita que está en condiciones de volar, se había prorrogado de forma automática, sin una inspección.
 
-Y en 2023, las propias víctimas dieron un paso más: crearon una fundación dedicada a la seguridad aérea. Para que lo que les ocurrió sirva para algo.
+Es decir, para el Congreso, la pregunta no era solo qué pasó en la cabina aquella tarde, sino qué falló en todo el sistema que debía vigilar la seguridad de ese avión y de esa compañía.
+
+Pero para las familias, aquellas conclusiones llegaron tarde y se quedaron en el papel. En 2023, la asociación de víctimas denunció que ninguna de las conclusiones ni recomendaciones de la comisión se había llevado a la práctica.
+
+Y ese mismo año, las propias víctimas dieron un paso más: crearon una fundación dedicada a la seguridad aérea. Para que lo que les ocurrió sirva para algo.
 
 Así que, cuando alguien pregunta qué causó el accidente de Spanair, la respuesta depende de a quién se lo preguntes. Para el informe técnico: un despegue sin flaps ni slats y una alarma que no avisó. Para la justicia penal: no hubo delito en el mantenimiento. Para muchas familias: una cadena de fallos que va más allá de la cabina y que nunca se terminó de explicar.
 

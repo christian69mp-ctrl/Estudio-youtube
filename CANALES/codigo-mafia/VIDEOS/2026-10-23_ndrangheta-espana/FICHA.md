@@ -17,3 +17,4 @@
 ## Siguiente paso
 - Título y miniatura.
 - 2026-10-23 — guion v1 + LOCUCION_EDITOR.txt.
+- 2026-10-23 — v2 ampliada a ~3.500–3.600 palabras por petición de Christian.

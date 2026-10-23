@@ -23,7 +23,7 @@ Bienvenido a Jager Aviación. Hoy vas a entender qué falló, cómo se puede vol
 
 Doce de agosto de 1985. Aeropuerto de Haneda, en Tokio.
 
-Es verano en Japón y el puente aéreo entre Tokio y Osaka va lleno de gente. El vuelo 123 es un trayecto corto y rutinario: Tokio – Osaka, menos de una hora de vuelo. Una ruta tan transitada que Japan Airlines la cubre con una versión especial del 747, el SR, diseñada precisamente para vuelos cortos con muchísimos despegues y aterrizajes.
+Es la víspera de las vacaciones de Obon, una de las fechas más importantes del año en Japón, cuando millones de personas viajan para visitar a sus familias y honrar a sus antepasados. Los vuelos de esa tarde van prácticamente llenos. El vuelo 123 es un trayecto corto y rutinario: Tokio – Osaka, menos de una hora de vuelo. Una ruta tan transitada que Japan Airlines la cubre con una versión especial del 747, el SR, diseñada precisamente para vuelos cortos con muchísimos despegues y aterrizajes.
 
 Y ese detalle, el de los muchos despegues y aterrizajes, va a ser más importante de lo que parece. Guárdalo.
 
@@ -47,7 +47,7 @@ Según la reconstrucción de los investigadores, todo ocurre en menos de medio s
 
 Aquí está la clave de todo el accidente. En un avión de este tamaño, los pilotos no mueven las superficies de control con la fuerza de sus brazos. El volante es como el pedal de freno de un coche moderno: tú solo das la orden, y un sistema hidráulico hace la fuerza. El 747 tenía cuatro sistemas hidráulicos independientes, precisamente para que, si uno fallaba, quedaran otros tres.
 
-Pero todos pasaban por la cola.
+Pero todos pasaban por la cola. Según la reconstrucción de los investigadores, las tuberías de los cuatro sistemas recorrían la parte superior del fuselaje trasero y la base de la aleta vertical. Justo la zona que estaba a punto de recibir el golpe.
 
 En pocos segundos, los cuatro se vacían.
 
@@ -113,6 +113,10 @@ A las seis y cincuenta y seis de la tarde, treinta y dos minutos después de la 
 
 De las quinientas veinticuatro personas a bordo, quinientas veinte murieron.
 
+Entre ellas había un nombre que todo Japón conocía. Kyu Sakamoto, de cuarenta y tres años, el cantante de Sukiyaki, una de las canciones japonesas más famosas de la historia, conocida en medio mundo. Según se ha contado después, Sakamoto solía volar con otra compañía, pero aquel día, víspera de vacaciones, no quedaban plazas. Así que compró un billete en el vuelo 123. Su propia esposa no supo que iba en ese avión hasta que vio su nombre en la lista de pasajeros.
+
+Quinientas veinte historias como esa. Familias enteras que viajaban juntas para las vacaciones. Personas que volvían a casa. Niños.
+
 Pero esa noche, en la montaña, todavía había personas vivas.
 
 Y lo que pasó en las horas siguientes es, para muchos japoneses, la parte más dolorosa de toda esta historia.
@@ -142,6 +146,8 @@ La investigación fue enorme. Por un lado, en la montaña, los equipos recuperar
 Después llegó el trabajo más minucioso. Los investigadores examinaron el mamparo con microscopio. Y cuando se observa con suficiente aumento la superficie de una grieta de fatiga, aparecen unas marcas diminutas, como los anillos de un árbol. Cada marca corresponde a un ciclo de carga. Es decir, el metal guarda la memoria de cuántas veces ha sufrido.
 
 Y aquel metal contaba una historia larga. Así que los investigadores empezaron a revisar la vida de este avión en concreto. Y encontraron algo en su pasado.
+
+Y lo que encontraron convierte esta historia en algo todavía más inquietante. Porque el vuelo 123 no se estrelló por algo que ocurrió aquella tarde. Se estrelló por algo que llevaba años escondido dentro del avión, viajando con miles de pasajeros que nunca lo supieron.
 
 Para entenderlo tenemos que viajar siete años atrás.
 
@@ -181,7 +187,7 @@ Dos accidentes, dos tripulaciones, la misma técnica imposible. Y entre los dos,
 
 Para Japan Airlines, el accidente cambió para siempre su forma de entender la seguridad. En 2006 abrió en Tokio un centro dedicado a este vuelo. Allí se conservan restos del avión, incluido el propio mamparo de presión. Y también se conservan algo mucho más difícil de mirar: notas que escribieron algunos pasajeros a sus familias. Hoy, los empleados de la compañía visitan ese lugar para que nadie olvide qué ocurre cuando un pequeño error se queda escondido.
 
-Cada doce de agosto, familiares de las víctimas suben a la cresta de Osutaka para recordar a las quinientas veinte personas que murieron. Algunas familias, todavía hoy, piden que se reabra la investigación y que se publique toda la información disponible. Y alrededor del accidente han circulado teorías alternativas que la investigación oficial y los propios equipos de rescate han rechazado. La conclusión oficial sigue siendo la misma: una reparación defectuosa, siete años antes.
+En Japón, el doce de agosto se recuerda hoy como un día dedicado a la seguridad aérea. Y cada año, familiares de las víctimas suben a la cresta de Osutaka para recordar a las quinientas veinte personas que murieron. Algunas familias, todavía hoy, piden que se reabra la investigación y que se publique toda la información disponible. Y alrededor del accidente han circulado teorías alternativas que la investigación oficial y los propios equipos de rescate han rechazado. La conclusión oficial sigue siendo la misma: una reparación defectuosa, siete años antes.
 
 Volvamos a la pregunta del principio. ¿Cómo se pilota un avión sin controles?
 

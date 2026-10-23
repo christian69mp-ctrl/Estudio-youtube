@@ -54,3 +54,9 @@ Estado: investigación inicial (2026-10-23). Desde esta sesión solo hay buscado
 - United 232 (19/07/1989): 296 a bordo, 185 supervivientes, 111 fallecidos; pérdida de los 3 sistemas hidráulicos; control con empuje diferencial. https://migflug.com/jetflights/united-232-the-dc-10-that-landed-with-no-hydraulics/
 - NASA: United 232 motivó el desarrollo de sistemas de control con empuje de motores. https://ntrs.nasa.gov/api/citations/20050238478/downloads/20050238478.pdf
 - No confirmado y retirado del guion: «fusibles hidráulicos» añadidos al 747 tras el accidente; duración del vuelo de United 232.
+
+## Añadido (ampliación v2, 2026-10-23)
+- Víspera de Obon; vuelos de esa tarde casi llenos (Tokyo Weekender). → [VERIFICAR] resuelto: CONFIRMADO.
+- Kyu Sakamoto (43), cantante de «Sukiyaki», murió en el vuelo; solía volar con ANA pero no había plazas; su esposa lo supo por la lista de pasajeros (Wikipedia; Japan Times; Tokyo Weekender). → CONFIRMADO.
+- Rutas de las tuberías hidráulicas: parte superior del fuselaje trasero y parte inferior de la deriva (FAA).
+- 12 de agosto en Japón: «Día de la seguridad aérea» (航空安全の日) (zatsuneta.com; bestcalendar.jp).

@@ -35,3 +35,14 @@ Estado: 2026-10-23. Solo buscador web; las fuentes son notas oficiales citadas p
 | 2014: la policía italiana graba una ceremonia de entrada en la «Santa», con invocación de líderes del Risorgimento como Garibaldi | Confirmado (prensa) | Boston Globe 2014; Vice; Cosa Nostra News |
 | 2022: 32 detenidos vinculados a la 'Ndrangheta en España (Ibiza, Barcelona, Málaga, Tenerife); grupo de Baleares; cocaína y cannabis España–Italia; reinversión en inmuebles | Confirmado (prensa sobre nota de Europol) | Al Arabiya 2022; CDE UAL |
 | 2025: 28 detenidos en Italia, España y Albania, red vinculada a la 'Ndrangheta; recuperación de cocaína en contenedores en Algeciras | Confirmado (prensa sobre Europol) | Eunews 2025; OCCRP |
+
+## Añadido (ampliación v2, 2026-10-23)
+| Afirmación | Estado | Fuente |
+|---|---|---|
+| Oppedisano elegido capo crimine en agosto de 2009 en una boda con ~2.000 asistentes; formalizado en Polsi en septiembre; conversaciones intervenidas | Confirmado (secundaria) | Wikipedia «Domenico Oppedisano», «Capocrimine» |
+| Operación Crimine (julio 2010): ~300–304 detenidos en Calabria y norte de Italia; fiscalías de Reggio Calabria y Milán; intereses en contratos de la Expo 2015; Oppedisano (80) detenido y condenado a 10 años | Confirmado | Il Giornale; Sky TG24 2012 |
+| Denise, hija de Lea Garofalo, testificó contra su padre, tíos y cómplices; cadenas perpetuas firmes (Casación 2014); funeral laico en Milán (oct. 2013), ayuntamiento parte civil; Denise vive bajo protección | Confirmado | Panorama; Sky TG24 2014; Leggioggi |
+| Rinascita Scott, apelación (dic. 2025): penas rebajadas; Pittelli 7 años y 8 meses; se mantienen 30 años para L. Mancuso y G. Accorinti | Fuente única (L'Indipendente); el guion lo atribuye a «la prensa italiana» | https://www.lindipendente.online/2025/12/20/maxiprocesso-rinascita-scott-in-appello-condanne-al-ribasso-per-istituzioni-e-ndranghetisti/ |
+| «¿Por qué España?»: razonamiento editorial (puertos, residentes extranjeros, inmobiliario) + contactos con Galicia según la policía | Interpretación marcada como tal en el texto | — |
+| Cálculo: 3,6 M contenedores × 1 min = 3,6 M min ≈ 6,85 años | Cálculo propio | — |
+- No usado: noticia (fuente única, sept. 2026) sobre la muerte de Denise.
