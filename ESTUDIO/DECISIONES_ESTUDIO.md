@@ -15,3 +15,14 @@
 - Límites: solo datos públicos (visualizaciones, likes, comentarios, duración, fechas). CTR, retención y fuentes de tráfico requieren YouTube Studio.
 - Sustituye a: —
 - Alcance: estudio
+
+### D-ESTUDIO-003 — 2026-10-23 — Paquete definitivo de título + miniatura
+- Estado: aprobada (Christian)
+- Qué se decidió:
+  - Cada vídeo sale con **una sola versión definitiva** de título y miniatura, ya combinados y optimizados para móvil. No se entregan variantes ni se cambian después de publicar salvo que Christian lo pida.
+  - **Clickbait permitido** para provocar el clic (curiosidad, tensión, pregunta abierta), **siempre que el vídeo cumpla lo prometido**: los guiones están pensados para enganchar y retener. Límite: nada que el vídeo no muestre o que contradiga los hechos (YouTube tiene normas contra metadatos engañosos y engañar al espectador castiga la retención).
+  - Título y miniatura cuentan una historia visual juntos sin revelar el desenlace: el título da el contexto y la tensión; la miniatura, la pista visual; el texto de la miniatura no repite el título.
+  - **Miniaturas: las genera Christian con Gemini.** Claude entrega el prompt listo para pegar, el texto exacto y la checklist de revisión.
+  - **Títulos: los escribe Claude**, ya listos para subir.
+- Sustituye a: PROTOCOLOS §5 (3 combinaciones + recomendada) para el flujo habitual. Las 3 combinaciones solo si Christian las pide.
+- Alcance: todos los canales

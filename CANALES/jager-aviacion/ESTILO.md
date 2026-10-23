@@ -24,7 +24,8 @@ Anterior: Documental, preciso y tenso sin dramatismo artificial. Términos técn
 - Cortes del fuselaje o vistas internas **solo** cuando aportan información (dónde estaba el fallo, qué sistema).
 - Un detalle clave fácil de entender (pieza, indicador, maniobra) como pista visual.
 - Imágenes sintéticas: nunca presentarlas como fotografía real del accidente; evitar libreas reales identificables si inducen a error.
-- Paleta: pendiente de definir.
+- **Identidad de miniatura (propuesta 2026-10-23, D-ESTUDIO-003):** Render 3D cinematográfico del avión (modelo reconocible, librea genérica sin logotipos), cielo dramático, contraste naranja-azul; corte del fuselaje o detalle clave resaltado en rojo; texto amarillo o blanco con contorno negro grueso.
+- Paleta: ver identidad de miniatura.
 - Tipografía: pendiente de definir.
 - Texto: 0–4 palabras, solo si aporta.
 

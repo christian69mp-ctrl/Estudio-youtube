@@ -22,7 +22,8 @@ Anterior: Intriga documental, sobria y respetuosa.
 ## Miniaturas
 - Identidad visual pendiente de definir.
 - Evitar fotos de víctimas como reclamo; nunca imágenes sintéticas que parezcan fotos reales del caso o de las personas implicadas.
-- Paleta: pendiente de definir.
+- **Identidad de miniatura (propuesta 2026-10-23, D-ESTUDIO-003):** Fría y sobria: azules y grises desaturados, noche, un único detalle en rojo (prueba, luz, objeto); siluetas, nunca rostros reales; texto blanco sobre franja negra.
+- Paleta: ver identidad de miniatura.
 - Tipografía: pendiente de definir.
 - Texto: 0–4 palabras, solo si aporta.
 

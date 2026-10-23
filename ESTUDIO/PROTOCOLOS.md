@@ -62,6 +62,13 @@ encaje con la audiencia · promesa concreta · curiosidad y conflicto · diferen
 
 ## 5. Título y miniatura (una sola promesa)
 
+> **Flujo vigente (D-ESTUDIO-003, 2026-10-23):** entregar UNA versión definitiva por vídeo: título final + texto de miniatura + prompt para Gemini + checklist. Clickbait permitido si el vídeo cumple la promesa. Sin variantes salvo petición. Lo de abajo (3 combinaciones) solo si Christian lo pide.
+
+**Reglas de título para móvil:** lo que engancha va en las primeras ~40–50 letras (en móvil se corta); MAYÚSCULAS solo en 2–3 palabras clave (estilo que ya usan los canales); un emoji como máximo y al final; nombre propio del caso al final o tras «|» para búsqueda; preguntas, contradicciones y números concretos; nunca revelar el desenlace.
+
+**Reglas de miniatura (Gemini):** 16:9, 1280×720; un foco dominante; 2–3 palabras de texto, enormes, con contorno; contraste alto; nada de logotipos reales ni rostros reconocibles de víctimas o implicados reales; estilo render cinematográfico o ilustración (nunca simular una foto real del suceso). Gemini a veces escribe mal el texto: revisar letra a letra o añadirlo después en un editor.
+
+
 Primero el enfoque; después título y miniatura juntos.
 
 **Entrega completa:**

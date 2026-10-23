@@ -22,7 +22,8 @@ Anterior: Claridad, ritmo visual y ejemplos concretos. Voz y personalidad del pe
 ## Miniaturas
 - Personaje propio: nombre, diseño y reglas de uso pendientes de confirmar.
 - Animación como lenguaje del canal; miniatura con el personaje reaccionando a una situación clara (hipótesis por probar).
-- Paleta: pendiente de definir.
+- **Identidad de miniatura (propuesta 2026-10-23, D-ESTUDIO-003):** Colores vivos y saturados, estilo 3D cartoon; el personaje del canal con expresión exagerada (pendiente de definir su diseño); escena absurda pero clara; texto amarillo con contorno negro.
+- Paleta: ver identidad de miniatura.
 - Tipografía: pendiente de definir.
 - Texto: 0–4 palabras, solo si aporta.
 

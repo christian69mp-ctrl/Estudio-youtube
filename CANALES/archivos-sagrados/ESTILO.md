@@ -23,7 +23,8 @@ Anterior: Divulgativo y respetuoso, con atmósfera de misterio; claro al marcar 
 - Identidad visual pendiente de definir.
 - Foco dominante único (figura, manuscrito, escena) con atmósfera; evitar sobrecargar de rayos, humo y símbolos.
 - Cuidado con símbolos religiosos usados de forma que pueda percibirse como ofensiva.
-- Paleta: pendiente de definir.
+- **Identidad de miniatura (propuesta 2026-10-23, D-ESTUDIO-003):** Oscuridad con luz dorada o ámbar que sale del objeto; texturas antiguas (piedra, pergamino, arena); atmósfera de misterio; texto dorado o blanco con brillo suave.
+- Paleta: ver identidad de miniatura.
 - Tipografía: pendiente de definir.
 - Texto: 0–4 palabras, solo si aporta.
 

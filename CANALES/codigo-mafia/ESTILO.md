@@ -23,7 +23,8 @@ Anterior: Documental de investigación, sobrio, con intriga basada en cómo se d
 - Identidad visual pendiente de definir (paleta, tipografía, composición).
 - Foco dominante: símbolo, objeto o escenario que represente la estructura (no un collage de caras y billetes).
 - No usar fotos reales de personas sin justificar; nunca imágenes sintéticas que parezcan fotos reales de detenidos o víctimas.
-- Paleta: pendiente de definir.
+- **Identidad de miniatura (propuesta 2026-10-23, D-ESTUDIO-003):** Estilo cine negro: fondo oscuro, acentos rojos, luz dura; un elemento irónico o inesperado (playa, móvil, fiesta) que choca con lo criminal; texto blanco con un acento rojo.
+- Paleta: ver identidad de miniatura.
 - Tipografía: pendiente de definir.
 - Texto: 0–4 palabras, solo si aporta.
 

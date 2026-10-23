@@ -48,3 +48,6 @@ Un canal cada vez, investigación → guion. Empezar por el canal que Christian 
 | JAGER EXPLICA | ¿Y si la Tierra tuviera anillos como Saturno? | 3763 |
 
 Sustituye a la entrega v1 (3.230–3.620 palabras).
+
+## Títulos y miniaturas (2026-10-23)
+Definitivos en `ESTUDIO/PEDIDO_01_TITULOS_Y_MINIATURAS.md` (y en cada `TITULOS_Y_MINIATURAS.md`). Miniaturas: Gemini.
