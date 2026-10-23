@@ -2,7 +2,7 @@
 
 - Creado: 2026-10-22
 - Petición de Christian: 2 guiones por canal (Jager Aviación, Código Mafia, Jager Crime, Archivos Sagrados, Jager Explica) = 10 vídeos.
-- Estado: **temas APROBADOS por Christian (2026-10-23)**. Voz sintética, ≤ 20 min, ~4.000 palabras. En guion.
+- Estado: **10 GUIONES LISTOS PARA EL EDITOR (2026-10-23)**. Archivo único: `ESTUDIO/PEDIDO_01_GUIONES_COMPLETOS.txt`. Pendiente: títulos, miniaturas y calibrar duración con la primera locución.
 
 ## Temas propuestos (detalle en el IDEAS.md de cada canal)
 | Canal | ID | Tema | Estado |
@@ -32,3 +32,17 @@ Por vídeo: `GUION.md` con (1) guion limpio para locución, (2) indicaciones vis
 
 ## Orden de trabajo propuesto
 Un canal cada vez, investigación → guion. Empezar por el canal que Christian priorice.
+
+## Entrega (2026-10-23)
+| Canal | Vídeo | Palabras |
+|---|---|---|
+| JAGER AVIACIÓN | Japan Airlines 123: 32 minutos sin control | 3587 |
+| JAGER AVIACIÓN | Spanair JK5022: la alarma que nunca sonó | 3545 |
+| CÓDIGO MAFIA | 'Ndrangheta: la mafia de los primos que llegó a España | 3522 |
+| CÓDIGO MAFIA | Las fábricas de estafas: el mensaje «equivocado» que viene de una prisión | 3623 |
+| JAGER CRIME (HistoriasProhibidas) | Marqueses de Urquijo: «solo o en compañía de otros» | 3507 |
+| JAGER CRIME (HistoriasProhibidas) | El asesino de la baraja: 54 días de miedo en Madrid | 3306 |
+| ARCHIVOS SAGRADOS | El Arca de la Alianza: el objeto que desapareció de la Biblia | 3503 |
+| ARCHIVOS SAGRADOS | Los Manuscritos del Mar Muerto: lo que revelaron y lo que nunca dijeron | 3381 |
+| JAGER EXPLICA | ¿Y si el Imperio romano nunca hubiera caído? | 3238 |
+| JAGER EXPLICA | ¿Y si la Tierra tuviera anillos como Saturno? | 3234 |

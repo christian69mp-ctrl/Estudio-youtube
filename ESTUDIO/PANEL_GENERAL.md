@@ -19,7 +19,7 @@ Actualizado: 2026-10-23 (inventario público y competencia).
 | Jager Explica (inactivo) | — | — | Definir enfoque y fecha de reactivación |
 
 ## Pedido en curso
-- `ESTUDIO/PEDIDO_01.md`: 10 guiones (2 por canal) para el nuevo editor. Fase: temas propuestos, pendientes de aprobar.
+- `ESTUDIO/PEDIDO_01.md`: 10 guiones (2 por canal) **listos para el editor**. Archivo único: `ESTUDIO/PEDIDO_01_GUIONES_COMPLETOS.txt`.
 
 ## Prioridades
 1. Christian aprueba los temas v2 de PED-01 (y duración, locución, fecha).

@@ -3,12 +3,15 @@
 ## Última sesión
 - Fecha: 2026-10-23
 - Trabajo realizado: creación del sistema; canales activos confirmados; estudio separado de Reino Peludos a repositorio propio (D-ESTUDIO-001).
-- Canal activo: Archivos Sagrados. Tarea: PED-01.
-- Proyecto activo: PED-01. Terminados: Jager Aviación (2), Código Mafia (2), Jager Crime (2). Siguiente: Archivos Sagrados (Arca, Manuscritos), luego Jager Explica (2).
-- Último punto confirmado: guion de la baraja listo (3.306). Christian quiere al final UN archivo con los 10 guiones ordenados por canal.
+- Canal activo: Estudio. Tarea: PED-01 entregado.
+- Proyecto activo: PED-01 — 10 guiones listos; archivo único enviado a Christian.
+- Último punto confirmado: 10 guiones terminados y compilados en ESTUDIO/PEDIDO_01_GUIONES_COMPLETOS.txt.
 
 ## Siguiente paso concreto
-Jager Crime: el asesino de la baraja. Después Archivos Sagrados (2) y Jager Explica (2). Al terminar: compilar `ESTUDIO/PEDIDO_01_GUIONES_COMPLETOS.txt` ordenado por canal y enviarlo.
+1. Christian locuta uno y dice la duración real → calibrar palabras/minuto.
+2. Títulos y miniaturas de los 10 (empezar por el canal que elija).
+3. Capturas de Studio de los largos de Jager Aviación (diagnóstico de largos con pocas vistas).
+4. Confirmar nombre/diseño del personaje de Jager Explica.
 
 ## Preguntas abiertas
 Ver `BANDEJA_ENTRADA.md` → "Dudas abiertas del arranque".
