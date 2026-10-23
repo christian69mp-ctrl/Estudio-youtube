@@ -4,11 +4,11 @@
 - Fecha: 2026-10-23
 - Trabajo realizado: creación del sistema; canales activos confirmados; estudio separado de Reino Peludos a repositorio propio (D-ESTUDIO-001).
 - Canal activo: Jager Aviación. Tarea: PED-01.
-- Proyecto activo: `CANALES/jager-aviacion/VIDEOS/2026-10-23_japan-airlines-123` (guion v1 entregado).
-- Último punto confirmado: PED-01 aprobado (10 proyectos creados, tono por canal, plantilla 6b). Primer guion (JAL 123) v1 entregado para revisión.
+- Proyecto activo: PED-01, canal por canal. Jager Aviación terminado (JAL 123 y Spanair listos). Siguiente canal: Código Mafia.
+- Último punto confirmado: guiones de Jager Aviación listos para el editor (LOCUCION_EDITOR.txt). Christian: trabajar canal por canal.
 
 ## Siguiente paso concreto
-Christian revisa el guion de JAL 123; con su feedback se ajusta la plantilla y se escriben los 9 restantes (siguiente: Código Mafia, 'Ndrangheta).
+Código Mafia: 'Ndrangheta (tono burlón) y después complejos de ciberestafa.
 
 ## Preguntas abiertas
 Ver `BANDEJA_ENTRADA.md` → "Dudas abiertas del arranque".

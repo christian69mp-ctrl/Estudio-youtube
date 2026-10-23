@@ -2,7 +2,7 @@
 - Canal: jager-aviacion
 - ID proyecto: 2026-10-23_japan-airlines-123 (idea JA-I004)
 - Pedido: PED-01 (nuevo editor)
-- Estado: en guion — v1 entregada (2026-10-23), pendiente de revisión de Christian
+- Estado: guion listo para el editor (v1 aprobada por Christian, 2026-10-23)
 - Formato: largo · voz sintética · ≤ 20 min · objetivo ~3.600–4.000 palabras (calibrar con la primera locución)
 - Tono: Formal pero entretenido: precisión técnica explicada con imágenes mentales, tensión real, sin sensacionalismo.
 - Estructura: plantilla de alta retención (`ESTUDIO/PROTOCOLOS.md` §6b)
