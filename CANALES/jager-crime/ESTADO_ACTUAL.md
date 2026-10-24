@@ -11,6 +11,8 @@ Actualizado: 2026-10-23
 ## Proyectos
 | ID | Título de trabajo | Estado | Siguiente paso |
 |---|---|---|---|
+| 2026-10-24_caso-sala-viuda-cam | Caso Sala (viuda de la CAM) | programado 25/10 19:00 | revisar métricas a las 48 h y 7 días |
+| — | Tor, pueblo maldito del Pirineo | en privado, listo | publicar ~1/11 con paquete |
 | 2026-10-23_marqueses-urquijo | Marqueses de Urquijo | guion listo para editor | título y miniatura |
 | 2026-10-23_asesino-baraja | El asesino de la baraja | guion listo para editor | título y miniatura |
 

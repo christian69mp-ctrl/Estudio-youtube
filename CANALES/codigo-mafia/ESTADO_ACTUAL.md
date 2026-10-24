@@ -11,7 +11,7 @@ Actualizado: 2026-10-23
 ## Proyectos
 | ID | Título de trabajo | Estado | Siguiente paso |
 |---|---|---|---|
-| 2026-10-24_trojan-shield-anom | Operación Trojan Shield (ANOM) | vídeo terminado, paquete listo | publicar y confirmar fecha |
+| 2026-10-24_trojan-shield-anom | Operación Trojan Shield (ANOM) | programado 25/10 19:00 | revisar métricas a las 48 h y 7 días |
 | 2026-10-23_ndrangheta-espana | 'Ndrangheta (España) | guion listo para editor | título y miniatura |
 | 2026-10-23_complejos-ciberestafa | Complejos de ciberestafa | guion listo para editor | título y miniatura |
 

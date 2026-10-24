@@ -1,6 +1,6 @@
 # Caso Sala — el crimen de la viuda de la CAM
 - Canal: jager-crime (HistoriasProhibidas)
-- Estado: vídeo terminado por Christian, en privado; paquete de publicación listo (2026-10-24). Guion no elaborado en el estudio.
+- Estado: **programado** para el 25/10/2026 a las 19:00 (Europe/Madrid) [DATO CHRISTIAN, 24/10/2026]. Pasa a «publicado» cuando se confirme.
 - Decisión: publicar antes que «Tor, pueblo maldito» (indicio: caso español conocido con nombre/apodo; «Viuda Negra» es el mejor vídeo del canal). Tor, ~1 semana después.
 
 ## Hechos verificados para título/descripción
@@ -11,3 +11,4 @@
 
 ## Criterio legal
 No nombrar al acusado absuelto en título, miniatura, descripción ni etiquetas; nunca sugerir culpabilidad.
+- 2026-10-24 — programado por Christian para el 25/10/2026 19:00. Paquete definitivo aplicado (miniatura Gemini aprobada).
