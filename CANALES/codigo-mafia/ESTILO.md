@@ -30,3 +30,6 @@ Anterior: Documental de investigación, sobrio, con intriga basada en cómo se d
 
 ## Base común (preferencias generales de Christian)
 Miniaturas limpias y legibles en móvil; título y miniatura complementarios; shorts sin introducción.
+
+## Avatares en miniaturas (preferencia de Christian, 2026-10-24)
+- Opción visual: avatares 3D sin rostro en lugar de personas. **Azul = los buenos (policía, agentes, víctimas protegidas); rojo = los malos (criminales).** Evita rostros reales y refuerza la lectura «buenos vs malos» a primera vista. Probado por primera vez en Trojan Shield (ANOM).
