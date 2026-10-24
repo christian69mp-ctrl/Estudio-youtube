@@ -1,7 +1,9 @@
-# TÍTULO Y MINIATURA — definitivo (2026-10-24, D-ESTUDIO-003)
+# TÍTULO Y MINIATURA — definitivo v2 (2026-10-24, D-ESTUDIO-003)
+
+v2: título acortado a petición de Christian (sustituye a «Los NARCOS compraron el móvil «más SEGURO» del mundo… lo vendía el FBI 📱»).
 
 **TÍTULO (copiar tal cual):**
-Los NARCOS compraron el móvil «más SEGURO» del mundo… lo vendía el FBI 📱
+Los NARCOS usaban un móvil del FBI… sin saberlo 📱
 
 **TEXTO DE LA MINIATURA:** LO LEÍAN TODO
 
