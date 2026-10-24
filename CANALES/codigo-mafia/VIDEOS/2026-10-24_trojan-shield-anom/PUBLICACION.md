@@ -34,7 +34,7 @@ operación trojan shield, anom, anom fbi, trojan shield, fbi narcos, móvil encr
 
 ## Comentario fijado (copiar tal cual)
 Imagina descubrir que llevas tres años contándole todos tus planes a la policía… desde tu propio móvil 😅📱
-¿Quién crees que fue el más torpe de toda esta historia: los narcos que se fiaron del móvil o los que lo vendían sin saber para quién trabajaban? Te leo 👇
+Pregunta seria: si te venden un móvil «imposible de hackear» a precio de oro… ¿te fiarías? ¿Cuál crees que fue el mayor error de los narcos en esta historia? Te leo 👇
 
 Y si te quedas con ganas de más, aquí tienes el caso del policía antidroga que protegía a los narcos en España: https://youtu.be/dUcXsIlF1E8
 
