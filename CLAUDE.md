@@ -96,6 +96,6 @@ Información actual sobre YouTube (herramientas, políticas, monetización): con
 - Miniaturas limpias, poco ruido visual, legibles en móvil; texto breve solo si aporta.
 - Título y miniatura complementarios (una sola promesa, sin repetirse).
 - Entregables listos para usar.
-- Shorts con inicio fuerte, sin introducciones.
+- **Solo vídeos largos en todos los canales; no se hacen Shorts** (D-ESTUDIO-005, 2026-10-26).
 - Guiones originales con aportación editorial reconocible.
 - Las 19:00 (Europe/Madrid) son un horario **usado históricamente**, no una regla ni un óptimo demostrado.

@@ -143,6 +143,8 @@ Objetivo de diseño: retención alta (meta de Christian: ≥ 50 %). Es un objeti
 
 ## 7. Shorts
 
+> **En suspenso** por D-ESTUDIO-005 (2026-10-26): no se hacen Shorts en ningún canal. Se conserva solo por si Christian lo reactiva.
+
 Cada short funciona solo y pertenece al canal.
 - Inicio inmediato: pregunta, contradicción o hecho concreto.
 - Una sola idea → revelación → cierre breve → puente al largo solo si es pertinente.
@@ -172,7 +174,7 @@ Nunca atribuir un mal resultado a "penalización", "algoritmo roto" o borrado de
 
 ## 9. Paquete de publicación (`PUBLICACION.md`)
 
-Título final · miniatura (archivo o concepto) · descripción natural · fuentes si corresponde · hashtags relevantes sin relleno · etiquetas solo si las pide · comentario fijado que abra una conversación concreta · lista de reproducción sugerida · capítulos solo con tiempos reales o marcados como provisionales · short de apoyo si lo pide.
+Título final · miniatura (archivo o concepto) · descripción natural · fuentes si corresponde · hashtags relevantes sin relleno · etiquetas solo si las pide · comentario fijado que abra una conversación concreta · lista de reproducción sugerida · capítulos solo con tiempos reales o marcados como provisionales · ~~short de apoyo~~ (sin Shorts, D-ESTUDIO-005).
 
 Hashtags y etiquetas no son el motor del crecimiento. Preparar el paquete **no** autoriza publicar.
 

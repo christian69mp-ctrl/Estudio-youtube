@@ -26,7 +26,7 @@ Cálculo: horas = suma de vistas de los vídeos largos publicados en los último
 4. **Llamada a la suscripción más clara** en los guiones de Código Mafia: un motivo concreto para suscribirse (la serie), no un «suscríbete» genérico.
 5. **Paquete definitivo** (D-ESTUDIO-003) en todos.
 
-**Prioridad 2 — Jager Aviación:** mantener Shorts (es donde está su audiencia) y diagnosticar por qué los largos no reciben impresiones antes de invertir más en largos.
+**Prioridad 2 — Jager Aviación:** ~~mantener Shorts~~ (sustituido por D-ESTUDIO-005: sin Shorts nuevos). Diagnosticar por qué los largos no reciben impresiones antes de invertir más en largos.
 
 **Lo que NO se hace:** comprar suscriptores, vistas u horas, ni intercambios de suscripciones. Lo prohíben las normas de YouTube y se arriesga el canal entero.
 
@@ -36,7 +36,7 @@ Cálculo: horas = suma de vistas de los vídeos largos publicados en los último
 3. Studio de «Policía antidroga»: qué porcentaje de espectadores se suscribió y de dónde llegaron.
 
 ## Lo que cambiaría la recomendación
-- Si las horas reales de Código Mafia están por debajo de ~2.500 → hay que valorar si Jager Aviación (que ya tiene los suscriptores) es mejor apuesta, con largos derivados de sus Shorts virales.
+- Si las horas reales de Código Mafia están por debajo de ~2.500 → hay que valorar si Jager Aviación (que ya tiene los suscriptores) es mejor apuesta, con largos sobre los temas de sus Shorts virales.
 - Si las horas ya superan 4.000 → todo el esfuerzo va a suscriptores.
 
 ## Calendario orientativo

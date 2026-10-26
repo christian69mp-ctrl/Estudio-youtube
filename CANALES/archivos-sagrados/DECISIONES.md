@@ -29,3 +29,7 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 - Qué se decidió: guiones largos con un mínimo de 3.750 palabras y tono claramente distinto al de los demás canales (ver PROTOCOLOS §6b).
 - Sustituye a: objetivo anterior de ~4.000 / 3.600–3.900 palabras.
 - Alcance: canal
+
+### D-SHORTS — 2026-10-26 — Sin Shorts
+- Estado: aprobada (Christian). Solo vídeos largos en este canal. Ver D-ESTUDIO-005.
+- Sustituye a: «Shorts: pendiente de confirmar» (ESTRATEGIA).

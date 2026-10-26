@@ -14,7 +14,7 @@ No se fijan hasta confirmar el enfoque.
 
 ## Formatos
 - Vídeo largo: duración habitual pendiente de confirmar.
-- Shorts: uso y relación con los largos pendiente de confirmar.
+- Shorts: **no se hacen** (D-SHORTS, 2026-10-26). Solo largos.
 
 ## Frecuencia y horario
 Pendiente de confirmar. Las 19:00 son un horario usado históricamente por Christian, no una regla para este canal.
