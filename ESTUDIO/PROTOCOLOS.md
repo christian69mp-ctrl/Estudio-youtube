@@ -114,7 +114,7 @@ Guardar en `VIDEOS/[id]/TITULOS_Y_MINIATURAS.md` con versión y estado.
 
 ---
 
-**Entrega al editor (Pixelido, D-ESTUDIO-006):** `LOCUCION_EDITOR.txt` limpio (solo voz) + indicaciones visuales si hacen falta + paquete definitivo de título y miniatura.
+**Entrega al editor (Pixelido, D-ESTUDIO-006):** un pedido por lote en `ESTUDIO/PEDIDOS_PIXELIDO/PX-NN.md` (tema · guion · descripción de edición · observaciones · miniatura), generado con `herramientas/pedido_pixelido.py`. Flujo y fases en `ESTUDIO/PIXELIDO.md`.
 
 ## 6b. Plantilla de guion largo de alta retención (aprobada 2026-10-23)
 
