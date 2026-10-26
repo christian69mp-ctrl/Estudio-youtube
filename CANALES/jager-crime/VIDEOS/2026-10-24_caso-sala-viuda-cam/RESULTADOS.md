@@ -14,3 +14,12 @@
 ## Qué observar
 - 48 h y 7 días: impresiones, CTR, fuentes de tráfico, duración media y % visto.
 - Umbral para replantear el paquete: CTR < 2 % con más de 1.000 impresiones. Requiere aprobación de Christian.
+
+## Captura 2 — 2026-10-26 17:54 (22 h 54 min tras publicar) [Studio, captura de Christian]
+- Visualizaciones: 7 · Me gusta: 1 · Comentarios: 0 · Clasificación por visualizaciones: 9 de 10
+- CTR de miniaturas: 1,6 %
+- Duración media de visualización: 3:34 de 14:58 → 23,8 % (cálculo: 214 s / 898 s)
+- Impresiones: no visibles en la captura (la anterior, de Christian: 250)
+- Canal (últimos 28 días): 153 visualizaciones; 5,9 h de tiempo de visualización (ambas a la baja); 194 suscriptores.
+
+Lectura: con 7 visualizaciones, CTR y retención no son concluyentes. El dato relevante es el del canal: 153 vistas en 28 días → canal casi sin actividad; YouTube distribuye poco a canales con poca actividad reciente (hipótesis).
