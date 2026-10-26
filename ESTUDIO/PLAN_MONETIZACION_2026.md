@@ -1,6 +1,27 @@
 # PLAN DE MONETIZACIÓN — objetivo: al menos 1 canal monetizado antes de Navidad 2026
 
-Creado: 2026-10-23 · Estado: **aprobado y en espera** (2026-10-23). No empezar hasta que Christian lo indique.
+Creado: 2026-10-23 · Estado: **ACTIVO desde 2026-10-26** (Christian: «Arranquemos el plan de monetización»).
+
+## Parámetros confirmados (2026-10-26) [DATO CHRISTIAN]
+- Capacidad: **2 vídeos largos por semana en total** (entre todos los canales).
+- Reparto: **toda la capacidad a Código Mafia** hasta que monetice. Los demás canales en pausa de producción nueva (sus guiones del PED-01 se conservan).
+- Formato: solo largos, sin Shorts (D-ESTUDIO-005).
+- Margen: 27/10 → 14/12 = 7 semanas = **~14 vídeos** en Código Mafia.
+
+## Cola de producción de Código Mafia (propuesta, pendiente de aprobar los temas)
+Días propuestos: **martes y viernes** [HIPÓTESIS; las 19:00 son horario histórico, no óptimo demostrado]. Las fechas pasan a `CALENDARIO.md` solo cuando Christian las confirme.
+
+| Sem. | Vídeo A | Vídeo B | Estado |
+|---|---|---|---|
+| 1 (27/10–2/11) | 'Ndrangheta en España | Complejos de ciberestafa | guiones listos (PED-01) |
+| 2 (3–9/11) | CM-I003 Clan Kinahan en Marbella | CM-I004 Operación Nécora | por aprobar |
+| 3 (10–16/11) | CM-I005 Mocro Maffia en la Costa del Sol | CM-I006 Operación Troika (mafia rusa) | por aprobar |
+| 4 (17–23/11) | CM-I007 Operación Emperador (Gao Ping) | CM-I008 Sito Miñanco | por aprobar |
+| 5 (24–30/11) | CM-I009 Hells Angels en Mallorca | CM-I010 Caso Malaya (corrupción en Marbella) | por aprobar |
+| 6 (1–7/12) | CM-I011 Clan de los Castañas (La Línea) | CM-I012 Los Charlines | por aprobar |
+| 7 (8–14/12) | CM-I013 Laureano Oubiña | CM-I014 La Camorra en España | por aprobar |
+
+Criterio de orden: primero los que combinan vínculo español + traidor/corrupción + estructura (la fórmula de «Policía antidroga», 26 k vistas). Cada vídeo enlaza con el siguiente de la serie (pantalla final + tarjeta) y entra en la lista «Mafias en España».
 
 ## Requisitos verificados (2026-10-23)
 - **Programa de Partners completo (ingresos por anuncios):** 1.000 suscriptores + 4.000 horas de visualización públicas válidas en los últimos 12 meses (los Shorts NO cuentan para las horas) **o** 10 M de visualizaciones de Shorts en 90 días. Además: sin advertencias activas, verificación en dos pasos, AdSense vinculado, cumplir políticas. Tras solicitarlo, la revisión suele tardar alrededor de un mes. Fuentes: vidIQ, TubeAnalytics (secundarias).
@@ -40,7 +61,8 @@ Cálculo: horas = suma de vistas de los vídeos largos publicados en los último
 - Si las horas ya superan 4.000 → todo el esfuerzo va a suscriptores.
 
 ## Calendario orientativo
-- 23/10–31/10: datos de Studio; aprobación del plan; primeros 2 temas de la serie.
-- Noviembre: 2 largos/semana en Código Mafia (sin Shorts, D-ESTUDIO-005).
+- 26/10: plan activado. Capacidad 2 largos/semana, todo a Código Mafia.
+- 27/10–2/11: publicar 'Ndrangheta y ciberestafa (guiones listos); aprobar cola de temas; captura de Studio → Ganar dinero.
+- 3/11–14/12: 2 largos/semana en Código Mafia según la cola (sin Shorts, D-ESTUDIO-005).
 - 1–15/12: revisar progreso semanal; solicitar en cuanto se cumplan los requisitos.
 - Antes del 1/02/2027: solicitud enviada como muy tarde.
