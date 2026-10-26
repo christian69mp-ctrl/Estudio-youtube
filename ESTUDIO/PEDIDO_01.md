@@ -1,6 +1,6 @@
 # PED-01 — Primer pedido para el nuevo editor
 
-> Editor de todos los canales desde 2026-10-26: **Pixelido** (D-ESTUDIO-006).
+> Editor: **Pixelido** (D-ESTUDIO-006). Se envía como pedido **PX-01**: `ESTUDIO/PEDIDOS_PIXELIDO/PX-01.md`.
 
 - Creado: 2026-10-22
 - Petición de Christian: 2 guiones por canal (Jager Aviación, Código Mafia, Jager Crime, Archivos Sagrados, Jager Explica) = 10 vídeos.

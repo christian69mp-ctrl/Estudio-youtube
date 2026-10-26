@@ -10,7 +10,7 @@ Actualizado: 2026-10-26 · Fuente: Christian [DATO CHRISTIAN]
   2. **Edición** → aprobada por Christian.
   3. **Miniatura** → aprobada por Christian.
 - Capacidad: 2 largos/semana (confirmado 26/10, compatible con el trabajo por fases).
-- El editor de PED-01 era otro; Pixelido es el definitivo.
+- **PX-01 = PED-01** (10 guiones, 2 por canal). **PX-02** = todo Código Mafia (plan de monetización).
 
 ## Qué prepara el estudio por pedido
 Un archivo por pedido en `ESTUDIO/PEDIDOS_PIXELIDO/PX-NN.md`, ordenado por vídeo, listo para copiar en Pixelido:

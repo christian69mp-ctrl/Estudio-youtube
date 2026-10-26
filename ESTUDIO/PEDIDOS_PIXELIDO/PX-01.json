@@ -1,13 +1,133 @@
-{"titulo": "PEDIDO PIXELIDO PX-01 — Código Mafia (borrador 2026-10-26)",
+{
+ "titulo": "PEDIDO PIXELIDO PX-01 — 10 vídeos (2 por canal) · 2026-10-26",
  "videos": [
-  {"dir": "CANALES/codigo-mafia/VIDEOS/2026-10-23_ndrangheta-espana", "canal": "Código Mafia",
+  {
+   "dir": "CANALES/jager-aviacion/VIDEOS/2026-10-23_japan-airlines-123",
+   "canal": "Jager Aviación",
+   "tema": "Japan Airlines 123 (1985): un Boeing 747 pierde el control hidráulico tras romperse el mamparo trasero y la tripulación lo mantiene en el aire 32 minutos sin mandos. Qué falló, cómo lucharon y qué cambió después.",
+   "estilo": "Estilo del canal: documental de aviación formal y entretenido. Recreaciones 3D/ilustración del avión, mapas de ruta, diagramas técnicos sencillos y rótulos limpios. Ritmo pausado en la tensión, más ágil en las explicaciones.",
+   "observaciones": [
+    "Locución: voz sintética con tono formal y cercano (la muletilla «Detengámonos en la cabina» abre las pausas explicativas).",
+    "Respeto total a las víctimas: sin recrear el impacto ni mostrar restos; sin fotos de víctimas, supervivientes ni tripulantes salvo licencia.",
+    "Cifras y nombres tal como están en la tabla; no cambiar números."
+   ],
+   "pantalla_final": "«¿Qué Pasó Realmente en el VUELO 522 DE HELIOS?» (https://youtu.be/v3ff8dfP-bs)."
+  },
+  {
+   "dir": "CANALES/jager-aviacion/VIDEOS/2026-10-23_spanair-jk5022",
+   "canal": "Jager Aviación",
+   "tema": "Spanair JK5022 (Madrid-Barajas, 2008): el avión intentó despegar sin flaps ni slats y la alarma que debía avisar no sonó. La cadena de fallos y lo que se aprendió.",
+   "estilo": "Estilo del canal: documental de aviación formal y entretenido. Recreaciones 3D/ilustración del avión, mapas de ruta, diagramas técnicos sencillos y rótulos limpios. Ritmo pausado en la tensión, más ágil en las explicaciones.",
+   "observaciones": [
+    "Locución: voz sintética con tono formal y cercano (la muletilla «Detengámonos en la cabina» abre las pausas explicativas).",
+    "Respeto total a las víctimas: sin recrear el impacto ni mostrar restos; sin fotos de víctimas, supervivientes ni tripulantes salvo licencia.",
+    "Cifras y nombres tal como están en la tabla; no cambiar números."
+   ],
+   "pantalla_final": "«583 VÍCTIMAS por Una Sola Palabra | Tenerife 1977» (https://youtu.be/yY81zmnuDEk)."
+  },
+  {
+   "dir": "CANALES/codigo-mafia/VIDEOS/2026-10-23_ndrangheta-espana",
+   "canal": "Código Mafia",
    "tema": "La 'Ndrangheta: la mafia calabresa que funciona como una familia de primos, controla la entrada de cocaína en Europa y tiene escondites en España (Ibiza, Benalmádena, Barcelona).",
    "estilo": "Estilo del canal: cine negro con humor. Fondo oscuro, acentos rojos, ilustraciones y animaciones (mapas, organigramas, cifras grandes). Los chistes van dirigidos a los criminales; ritmo ágil, un cambio visual cada pocos segundos. Sin fotos reales de detenidos.",
-   "observaciones": ["Locución: voz sintética con tono informal y burlón; en los bloques 15 (Lea Garofalo) y 21 (Duisburgo) el tono pasa a serio: música sobria, sin humor ni recreaciones del crimen.", "No mostrar detalles de cómo se oculta la droga (bloque 18).", "Logos (Europol) e imágenes de personas reales solo con licencia; si no, ilustración o silueta.", "Rótulos con cifras tal como están en la tabla; no cambiar números."],
-   "pantalla_final": "vídeo «El POLICÍA ANTIDROGAS que PROTEGÍA a los NARCOS en España» (https://youtu.be/dUcXsIlF1E8)."},
-  {"dir": "CANALES/codigo-mafia/VIDEOS/2026-10-23_complejos-ciberestafa", "canal": "Código Mafia",
+   "observaciones": [
+    "Locución: voz sintética con tono informal y burlón; en los bloques 15 (Lea Garofalo) y 21 (Duisburgo) el tono pasa a serio: música sobria, sin humor ni recreaciones del crimen.",
+    "No mostrar detalles de cómo se oculta la droga (bloque 18).",
+    "Logos (Europol) e imágenes de personas reales solo con licencia; si no, ilustración o silueta.",
+    "Rótulos con cifras tal como están en la tabla; no cambiar números."
+   ],
+   "pantalla_final": "«El POLICÍA ANTIDROGAS que PROTEGÍA a los NARCOS en España» (https://youtu.be/dUcXsIlF1E8)."
+  },
+  {
+   "dir": "CANALES/codigo-mafia/VIDEOS/2026-10-23_complejos-ciberestafa",
+   "canal": "Código Mafia",
    "tema": "Las fábricas de estafas del sudeste asiático: el mensaje «equivocado» que llega al móvil viene de complejos donde trabajan personas retenidas; cómo funcionan, adónde va el dinero y cómo protegerse.",
-   "estilo": "Estilo del canal: cine negro con humor. Fondo oscuro, acentos rojos, ilustraciones, mapas e infografías. Humor solo contra los jefes de las redes; nunca contra las víctimas (ni los estafados ni los trabajadores retenidos).",
-   "observaciones": ["Locución: voz sintética, tono informal y burlón; del bloque 10 al 14 (abusos a los trabajadores) tono serio, sin recreaciones de violencia.", "Chen Zhi / Prince Group: siempre «acusado, no condenado» en pantalla (bloque 24).", "Sin capturas reales de plataformas ni logotipos de WhatsApp/Telegram salvo licencia; usar iconos genéricos.", "El icono del enchufe aparece en el bloque 18 y se apaga en el 26 (es un recurso que se retoma)."],
-   "pantalla_final": "vídeo «El LADO OSCURO de Telegram» (https://youtu.be/Sy6zH00Lr6I)."}
- ]}
+   "estilo": "Estilo del canal: cine negro con humor. Fondo oscuro, acentos rojos, ilustraciones y animaciones (mapas, organigramas, cifras grandes). Los chistes van dirigidos a los criminales; ritmo ágil, un cambio visual cada pocos segundos. Sin fotos reales de detenidos. Humor solo contra los jefes de las redes; nunca contra las víctimas (ni los estafados ni los trabajadores retenidos).",
+   "observaciones": [
+    "Locución: voz sintética, tono informal y burlón; del bloque 10 al 14 (abusos a los trabajadores) tono serio, sin recreaciones de violencia.",
+    "Chen Zhi / Prince Group: siempre «acusado, no condenado» en pantalla (bloque 24).",
+    "Sin capturas reales de plataformas ni logotipos de WhatsApp/Telegram salvo licencia; usar iconos genéricos.",
+    "El icono del enchufe aparece en el bloque 18 y se apaga en el 26 (recurso que se retoma)."
+   ],
+   "pantalla_final": "«El LADO OSCURO de Telegram» (https://youtu.be/Sy6zH00Lr6I)."
+  },
+  {
+   "dir": "CANALES/jager-crime/VIDEOS/2026-10-23_marqueses-urquijo",
+   "canal": "Jager Crime (HistoriasProhibidas)",
+   "tema": "El crimen de los marqueses de Urquijo (Madrid, 1980): un condenado, una sentencia que habla de «solo o en compañía de otros» y preguntas que siguen abiertas.",
+   "estilo": "Estilo del canal: documental sobrio en formato expediente. Paleta fría y apagada, ilustraciones y recreaciones sin violencia explícita, rótulos tipo ficha policial (fecha, lugar), máquina de escribir como recurso. Ritmo pausado, música de tensión contenida.",
+   "observaciones": [
+    "Locución: voz sintética seria y sobria, sin humor.",
+    "Respeto a las víctimas: nunca recrear disparos, cuerpos ni el momento del crimen; sin fotos de víctimas salvo licencia.",
+    "Portadas y titulares de prensa siempre recreados, nunca reproducidos.",
+    "Solo se presenta como culpable a quien fue condenado; el resto de nombres, como sospechas o hipótesis, tal como dice la locución.",
+    "Cierre: la frase de la máquina de escribir queda sin punto final (bloque 30)."
+   ],
+   "pantalla_final": "«La VIUDA NEGRA de VALENCIA… La HISTORIA REAL que ATERRORIZÓ a ESPAÑA» (https://youtu.be/X22TEmEPZSs)."
+  },
+  {
+   "dir": "CANALES/jager-crime/VIDEOS/2026-10-23_asesino-baraja",
+   "canal": "Jager Crime (HistoriasProhibidas)",
+   "tema": "El asesino de la baraja (Madrid, 2003): 54 días de crímenes sin relación entre las víctimas, una carta como firma y un final inesperado: se entregó él mismo.",
+   "estilo": "Estilo del canal: documental sobrio en formato expediente. Paleta fría y apagada, ilustraciones y recreaciones sin violencia explícita, rótulos tipo ficha policial (fecha, lugar), máquina de escribir como recurso. Ritmo pausado, música de tensión contenida.",
+   "observaciones": [
+    "Locución: voz sintética seria y sobria, sin humor.",
+    "Respeto a las víctimas: nunca recrear disparos, cuerpos ni el momento del crimen; sin fotos de víctimas salvo licencia.",
+    "Portadas y titulares de prensa siempre recreados, nunca reproducidos.",
+    "Alfredo Galán: sin foto en primer plano salvo licencia; nombre en rótulo pequeño (bloque 23).",
+    "Arma: solo silueta genérica, sin detalle técnico (bloque 20).",
+    "Serie de Netflix (bloque 29): solo el nombre, sin logotipo salvo permiso."
+   ],
+   "pantalla_final": "vídeo de los marqueses de Urquijo (este mismo pedido) si ya está publicado; si no, «La VIUDA NEGRA de VALENCIA» (https://youtu.be/X22TEmEPZSs)."
+  },
+  {
+   "dir": "CANALES/archivos-sagrados/VIDEOS/2026-10-23_arca-alianza",
+   "canal": "Archivos Sagrados",
+   "tema": "El Arca de la Alianza: el objeto más sagrado de la Biblia desaparece del relato. Qué dice el texto, qué cuentan las tradiciones (Aksum, Etiopía) y qué se ha podido comprobar.",
+   "estilo": "Estilo del canal: misterio. Luz de velas y penumbra, texturas de pergamino y piedra, mapas antiguos, ilustraciones atmosféricas. Etiquetas recurrentes en pantalla: TEXTO (lo que dice la Biblia), TRADICIÓN (lo que se cuenta), EVIDENCIA (lo que se ha comprobado).",
+   "observaciones": [
+    "Locución: voz sintética misteriosa y pausada, hablando al espectador de tú.",
+    "Las etiquetas TEXTO / TRADICIÓN / EVIDENCIA deben verse claras: separan lo que dice la fuente de lo que es leyenda.",
+    "Sin imágenes de películas ni fotos de objetos o lugares reales salvo licencia; usar ilustración."
+   ],
+   "pantalla_final": "«Los GIGANTES de la BIBLIA: ¿quiénes eran realmente?» (https://youtu.be/fd9JRC_2AXk)."
+  },
+  {
+   "dir": "CANALES/archivos-sagrados/VIDEOS/2026-10-23_manuscritos-mar-muerto",
+   "canal": "Archivos Sagrados",
+   "tema": "Los Manuscritos del Mar Muerto: el hallazgo de un pastor en 1947, el anuncio de venta en un periódico y lo que revelaron (y lo que nunca dijeron) sobre la Biblia.",
+   "estilo": "Estilo del canal: misterio. Luz de velas y penumbra, texturas de pergamino y piedra, mapas antiguos, ilustraciones atmosféricas. Etiquetas recurrentes en pantalla: TEXTO (lo que dice la Biblia), TRADICIÓN (lo que se cuenta), EVIDENCIA (lo que se ha comprobado).",
+   "observaciones": [
+    "Locución: voz sintética misteriosa y pausada, hablando al espectador de tú.",
+    "Las etiquetas TEXTO / TRADICIÓN / EVIDENCIA deben verse claras: separan lo que dice la fuente de lo que es leyenda.",
+    "Sin imágenes de películas ni fotos de objetos o lugares reales salvo licencia; usar ilustración.",
+    "Anuncio del periódico de 1954 (bloque 1): recreado, no la página original salvo licencia."
+   ],
+   "pantalla_final": "vídeo del Arca de la Alianza (este mismo pedido) si ya está publicado; si no, «Los GIGANTES de la BIBLIA» (https://youtu.be/fd9JRC_2AXk)."
+  },
+  {
+   "dir": "CANALES/jager-explica/VIDEOS/2026-10-23_si-roma-no-hubiera-caido",
+   "canal": "Jager Explica",
+   "tema": "¿Y si el Imperio romano nunca hubiera caído? Cómo sería tu vida hoy: idioma, mapa, tecnología y costumbres, separando historia real de imaginación.",
+   "estilo": "Estilo del canal: animación divertida, colores vivos y saturados, estilo 3D cartoon. Comparaciones absurdas ilustradas literalmente, ritmo rápido. Sellos recurrentes en pantalla: CIENCIA (dato real), HISTORIA (dato real) e IMAGINANDO (especulación).",
+   "observaciones": [
+    "Locución: voz sintética divertida y enérgica.",
+    "Los sellos CIENCIA / HISTORIA / IMAGINANDO deben verse claros: separan lo real de lo imaginado.",
+    "Personaje del canal: diseño pendiente de definir; si no hay, se puede usar un guía genérico de dibujos animados."
+   ],
+   "pantalla_final": "«Así sería el mundo si Colón nunca hubiera llegado a América» (https://youtu.be/T4GgahAxokM)."
+  },
+  {
+   "dir": "CANALES/jager-explica/VIDEOS/2026-10-23_si-la-tierra-tuviera-anillos",
+   "canal": "Jager Explica",
+   "tema": "¿Y si la Tierra tuviera anillos como Saturno? Cómo se verían, qué cambiaría en el cielo, el clima y la vida diaria, y si ya pasó alguna vez.",
+   "estilo": "Estilo del canal: animación divertida, colores vivos y saturados, estilo 3D cartoon. Comparaciones absurdas ilustradas literalmente, ritmo rápido. Sellos recurrentes en pantalla: CIENCIA (dato real), HISTORIA (dato real) e IMAGINANDO (especulación).",
+   "observaciones": [
+    "Locución: voz sintética divertida y enérgica.",
+    "Los sellos CIENCIA / HISTORIA / IMAGINANDO deben verse claros: separan lo real de lo imaginado.",
+    "Personaje del canal: diseño pendiente de definir; si no hay, se puede usar un guía genérico de dibujos animados."
+   ],
+   "pantalla_final": "«La Teoría Científica que ATERRORIZA a los Expertos: EL FALSO VACÍO» (https://youtu.be/WpwpWOELMJM)."
+  }
+ ]
+}

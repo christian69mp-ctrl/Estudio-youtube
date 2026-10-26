@@ -45,6 +45,6 @@
 - Estado: aprobada (Christian)
 - Qué: **Pixelido** edita los vídeos de todos los canales a partir de ahora.
 - Entrega estándar a Pixelido por vídeo: `LOCUCION_EDITOR.txt` (solo texto para la voz sintética) + indicaciones visuales del `GUION.md` cuando hagan falta + paquete definitivo (título y prompt de miniatura para Gemini).
-- Confirmado (26/10): Pixelido **no** es el editor de PED-01; es el definitivo. Capacidad 2 largos/semana. Pedidos por lotes (todos los vídeos a la vez) con tema, guion, descripción de edición y observaciones; fases guion → edición → miniatura, cada una aprobada por Christian. Detalle: `ESTUDIO/PIXELIDO.md`.
+- Confirmado (26/10): ~~Pixelido no es el editor de PED-01~~ (malentendido, corregido el mismo día) → **PED-01 (10 guiones) es el primer pedido de Pixelido (PX-01)**; el siguiente (PX-02) será todo de Código Mafia. Pixelido es el editor definitivo. Capacidad 2 largos/semana. Pedidos por lotes (todos los vídeos a la vez) con tema, guion, descripción de edición y observaciones; fases guion → edición → miniatura, cada una aprobada por Christian. Detalle: `ESTUDIO/PIXELIDO.md`.
 - Sustituye a: «el editor» genérico en PED-01 y en el plan de monetización.
 - Alcance: todos los canales

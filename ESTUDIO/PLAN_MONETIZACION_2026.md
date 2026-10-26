@@ -13,13 +13,15 @@ Días propuestos: **martes y viernes** [HIPÓTESIS; las 19:00 son horario histó
 
 | Sem. | Vídeo A | Vídeo B | Estado |
 |---|---|---|---|
-| 1 (27/10–2/11) | 'Ndrangheta en España | Complejos de ciberestafa | guiones listos (PED-01) |
+| 1 (27/10–2/11) | 'Ndrangheta en España | Complejos de ciberestafa | en PX-01 (Pixelido) |
 | 2 (3–9/11) | CM-I003 Clan Kinahan en Marbella | CM-I004 Operación Nécora | por aprobar |
 | 3 (10–16/11) | CM-I005 Mocro Maffia en la Costa del Sol | CM-I006 Operación Troika (mafia rusa) | por aprobar |
 | 4 (17–23/11) | CM-I007 Operación Emperador (Gao Ping) | CM-I008 Sito Miñanco | por aprobar |
 | 5 (24–30/11) | CM-I009 Hells Angels en Mallorca | CM-I010 Caso Malaya (corrupción en Marbella) | por aprobar |
 | 6 (1–7/12) | CM-I011 Clan de los Castañas (La Línea) | CM-I012 Los Charlines | por aprobar |
 | 7 (8–14/12) | CM-I013 Laureano Oubiña | CM-I014 La Camorra en España | por aprobar |
+
+**Pedidos:** PX-01 = los 10 guiones de PED-01 (todos los canales). Los vídeos de las semanas 2–7 van en **PX-02** (todo Código Mafia).
 
 Criterio de orden: primero los que combinan vínculo español + traidor/corrupción + estructura (la fórmula de «Policía antidroga», 26 k vistas). Cada vídeo enlaza con el siguiente de la serie (pantalla final + tarjeta) y entra en la lista «Mafias en España».
 
