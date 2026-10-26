@@ -22,3 +22,15 @@ Un archivo por pedido en `ESTUDIO/PEDIDOS_PIXELIDO/PX-NN.md`, ordenado por víde
 
 ## Plazos
 - Las fases añaden tiempo entre pedido y publicación. Margen real por lote: **pendiente de medir** con el primer pedido (registrar fecha de pedido, aprobación de cada fase y entrega).
+
+## Voces y guiones (Christian, 2026-10-26)
+- **Una voz distinta por canal, acorde con su nicho, y siempre la misma en todos los vídeos de ese canal.** Registrar aquí qué voz asigna Pixelido a cada canal cuando la propongan.
+- **Los guiones los escribe el estudio** (no se encargan a Pixelido, para que no los cobren).
+
+| Canal | Voz asignada |
+|---|---|
+| Jager Aviación | pendiente |
+| Código Mafia | pendiente |
+| Jager Crime | pendiente |
+| Archivos Sagrados | pendiente |
+| Jager Explica | pendiente |
