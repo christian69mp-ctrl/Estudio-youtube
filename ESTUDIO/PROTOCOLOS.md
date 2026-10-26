@@ -114,6 +114,8 @@ Guardar en `VIDEOS/[id]/TITULOS_Y_MINIATURAS.md` con versión y estado.
 
 ---
 
+**Entrega al editor (Pixelido, D-ESTUDIO-006):** `LOCUCION_EDITOR.txt` limpio (solo voz) + indicaciones visuales si hacen falta + paquete definitivo de título y miniatura.
+
 ## 6b. Plantilla de guion largo de alta retención (aprobada 2026-10-23)
 
 Objetivo de diseño: retención alta (meta de Christian: ≥ 50 %). Es un objetivo, no una garantía; se valida con los datos de Studio.

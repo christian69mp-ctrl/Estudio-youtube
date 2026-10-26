@@ -40,3 +40,11 @@
 - Sustituye a: la recomendación de Shorts de enlace (2026-10-25/26) y al punto «3 Shorts por cada largo» de `PLAN_MONETIZACION_2026.md`.
 - Consecuencia: la vía a la monetización es solo por 4.000 horas de largos. Palancas: ritmo constante de largos, pantallas finales y tarjetas entre largos, listas de reproducción por serie, paquetes título+miniatura.
 - Alcance: todos los canales (Jager Aviación, Código Mafia, Jager Crime, Archivos Sagrados, Jager Explica). Jager Aviación: los Shorts ya publicados no se tocan (borrar contenido público solo con orden expresa); simplemente no se publican más.
+
+### D-ESTUDIO-006 — 2026-10-26 — Pixelido, editor de todos los canales
+- Estado: aprobada (Christian)
+- Qué: **Pixelido** edita los vídeos de todos los canales a partir de ahora.
+- Entrega estándar a Pixelido por vídeo: `LOCUCION_EDITOR.txt` (solo texto para la voz sintética) + indicaciones visuales del `GUION.md` cuando hagan falta + paquete definitivo (título y prompt de miniatura para Gemini).
+- Pendiente de confirmar: si Pixelido es el «nuevo editor» de PED-01; si la capacidad de 2 largos/semana (26/10) es la suya; plazos de entrega y formato en que quiere recibir el material.
+- Sustituye a: «el editor» genérico en PED-01 y en el plan de monetización.
+- Alcance: todos los canales

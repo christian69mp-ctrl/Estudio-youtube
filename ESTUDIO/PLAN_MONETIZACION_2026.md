@@ -41,7 +41,7 @@ Cálculo: horas = suma de vistas de los vídeos largos publicados en los último
 
 ## Estrategia propuesta (hipótesis por validar con Studio)
 **Prioridad 1 — Código Mafia: conseguir +650 suscriptores y asegurar las 4.000 horas antes de mediados de diciembre.**
-1. **Ritmo:** pasar de ~1 largo cada 10 días a **2 largos por semana** (según la capacidad real del editor). ~~3 Shorts por cada largo~~ — sustituido por D-ESTUDIO-005: sin Shorts; solo largos enlazados entre sí (pantallas finales, tarjetas, listas por serie).
+1. **Ritmo:** pasar de ~1 largo cada 10 días a **2 largos por semana** (capacidad confirmada por Christian el 26/10; editor: Pixelido, D-ESTUDIO-006). ~~3 Shorts por cada largo~~ — sustituido por D-ESTUDIO-005: sin Shorts; solo largos enlazados entre sí (pantallas finales, tarjetas, listas por serie).
 2. **Temas:** serie «Mafias en España», con el ángulo que mejor ha funcionado (vínculo español + traidor/corrupción + estructura). Candidatos por investigar: Operación Nécora (Galicia, 1990); Sito Miñanco; la mafia rusa en la Costa del Sol (Operación Troika); el narcotráfico en el Guadalquivir y las narcolanchas (tratamiento muy cuidadoso por las víctimas); el clan de los Charlines.
 3. **Aprovechar los vídeos que ya funcionan:** pantallas finales y comentario fijado en «Policía antidroga» y «Telegram» apuntando a los vídeos nuevos; lista de reproducción «Mafias en España».
 4. **Llamada a la suscripción más clara** en los guiones de Código Mafia: un motivo concreto para suscribirse (la serie), no un «suscríbete» genérico.
@@ -53,7 +53,7 @@ Cálculo: horas = suma de vistas de los vídeos largos publicados en los último
 
 ## Datos que deciden el plan
 1. Captura de **Studio → Ganar dinero** de Código Mafia (y de Jager Aviación): suscriptores y horas exactas.
-2. Capacidad real de producción del editor (vídeos largos por semana).
+2. ~~Capacidad del editor~~ → 2 largos/semana [DATO CHRISTIAN, 26/10]; editor: Pixelido.
 3. Studio de «Policía antidroga»: qué porcentaje de espectadores se suscribió y de dónde llegaron.
 
 ## Lo que cambiaría la recomendación
