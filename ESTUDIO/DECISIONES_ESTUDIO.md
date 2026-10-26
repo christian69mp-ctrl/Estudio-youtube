@@ -32,3 +32,11 @@
 - Qué: priorizar Código Mafia (horas estimadas cerca de 4.000; faltan ~650 suscriptores). Ver `ESTUDIO/PLAN_MONETIZACION_2026.md`.
 - Por qué: el 1/02/2027 los requisitos para nuevos solicitantes se duplican (8.000 h / 20 M Shorts); fuente oficial de YouTube.
 - Alcance: estudio
+
+### D-ESTUDIO-005 — 2026-10-26 — Sin Shorts en canales de largos
+- Estado: aprobada (Christian)
+- Qué: no se crean Shorts en Código Mafia ni en Jager Crime (ni en los canales que se orienten a largos salvo nueva orden). La audiencia se construye solo con vídeos largos.
+- Por qué [DATO CHRISTIAN + INTERPRETACIÓN]: en Jager Aviación los Shorts captaron suscriptores que no ven largos (99 % de las vistas son Shorts; los largos recientes 4–30 vistas). No se quiere repetir.
+- Sustituye a: la recomendación de Shorts de enlace (2026-10-25/26) y al punto «3 Shorts por cada largo» de `PLAN_MONETIZACION_2026.md`.
+- Consecuencia: la vía a la monetización es solo por 4.000 horas de largos. Palancas: ritmo constante de largos, pantallas finales y tarjetas entre largos, listas de reproducción por serie, paquetes título+miniatura.
+- Alcance: Código Mafia, Jager Crime (Jager Aviación: ver su propio criterio; Archivos Sagrados y Jager Explica: pendiente de confirmar)

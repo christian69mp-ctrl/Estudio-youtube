@@ -18,3 +18,9 @@ Niveles: hipótesis · indicio · patrón repetido.
 
 ## Hipótesis por probar
 (ninguna)
+
+### A-SHORTS — 2026-10-26 — Los suscriptores de Shorts no ven largos
+- Evidencia: inventario público 23/10 (99 % de vistas en Shorts; largos recientes 4–30 vistas) + experiencia de Christian [DATO CHRISTIAN].
+- Interpretación: la audiencia captada con Shorts no se traslada a los largos.
+- Limitación: sin datos de Studio (fuentes de tráfico, tipo de suscriptor).
+- Nivel: indicio. Ha motivado D-ESTUDIO-005 (sin Shorts en Código Mafia y Jager Crime).

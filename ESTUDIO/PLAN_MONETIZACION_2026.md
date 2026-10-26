@@ -20,7 +20,7 @@ Cálculo: horas = suma de vistas de los vídeos largos publicados en los último
 
 ## Estrategia propuesta (hipótesis por validar con Studio)
 **Prioridad 1 — Código Mafia: conseguir +650 suscriptores y asegurar las 4.000 horas antes de mediados de diciembre.**
-1. **Ritmo:** pasar de ~1 largo cada 10 días a **2 largos por semana** (según la capacidad real del editor), + **3 Shorts por cada largo**, que lleven al vídeo largo.
+1. **Ritmo:** pasar de ~1 largo cada 10 días a **2 largos por semana** (según la capacidad real del editor). ~~3 Shorts por cada largo~~ — sustituido por D-ESTUDIO-005: sin Shorts; solo largos enlazados entre sí (pantallas finales, tarjetas, listas por serie).
 2. **Temas:** serie «Mafias en España», con el ángulo que mejor ha funcionado (vínculo español + traidor/corrupción + estructura). Candidatos por investigar: Operación Nécora (Galicia, 1990); Sito Miñanco; la mafia rusa en la Costa del Sol (Operación Troika); el narcotráfico en el Guadalquivir y las narcolanchas (tratamiento muy cuidadoso por las víctimas); el clan de los Charlines.
 3. **Aprovechar los vídeos que ya funcionan:** pantallas finales y comentario fijado en «Policía antidroga» y «Telegram» apuntando a los vídeos nuevos; lista de reproducción «Mafias en España».
 4. **Llamada a la suscripción más clara** en los guiones de Código Mafia: un motivo concreto para suscribirse (la serie), no un «suscríbete» genérico.
@@ -41,6 +41,6 @@ Cálculo: horas = suma de vistas de los vídeos largos publicados en los último
 
 ## Calendario orientativo
 - 23/10–31/10: datos de Studio; aprobación del plan; primeros 2 temas de la serie.
-- Noviembre: 2 largos/semana + Shorts en Código Mafia.
+- Noviembre: 2 largos/semana en Código Mafia (sin Shorts, D-ESTUDIO-005).
 - 1–15/12: revisar progreso semanal; solicitar en cuanto se cumplan los requisitos.
 - Antes del 1/02/2027: solicitud enviada como muy tarde.
