@@ -1,6 +1,6 @@
 # Caso Sala — el crimen de la viuda de la CAM
 - Canal: jager-crime (HistoriasProhibidas)
-- Estado: **programado** para el 25/10/2026 a las 19:00 (Europe/Madrid) [DATO CHRISTIAN, 24/10/2026]. Pasa a «publicado» cuando se confirme.
+- Estado: **publicado** 25/10/2026 19:00 (verificado por API, https://youtu.be/Fkt3zqftJ0g).
 - Decisión: publicar antes que «Tor, pueblo maldito» (indicio: caso español conocido con nombre/apodo; «Viuda Negra» es el mejor vídeo del canal). Tor, ~1 semana después.
 
 ## Hechos verificados para título/descripción

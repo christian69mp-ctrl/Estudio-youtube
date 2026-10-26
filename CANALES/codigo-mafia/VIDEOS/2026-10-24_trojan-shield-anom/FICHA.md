@@ -1,7 +1,7 @@
 # Operación Trojan Shield (ANOM)
 - Canal: codigo-mafia
 - ID proyecto: 2026-10-24_trojan-shield-anom
-- Estado: **programado** para el 25/10/2026 a las 19:00 (Europe/Madrid) [DATO CHRISTIAN, 24/10/2026]. Pasa a «publicado» cuando se confirme.
+- Estado: **publicado** 25/10/2026 19:00 (verificado por API, https://youtu.be/T1Za6RgGpjE).
 - Pendiente: confirmar fecha de publicación.
 
 ## Historial
