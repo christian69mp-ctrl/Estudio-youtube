@@ -15,3 +15,7 @@ Comparar con «La POLICÍA descubrió los mensajes SECRETOS» (17/10; 126 vistas
   1. Miniatura: texto «LO LEÍAN TODO» pequeño (ilegible en móvil), avatar sin cara (sin emoción), escena oscura con varios elementos.
   2. Tema repetido: el canal publicó otro vídeo de mensajería cifrada (EncroChat/ANOM) el 17/10; quien ve el inicio puede sentir que ya lo vio.
 - Propuesta: miniatura v3 (ver `TITULOS_Y_MINIATURAS.md`). Cambiar solo la miniatura, mantener el título, medir 48 h. Requiere que Christian la cambie en Studio.
+
+## Dato 2026-10-27 [DATO CHRISTIAN]
+- Duración media de visualización: ~10 min sobre 18:38 (≈ 54 %).
+- Lectura [INTERPRETACIÓN]: quien entra se queda; el contenido funciona. El cuello de botella es solo el clic (miniatura). Christian pide una miniatura nueva en el estilo de sus dos vídeos con mejor rendimiento.
