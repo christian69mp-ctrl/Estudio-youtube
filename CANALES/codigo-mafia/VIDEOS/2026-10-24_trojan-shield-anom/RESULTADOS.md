@@ -19,3 +19,8 @@ Comparar con «La POLICÍA descubrió los mensajes SECRETOS» (17/10; 126 vistas
 ## Dato 2026-10-27 [DATO CHRISTIAN]
 - Duración media de visualización: ~10 min sobre 18:38 (≈ 54 %).
 - Lectura [INTERPRETACIÓN]: quien entra se queda; el contenido funciona. El cuello de botella es solo el clic (miniatura). Christian pide una miniatura nueva en el estilo de sus dos vídeos con mejor rendimiento.
+
+## Cambio de miniatura — 2026-10-27 ~12:13 [DATO CHRISTIAN]
+- Miniatura v4 (estilo «Telegram», LO LEÍAN TODO + móvil ANOM «NADIE NOS LEE») subida por Christian. Título sin cambios.
+- Referencia antes del cambio: 825 impresiones · CTR 0,5 % (~40 h).
+- Revisión: a las 48 h del cambio (~29/10): impresiones y CTR **solo del periodo posterior al cambio** (Studio → Estadísticas avanzadas, filtrar fechas).
