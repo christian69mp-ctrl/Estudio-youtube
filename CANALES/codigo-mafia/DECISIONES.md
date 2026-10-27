@@ -33,3 +33,9 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 ### D-SHORTS — 2026-10-26 — Sin Shorts
 - Estado: aprobada (Christian). No se publican Shorts en este canal; la audiencia se busca solo para vídeos largos. Ver D-ESTUDIO-005.
 - Sustituye a: «Shorts: pendiente de confirmar» (ESTRATEGIA) y a la recomendación de Shorts de enlace.
+
+### D-MINI — 2026-10-27 — Estilo de miniatura basado en los éxitos del canal
+- Estado: aprobada (Christian: «más como la de Telegram pero mejor»).
+- Qué: las miniaturas del canal siguen el patrón de Telegram (11,4 k) y Policía antidroga (26,2 k): **foto realista desaturada (verde azulado/gris), texto blanco enorme y condensado en 2–3 líneas ocupando media imagen, un objeto protagonista nítido (móvil, cámara acorazada…), figura humana sin cara visible o de espaldas; sin contorno rojo.** El texto habla al espectador o promete un «cómo» («NO DEBERÍAS VER ESTO», «ASÍ LIMPIABAN EL DINERO»).
+- Por qué: CTR 0,5 % en Trojan Shield con estilo ilustración/avatares (AP-002) frente a los dos vídeos más vistos del canal.
+- Sustituye a: identidad de miniatura «cine negro con acentos rojos» (ESTILO, 2026-10-23) y a los avatares azul/rojo (2026-10-24).

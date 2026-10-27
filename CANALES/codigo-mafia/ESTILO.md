@@ -23,7 +23,8 @@ Anterior: Documental de investigación, sobrio, con intriga basada en cómo se d
 - Identidad visual pendiente de definir (paleta, tipografía, composición).
 - Foco dominante: símbolo, objeto o escenario que represente la estructura (no un collage de caras y billetes).
 - No usar fotos reales de personas sin justificar; nunca imágenes sintéticas que parezcan fotos reales de detenidos o víctimas.
-- **Identidad de miniatura (propuesta 2026-10-23, D-ESTUDIO-003):** Estilo cine negro: fondo oscuro, acentos rojos, luz dura; un elemento irónico o inesperado (playa, móvil, fiesta) que choca con lo criminal; texto blanco con un acento rojo.
+- **Identidad de miniatura vigente: D-MINI (2026-10-27)** — foto realista desaturada, texto blanco enorme condensado en 2–3 líneas, un objeto protagonista, figura sin cara visible. Ver DECISIONES.
+- ~~Identidad de miniatura (propuesta 2026-10-23, D-ESTUDIO-003):~~ (sustituida por D-MINI) Estilo cine negro: fondo oscuro, acentos rojos, luz dura; un elemento irónico o inesperado (playa, móvil, fiesta) que choca con lo criminal; texto blanco con un acento rojo.
 - Paleta: ver identidad de miniatura.
 - Tipografía: pendiente de definir.
 - Texto: 0–4 palabras, solo si aporta.
@@ -31,5 +32,5 @@ Anterior: Documental de investigación, sobrio, con intriga basada en cómo se d
 ## Base común (preferencias generales de Christian)
 Miniaturas limpias y legibles en móvil; título y miniatura complementarios; shorts sin introducción.
 
-## Avatares en miniaturas (preferencia de Christian, 2026-10-24)
+## ~~Avatares en miniaturas (preferencia de Christian, 2026-10-24)~~ — sustituido por D-MINI (CTR 0,5 % en Trojan Shield)
 - Opción visual: avatares 3D sin rostro en lugar de personas. **Azul = los buenos (policía, agentes, víctimas protegidas); rojo = los malos (criminales).** Evita rostros reales y refuerza la lectura «buenos vs malos» a primera vista. Probado por primera vez en Trojan Shield (ANOM).
