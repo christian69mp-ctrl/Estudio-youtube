@@ -23,3 +23,8 @@
 - Canal (últimos 28 días): 153 visualizaciones; 5,9 h de tiempo de visualización (ambas a la baja); 194 suscriptores.
 
 Lectura: con 7 visualizaciones, CTR y retención no son concluyentes. El dato relevante es el del canal: 153 vistas en 28 días → canal casi sin actividad; YouTube distribuye poco a canales con poca actividad reciente (hipótesis).
+
+## Captura 3 — 2026-10-27 12:15 (~41 h) [DATO CHRISTIAN, Studio móvil]
+- Impresiones: 254 · CTR: 2,0 %
+- Fuentes (visualizaciones): sugeridos 66,7 % · exploración 22,2 % · notificaciones 11,1 % (proporciones compatibles con ~9 vistas: 6/2/1) [INTERPRETACIÓN]
+- Lectura [INTERPRETACIÓN]: las impresiones se han quedado planas (250 → 254 desde la captura 1): YouTube dejó de mostrarlo pronto. El CTR (2,0 %) es aceptable y 4 veces el de Trojan Shield; el punto débil es la retención (23,8 %, 3:34 de 14:58, captura 2), que es lo que frena la distribución. **No cambiar la miniatura.** Siguiente: curva de retención para localizar dónde se van.
