@@ -29,7 +29,7 @@
 
 ### D-ESTUDIO-004 — 2026-10-23 — Objetivo de monetización
 - Estado: **aprobada** (Christian, 2026-10-23: priorizar Código Mafia y la serie «Mafias en España»). ~~En espera~~ → **ACTIVA desde 2026-10-26**: 2 largos/semana, toda la capacidad a Código Mafia; resto de canales en pausa de producción nueva.
-- Qué: priorizar Código Mafia (horas estimadas cerca de 4.000; faltan ~650 suscriptores). Ver `ESTUDIO/PLAN_MONETIZACION_2026.md`.
+- Qué: priorizar Código Mafia (horas: **cumplidas** [DATO CHRISTIAN, 28/10]; faltan 651 suscriptores). Ver `ESTUDIO/PLAN_MONETIZACION_2026.md`.
 - Por qué: el 1/02/2027 los requisitos para nuevos solicitantes se duplican (8.000 h / 20 M Shorts); fuente oficial de YouTube.
 - Alcance: estudio
 

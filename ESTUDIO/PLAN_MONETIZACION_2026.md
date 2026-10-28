@@ -55,7 +55,15 @@ Cálculo: horas = suma de vistas de los vídeos largos publicados en los último
 
 ## Captura Studio → Ingresos de Código Mafia (2026-10-28) [DATO CHRISTIAN]
 - Requisitos (datos a 23/10/2026): **349 / 1.000 suscriptores** (faltan 651).
-- La app solo muestra la barra de suscriptores; **no muestra las horas**. No se puede deducir si las 4.000 h están cumplidas o no → pedir la página «Ganar dinero» de Studio en ordenador.
+- La app solo muestra la barra de suscriptores. **Horas: cumplidas** (≥ 4.000 h en 12 meses) [DATO CHRISTIAN, 28/10].
+- **Consecuencia: el único requisito pendiente son 651 suscriptores** (~90/semana hasta mediados de diciembre). Vigilar que las horas no caigan por debajo de 4.000 (ventana móvil de 12 meses) hasta solicitar.
+
+### Palancas de suscripción (propuestas 28/10; las ejecuta Christian en Studio)
+1. **Marca de agua** de suscripción en todos los vídeos (Studio → Personalización → Marca).
+2. **Pantalla final con elemento «Suscribirse»** + vídeo siguiente de la serie, en todos los largos, empezando por «Policía antidroga» y «Telegram» (son los que más vistas siguen trayendo).
+3. **Comentario fijado** en esos dos vídeos invitando a la serie «Mafias en España».
+4. **Guiones:** CTA con motivo concreto (la serie) tras el primer gran dato; recordatorio al final.
+5. Seguimiento semanal: suscriptores ganados por vídeo (Studio → Estadísticas → Audiencia).
 - Canal, últimos 28 días: 8,7 k visualizaciones · 386 h.
 
 ## Datos que deciden el plan
