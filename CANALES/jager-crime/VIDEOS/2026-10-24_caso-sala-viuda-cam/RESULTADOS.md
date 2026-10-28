@@ -32,3 +32,4 @@ Lectura: con 7 visualizaciones, CTR y retención no son concluyentes. El dato re
 ## Captura 4 — 2026-10-28 13:30 (primeros 2 d 18 h) [DATO CHRISTIAN]
 - Visualizaciones: 13 · CTR: 3,1 % · Duración media: 3:44 de 14:58 (≈ 25 %) · Puesto 9 de 10.
 - Lectura [INTERPRETACIÓN]: confirma el diagnóstico: la miniatura funciona (CTR al alza), la retención es el freno. Pendiente: curva de retención.
+- 2026-10-28 13:34: curva de retención **no disponible** («no hay suficiente información», 13 vistas). Me gusta 100 % (media del canal 94,8 %).

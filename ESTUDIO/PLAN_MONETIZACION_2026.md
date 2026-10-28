@@ -53,6 +53,11 @@ Cálculo: horas = suma de vistas de los vídeos largos publicados en los último
 
 **Lo que NO se hace:** comprar suscriptores, vistas u horas, ni intercambios de suscripciones. Lo prohíben las normas de YouTube y se arriesga el canal entero.
 
+## Captura Studio → Ingresos de Código Mafia (2026-10-28) [DATO CHRISTIAN]
+- Requisitos (datos a 23/10/2026): **349 / 1.000 suscriptores** (faltan 651).
+- La app solo muestra la barra de suscriptores; **no muestra las horas**. No se puede deducir si las 4.000 h están cumplidas o no → pedir la página «Ganar dinero» de Studio en ordenador.
+- Canal, últimos 28 días: 8,7 k visualizaciones · 386 h.
+
 ## Datos que deciden el plan
 1. Captura de **Studio → Ganar dinero** de Código Mafia (y de Jager Aviación): suscriptores y horas exactas.
 2. ~~Capacidad del editor~~ → 2 largos/semana [DATO CHRISTIAN, 26/10]; editor: Pixelido.
