@@ -24,3 +24,8 @@ Comparar con «La POLICÍA descubrió los mensajes SECRETOS» (17/10; 126 vistas
 - Miniatura v4 (estilo «Telegram», LO LEÍAN TODO + móvil ANOM «NADIE NOS LEE») subida por Christian. Título sin cambios.
 - Referencia antes del cambio: 825 impresiones · CTR 0,5 % (~40 h).
 - Revisión: a las 48 h del cambio (~29/10): impresiones y CTR **solo del periodo posterior al cambio** (Studio → Estadísticas avanzadas, filtrar fechas).
+
+## Captura 3 — 2026-10-28 13:30 (primeros 2 d 18 h) [DATO CHRISTIAN]
+- Visualizaciones: 21 · CTR acumulado: 0,7 % (mezcla miniatura antigua y v4) · Duración media: 12:44 de 18:38 (≈ 68 %) · Puesto 10 de 10.
+- Lectura [INTERPRETACIÓN]: la retención es excelente; el CTR acumulado sube de 0,5 a 0,7 % tras ~25 h con la v4 → la v4 rinde por encima de la antigua, pero sin las impresiones no se puede separar el CTR del periodo nuevo. Pedir impresiones totales.
+- Canal (28 días): 8,7 k visualizaciones · 386 h de visualización · 349 suscriptores.

@@ -28,3 +28,7 @@ Lectura: con 7 visualizaciones, CTR y retención no son concluyentes. El dato re
 - Impresiones: 254 · CTR: 2,0 %
 - Fuentes (visualizaciones): sugeridos 66,7 % · exploración 22,2 % · notificaciones 11,1 % (proporciones compatibles con ~9 vistas: 6/2/1) [INTERPRETACIÓN]
 - Lectura [INTERPRETACIÓN]: las impresiones se han quedado planas (250 → 254 desde la captura 1): YouTube dejó de mostrarlo pronto. El CTR (2,0 %) es aceptable y 4 veces el de Trojan Shield; el punto débil es la retención (23,8 %, 3:34 de 14:58, captura 2), que es lo que frena la distribución. **No cambiar la miniatura.** Siguiente: curva de retención para localizar dónde se van.
+
+## Captura 4 — 2026-10-28 13:30 (primeros 2 d 18 h) [DATO CHRISTIAN]
+- Visualizaciones: 13 · CTR: 3,1 % · Duración media: 3:44 de 14:58 (≈ 25 %) · Puesto 9 de 10.
+- Lectura [INTERPRETACIÓN]: confirma el diagnóstico: la miniatura funciona (CTR al alza), la retención es el freno. Pendiente: curva de retención.
