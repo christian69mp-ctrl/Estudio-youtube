@@ -29,3 +29,9 @@ Comparar con «La POLICÍA descubrió los mensajes SECRETOS» (17/10; 126 vistas
 - Visualizaciones: 21 · CTR acumulado: 0,7 % (mezcla miniatura antigua y v4) · Duración media: 12:44 de 18:38 (≈ 68 %) · Puesto 10 de 10.
 - Lectura [INTERPRETACIÓN]: la retención es excelente; el CTR acumulado sube de 0,5 a 0,7 % tras ~25 h con la v4 → la v4 rinde por encima de la antigua, pero sin las impresiones no se puede separar el CTR del periodo nuevo. Pedir impresiones totales.
 - Canal (28 días): 8,7 k visualizaciones · 386 h de visualización · 349 suscriptores.
+
+## Captura 4 — 2026-10-28 13:37 (desde la publicación) [DATO CHRISTIAN]
+- Impresiones totales: 889 (sugeridos 822 · exploración 55 · canal 7 · búsqueda 5).
+- Cálculo [INTERPRETACIÓN]: antes del cambio 825 imp. × 0,5 % ≈ 4 clics; ahora 889 × 0,7 % ≈ 6 clics → **miniatura v4: ~2 clics en ~64 impresiones (≈ 3 %, rango 1,6–4,7 % por redondeo)**. Indicio de mejora, muestra mínima.
+- Problema: las impresiones se estancaron tras ~1,5 días (825 → 889 en ~25 h). YouTube ya hizo su empujón inicial con la miniatura antigua.
+- Aprendizaje: en canales con poca actividad, el empujón se decide en las primeras ~36 h → la miniatura tiene que estar bien **antes** de publicar.

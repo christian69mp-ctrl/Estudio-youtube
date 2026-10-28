@@ -22,7 +22,8 @@ Niveles: hipótesis · indicio · patrón repetido.
 - Evidencia: 825 impresiones, CTR 0,5 %, 64 % exploración / 36 % sugeridos a ~40 h [DATO CHRISTIAN, 27/10].
 - Interpretación: el vídeo se mostró y no se eligió. Variables mezcladas: miniatura (avatar sin emoción, texto pequeño, escena cargada) y tema repetido (EncroChat/ANOM, 17/10).
 - Limitaciones: n=1; no se sabe cuánto pesa cada causa.
-- Qué lo confirmaría: CTR de la miniatura v3 con el mismo título; comparar con las miniaturas de los vídeos que funcionaron (Policía antidroga, Telegram, Búnker).
+- Actualización 28/10: con la miniatura v4 (estilo D-MINI) ≈ 3 % de CTR en ~64 impresiones (muestra mínima), pero las impresiones ya se habían estancado: el empujón inicial se perdió con la miniatura antigua.
+- Qué lo confirmaría: CTR de la miniatura v4 con el mismo título; comparar con las miniaturas de los vídeos que funcionaron (Policía antidroga, Telegram, Búnker).
 
 ## Hipótesis por probar
 (ninguna)
