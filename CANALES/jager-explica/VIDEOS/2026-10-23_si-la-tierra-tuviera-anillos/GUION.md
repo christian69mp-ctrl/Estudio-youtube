@@ -173,15 +173,15 @@ Si te ha gustado imaginar otro mundo posible, te dejo aquí otro de nuestros ví
 
 ## 2. INDICACIONES VISUALES (uso interno)
 
-> 2026-10-30 (D-FORMATO): vídeo real, sin animación ni personaje; «la persona» = persona real que aparece en algunos momentos, sin animar.
+> 2026-10-30 (D-FORMATO): vídeo normal (imágenes reales/de archivo y recreaciones), sin animación, sin personaje y sin persona/presentador.
 
 | # | Bloque | Visual | Texto |
 |---|---|---|---|
-| 1 | Arco en el cielo | La persona en una calle española de noche mirando un gran arco luminoso. | — |
+| 1 | Arco en el cielo | Calle española de noche bajo un gran arco luminoso en el cielo. | — |
 | 2 | Es un anillo | Zoom out a la Tierra con anillo. Sello IMAGINANDO. | — |
 | 3 | Científicos | Rocas con un sello «466 millones de años». | — |
 | 4 | Sellos | «CIENCIA» (matraz) e «IMAGINANDO» (nube), para todo el vídeo. | — |
-| 5 | Bienvenida | Logo; la persona con casco de astronauta. | — |
+| 5 | Bienvenida | Logo del canal. | — |
 | 6 | Anillos de Saturno | Saturno; zoom a trozos de hielo de distintos tamaños. Sello CIENCIA. | — |
 | 7 | Atasco | Coches en carretera circular a la misma velocidad. | — |
 | 8 | Finos | Campo de fútbol y hoja de papel. | Decenas de metros de grosor |
@@ -193,7 +193,7 @@ Si te ha gustado imaginar otro mundo posible, te dejo aquí otro de nuestros ví
 | 14 | CTA suscripción | Botón con anillo. | — |
 | 15 | Límite de Roche | Galleta que se parte al tirar de un extremo. Sello CIENCIA. | Límite de Roche |
 | 16 | Distancias | Escala Tierra–anillo–Luna. | Luna: ~384.000 km |
-| 17 | Ecuador | Persona en el ecuador viendo una raya fina. | — |
+| 17 | Ecuador | Vista desde el ecuador: el anillo se ve como una raya fina. | — |
 | 18 | España | Arco inclinado hacia el sur. | — |
 | 19 | Inmobiliaria | Cartel «Exterior con vistas al anillo». | — |
 | 20 | Noche luminosa | Paisaje nocturno iluminado; búho confuso; astrónomo enfadado. | — |

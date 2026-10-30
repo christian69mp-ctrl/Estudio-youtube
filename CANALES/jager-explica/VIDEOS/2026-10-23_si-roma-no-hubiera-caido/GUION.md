@@ -187,20 +187,20 @@ Si te ha gustado imaginar otra historia, te dejo aquí otro de nuestros grandes 
 
 ## 2. INDICACIONES VISUALES (uso interno)
 
-> 2026-10-30 (D-FORMATO): vídeo real, sin animación ni personaje; «la persona» = persona real que aparece en algunos momentos, sin animar.
+> 2026-10-30 (D-FORMATO): vídeo normal (imágenes reales/de archivo y recreaciones), sin animación, sin personaje y sin persona/presentador.
 
 | # | Bloque | Visual | Texto |
 |---|---|---|---|
-| 1 | Móvil en latín | La persona recibiendo un mensaje con un sello imperial; panadería con monedas. | — |
-| 2 | Wifi | La persona con una toga y un router. | — |
+| 1 | Móvil en latín | Móvil recibiendo un mensaje con un sello imperial; panadería con monedas. | — |
+| 2 | Wifi | Una toga junto a un router wifi. | — |
 | 3 | Preguntas | Tres burbujas: latín, revolución industrial, UE. | — |
 | 4 | Aviso historia/imaginación | Dos sellos que se usarán todo el vídeo: «HISTORIA» (pergamino) y «IMAGINANDO» (nube). | — |
-| 5 | Bienvenida | Logo; la persona se pone una toga. | — |
+| 5 | Bienvenida | Logo del canal. | — |
 | 6 | Edificio que se derrumba | Edificio cómico que cae con un calendario «martes». | — |
 | 7 | Rómulo Augústulo | Chaval con corona enorme que le tapa los ojos. Sello HISTORIA. | 476 |
 | 8 | «Jefecito» | Tarjeta de visita cómica. | — |
 | 9 | Odoacro | General que envía un paquete «Insignias» por mensajería a Constantinopla. | — |
-| 10 | Debate sobre 476 | Calendario del 21 de junio con la persona sudando en mayo. | — |
+| 10 | Debate sobre 476 | Calendario del 21 de junio; termómetro de mayo al rojo. | — |
 | 11 | Oriente sigue | Mapa partido en dos; la mitad oriental sigue iluminada hasta 1453. | Hasta 1453 |
 | 12 | Trajano 117 | Mapa del imperio en su máxima extensión. | ~5 millones de km² |
 | 13 | Población | Muchedumbre animada; cifra. | 50–70 millones (estimaciones) |
@@ -214,9 +214,9 @@ Si te ha gustado imaginar otra historia, te dejo aquí otro de nuestros grandes 
 | 21 | Idioma | Árbol genealógico del latín → lenguas romances. Sello HISTORIA. | — |
 | 22 | Abuelo vs nieto | Burbujas de diálogo con jerga distinta. | — |
 | 23 | Herón | Eolípila animada girando. Sello HISTORIA. | Siglo I |
-| 24 | Lavadora | La persona con una lavadora y un esclavo tachado (tratamiento respetuoso). | — |
+| 24 | Lavadora | Una lavadora y un esclavo tachado (tratamiento respetuoso). | — |
 | 25 | Panteón | Cúpula con un edificio moderno agrietado al lado. | — |
-| 26 | Termas | Barrio con termas y la persona con toalla. Sello IMAGINANDO. | — |
+| 26 | Termas | Barrio moderno con termas romanas. Sello IMAGINANDO. | — |
 | 27 | Mapa político | Europa sin fronteras actuales; bandera de la UE que se desvanece. Sello IMAGINANDO. | — |
 | 28 | Mejor amigo | Dos líneas temporales alternativas. | — |
 | 29 | Bizancio | Constantinopla; sello HISTORIA. | Roma de Oriente |
@@ -225,7 +225,7 @@ Si te ha gustado imaginar otra historia, te dejo aquí otro de nuestros grandes 
 | 32 | 1453 | Murallas; fin. | — |
 | 33 | CTA comentario | Pregunta en pantalla. | ¿Qué habría cambiado más? |
 | 34 | Herencia | Calendario con julio/agosto; mapa con Mérida, Zaragoza, León; acueducto de Segovia. | — |
-| 35 | Cierre | La persona dice «agosto» y aparece un emperador detrás. | — |
+| 35 | Cierre | Rótulo «agosto» y aparece un emperador. | — |
 | 36 | Pantalla final | Tarjeta del vídeo de Colón. | — |
 
 ## 3. FUENTES

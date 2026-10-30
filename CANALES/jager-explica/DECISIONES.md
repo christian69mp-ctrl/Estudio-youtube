@@ -36,5 +36,5 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 
 ### D-FORMATO — 2026-10-30 — Vídeo real con persona, sin animación ni personaje
 - Estado: aprobada (Christian).
-- Qué: Jager Explica deja la animación: vídeo normal (imágenes reales/de archivo, recreaciones realistas) y, en algunos momentos, una persona sin animar. Sin personaje propio.
+- Qué: Jager Explica deja la animación: vídeo normal (imágenes reales/de archivo, recreaciones realistas). ~~En algunos momentos, una persona sin animar~~ (corregido por Christian el mismo día): **sin personaje y sin persona/presentador.**
 - Sustituye a: animación 3D cartoon y «personaje del canal como guía» (ESTILO, IDENTIDAD, D-TONO en lo visual). El tono divertido se mantiene.
