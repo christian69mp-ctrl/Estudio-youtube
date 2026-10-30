@@ -33,3 +33,8 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 ### D-SHORTS — 2026-10-26 — Sin Shorts
 - Estado: aprobada (Christian). Solo vídeos largos en este canal. Ver D-ESTUDIO-005.
 - Sustituye a: «Shorts: pendiente de confirmar» (ESTRATEGIA).
+
+### D-FORMATO — 2026-10-30 — Vídeo real con persona, sin animación ni personaje
+- Estado: aprobada (Christian).
+- Qué: Jager Explica deja la animación: vídeo normal (imágenes reales/de archivo, recreaciones realistas) y, en algunos momentos, una persona sin animar. Sin personaje propio.
+- Sustituye a: animación 3D cartoon y «personaje del canal como guía» (ESTILO, IDENTIDAD, D-TONO en lo visual). El tono divertido se mantiene.
