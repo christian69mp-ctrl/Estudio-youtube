@@ -16,3 +16,5 @@
 
 ## Siguiente paso
 - Título y miniatura.
+
+- 2026-10-31: enviado a Pixelido en el pedido PX-01 (estado: en producción, fase guion).

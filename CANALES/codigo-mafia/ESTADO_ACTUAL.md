@@ -14,8 +14,8 @@ Actualizado: 2026-10-26
 | ID | Título de trabajo | Estado | Siguiente paso |
 |---|---|---|---|
 | 2026-10-24_trojan-shield-anom | Operación Trojan Shield (ANOM) | publicado 25/10 19:00 | revisar métricas a las 48 h y 7 días |
-| 2026-10-23_ndrangheta-espana | 'Ndrangheta (España) | en pedido PX-01 | Christian lo sube a Pixelido → fase guion |
-| 2026-10-23_complejos-ciberestafa | Complejos de ciberestafa | en pedido PX-01 | Christian lo sube a Pixelido → fase guion |
+| 2026-10-23_ndrangheta-espana | 'Ndrangheta (España) | en producción (PX-01 enviado 31/10) | Pixelido: fase guion → aprobar |
+| 2026-10-23_complejos-ciberestafa | Complejos de ciberestafa | en producción (PX-01 enviado 31/10) | Pixelido: fase guion → aprobar |
 
 ## Bloqueos
 - Sin datos de YouTube Studio (impresiones, CTR, retención, fuentes de tráfico).

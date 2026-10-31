@@ -18,3 +18,8 @@ Ver `BANDEJA_ENTRADA.md` → "Dudas abiertas del arranque".
 
 ## Estado en git
 Repositorio: github.com/christian69mp-ctrl/estudio-youtube (privado), rama `main`. Comprobar con `git status` / `git log origin/main` antes de afirmar que algo está subido.
+
+## 2026-10-31
+- PX-01 (10 guiones) enviado a Pixelido por Christian. Briefing de canales y hoja de solicitudes entregados; guiones en Drive (carpeta «Guiones Pixelido PX-01»).
+- Siguiente: aprobar temas de PX-02 (Código Mafia); métricas de Trojan Shield tras miniatura v4 y curva de retención del caso Sala; voces asignadas por Pixelido a cada canal.
+- Limpieza pendiente de confirmar: página de Claude «Guiones PX-01» y documento vacío «Guiones PX-01 — Pixelido» (ya no se usan).

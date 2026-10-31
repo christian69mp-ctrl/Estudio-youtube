@@ -16,3 +16,5 @@
 
 ## Siguiente paso
 - Título y miniatura. Confirmar nombre y diseño del personaje (el guion usa primera persona).
+
+- 2026-10-31: enviado a Pixelido en el pedido PX-01 (estado: en producción, fase guion).

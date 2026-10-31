@@ -34,3 +34,9 @@ Un archivo por pedido en `ESTUDIO/PEDIDOS_PIXELIDO/PX-NN.md`, ordenado por víde
 | Jager Crime | pendiente |
 | Archivos Sagrados | pendiente |
 | Jager Explica | pendiente |
+
+## Historial de pedidos
+| Pedido | Enviado | Contenido | Fase actual | Notas |
+|---|---|---|---|---|
+| PX-01 | 2026-10-31 [DATO CHRISTIAN] | 10 guiones (PED-01, 2 por canal) | 1 · guion (revisión de Pixelido / aprobación de Christian) | Guiones en Drive: `PEDIDOS_PIXELIDO/guiones_drive.md`. Medir días por fase. |
+| PX-02 | — | Código Mafia (plan de monetización) | pendiente: aprobación de temas CM-I003…CM-I014 | |

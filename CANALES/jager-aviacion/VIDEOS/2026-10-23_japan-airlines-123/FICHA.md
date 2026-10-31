@@ -19,3 +19,5 @@
 - Después: título y miniatura.
 - 2026-10-23 — guion v1 (3.377 palabras) e investigación.
 - 2026-10-23 — v2 ampliada a ~3.500–3.600 palabras por petición de Christian.
+
+- 2026-10-31: enviado a Pixelido en el pedido PX-01 (estado: en producción, fase guion).

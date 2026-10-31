@@ -17,3 +17,5 @@
 ## Siguiente paso
 - Título y miniatura.
 - 2026-10-23 — guion v1 (3.306 palabras; por debajo de 3.500 por falta de más datos verificados) + LOCUCION_EDITOR.txt.
+
+- 2026-10-31: enviado a Pixelido en el pedido PX-01 (estado: en producción, fase guion).
