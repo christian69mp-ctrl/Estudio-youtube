@@ -21,7 +21,7 @@ Días propuestos: **martes y viernes** [HIPÓTESIS; las 19:00 son horario histó
 | 6 (1–7/12) | CM-I011 Clan de los Castañas (La Línea) | CM-I012 Los Charlines | por aprobar |
 | 7 (8–14/12) | CM-I013 Laureano Oubiña | CM-I014 La Camorra en España | por aprobar |
 
-**Pedidos:** PX-01 = los 10 guiones de PED-01 (todos los canales). Los vídeos de las semanas 2–7 van en **PX-02** (todo Código Mafia).
+**Pedidos:** PX-01 = los 10 guiones de PED-01 (todos los canales; enviado 31/10). **PX-02 = 10 vídeos, solo Código Mafia** [DATO CHRISTIAN, 31/10]. Selección propuesta: CM-I003 a CM-I012 (los dos restantes, Oubiña y Camorra, quedan de reserva).
 
 Criterio de orden: primero los que combinan vínculo español + traidor/corrupción + estructura (la fórmula de «Policía antidroga», 26 k vistas). Cada vídeo enlaza con el siguiente de la serie (pantalla final + tarjeta) y entra en la lista «Mafias en España».
 
