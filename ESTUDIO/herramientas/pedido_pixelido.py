@@ -25,13 +25,14 @@ def main(spec, out):
     o = [f"# {p['titulo']}", "", "Fases: 1 guion → 2 edición → 3 miniatura. Cada fase necesita la aprobación de Christian antes de pasar a la siguiente.", ""]
     o.append("## Índice")
     for i, v in enumerate(p["videos"], 1):
-        o.append(f"{i}. {v['canal']} — {v['tema']}")
+        o.append(f"{i}. {v['canal']} — {v['tema']}" + (f" — Guion: {v['drive']}" if v.get("drive") else ""))
     for i, v in enumerate(p["videos"], 1):
         d = Path(v["dir"])
         loc = (d / "LOCUCION_EDITOR.txt").read_text().strip()
         titulo, texto, prompt = miniatura((d / "TITULOS_Y_MINIATURAS.md").read_text())
         o += ["", "---", "", f"## VÍDEO {i} — {v['canal']}", "",
               f"**Título de publicación:** {titulo}", "",
+              *( [f"**Guion en Google Drive:** {v['drive']}", ""] if v.get("drive") else [] ),
               "### Tema", v["tema"], "",
               f"### Guion ({len(loc.split())} palabras)", "", loc, "",
               "### Descripción de edición", v["estilo"], "",
