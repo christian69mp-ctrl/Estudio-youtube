@@ -24,16 +24,18 @@ Un archivo por pedido en `ESTUDIO/PEDIDOS_PIXELIDO/PX-NN.md`, ordenado por víde
 - Las fases añaden tiempo entre pedido y publicación. Margen real por lote: **pendiente de medir** con el primer pedido (registrar fecha de pedido, aprobación de cada fase y entrega).
 
 ## Voces y guiones (Christian, 2026-10-26)
-- **Una voz distinta por canal, acorde con su nicho, y siempre la misma en todos los vídeos de ese canal.** Registrar aquí qué voz asigna Pixelido a cada canal cuando la propongan.
+- ~~Una voz distinta por canal~~ → **Voces fijas por canal (D-ESTUDIO-007, 2026-11-04), siempre las mismas en todos los vídeos:**
 - **Los guiones los escribe el estudio** (no se encargan a Pixelido, para que no los cobren).
 
 | Canal | Voz asignada |
 |---|---|
-| Jager Aviación | pendiente |
-| Código Mafia | pendiente |
-| Jager Crime | pendiente |
-| Archivos Sagrados | pendiente |
-| Jager Explica | pendiente |
+| Jager Aviación | **Javier** |
+| Código Mafia | **Javier** |
+| Jager Crime (Historias Prohibidas) | **Berto** |
+| Archivos Sagrados | **Berto** |
+| Jager Explica | **Dandy** |
+
+Indicarlo en «Observaciones» de cada vídeo en todos los pedidos.
 
 ## Historial de pedidos
 | Pedido | Enviado | Contenido | Fase actual | Notas |

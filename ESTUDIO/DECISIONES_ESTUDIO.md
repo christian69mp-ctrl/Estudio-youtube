@@ -48,3 +48,10 @@
 - Confirmado (26/10): ~~Pixelido no es el editor de PED-01~~ (malentendido, corregido el mismo día) → **PED-01 (10 guiones) es el primer pedido de Pixelido (PX-01)**; el siguiente (PX-02) será todo de Código Mafia. Pixelido es el editor definitivo. Capacidad 2 largos/semana. Pedidos por lotes (todos los vídeos a la vez) con tema, guion, descripción de edición y observaciones; fases guion → edición → miniatura, cada una aprobada por Christian. Detalle: `ESTUDIO/PIXELIDO.md`.
 - Sustituye a: «el editor» genérico en PED-01 y en el plan de monetización.
 - Alcance: todos los canales
+
+### D-ESTUDIO-007 — 2026-11-04 — Voces de locución por canal (permanente)
+- Estado: aprobada (Christian: «y así para siempre»)
+- Qué: Código Mafia y Jager Aviación → voz **Javier**. Archivos Sagrados y Historias Prohibidas (Jager Crime) → voz **Berto**. Jager Explica → voz **Dandy**.
+- Sustituye a: «una voz distinta por canal» (PIXELIDO.md, 2026-10-26). Dos voces se comparten entre canales por decisión de Christian.
+- Aplicación: cada pedido a Pixelido indica la voz en las observaciones de cada vídeo.
+- Alcance: todos los canales

@@ -17,6 +17,7 @@ Anterior: Intriga documental, sobria y respetuosa.
 - A evitar: pendiente de recopilar.
 
 ## Locución
+- **Voz: Berto** (Pixelido; fija para siempre, D-ESTUDIO-007, 2026-11-04).
 - Ritmo real: pendiente de calibrar (supuesto provisional 140–160 palabras/min).
 
 ## Miniaturas
