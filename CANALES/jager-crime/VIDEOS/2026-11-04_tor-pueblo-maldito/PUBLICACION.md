@@ -58,3 +58,9 @@ Por qué: es una advertencia que da miedo y curiosidad a la vez; no afirma ning�
 Miniatura de YouTube 16:9, 1280x720, estilo fotográfico realista y cinematográfico, de noche. En la mitad derecha, en primer plano y muy nítido, un viejo cartel de carretera de chapa, oxidado y algo torcido, cubierto de escarcha, con el nombre del pueblo TOR en letras blancas sobre fondo oscuro. Detrás del cartel, desenfocado, un pequeño pueblo de casas de piedra en una ladera del Pirineo, bajo una montaña enorme y negra con la cima nevada que llena el fondo. Niebla baja. Todas las ventanas del pueblo están apagadas menos una, que brilla con una luz roja intensa: único punto de color. Paleta fría de azules y grises. En la mitad izquierda, texto enorme en tres líneas: NO / VAYAS / A TOR, en blanco puro, tipografía condensada extra gruesa (tipo Bebas Neue o Anton), con sombra negra suave, ocupando casi toda la altura de la imagen. Sin contorno de color. Ninguna persona visible. Alto contraste, legible en un móvil pequeño. Sin logotipos.
 
 **Revisión:** ¿El texto ocupa media imagen y se lee en pequeño? · ¿El cartel dice exactamente TOR? · ¿Se ve la ventana roja? · ¿Sin personas?
+
+## DEFINITIVO — 2026-11-04 (miniatura de Christian)
+- Miniatura: la hecha por Christian: texto PUEBLO MALDITO + cartel TOR + casa con ventana roja bajo la montaña (sustituye a v1 y v2).
+- Título ajustado para no repetir «maldito» de la miniatura (título y miniatura complementarios):
+  **13 CASAS, 3 MUERTOS y una guerra por la MONTAÑA | El crimen de Tor ⛰️**
+- Descripción, etiquetas, hashtags y comentario fijado: sin cambios.
