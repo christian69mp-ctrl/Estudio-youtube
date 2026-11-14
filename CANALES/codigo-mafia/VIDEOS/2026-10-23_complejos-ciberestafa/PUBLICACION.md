@@ -2,7 +2,9 @@
 Estado: listo para subir (no publicado hasta que Christian lo confirme). Vídeo terminado por Pixelido (PX-01).
 
 ## Título (copiar tal cual)
-Si un DESCONOCIDO te escribe «por error», MIRA esto antes de contestar 📲
+El mensaje «¿Eres Laura?» viene de una FÁBRICA de ESTAFAS 📲
+
+(vidIQ 14/11: 84/100 frente a 72/100 del título anterior, «Si un DESCONOCIDO te escribe «por error», MIRA esto antes de contestar 📲»)
 
 ## Miniatura
 Elegir con «Probar y comparar» entre la v2 (Gemini, NO CONTESTES) y la de Pixelido (protocolo de PROTOCOLOS §5).
