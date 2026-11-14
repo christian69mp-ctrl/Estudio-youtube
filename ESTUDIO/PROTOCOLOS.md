@@ -91,6 +91,11 @@ Guardar en `VIDEOS/[id]/TITULOS_Y_MINIATURAS.md` con versión y estado.
 
 ---
 
+**Elegir entre varias miniaturas (2026-11-14):**
+1. Filtro previo (Claude): legibilidad a tamaño móvil, una sola promesa, complementa al título, sin errores de texto ni logotipos/rostros reales. Se descarta la que falle.
+2. Puntuación vidIQ (`vidiq_score_thumbnail`, mismo título) de las finalistas: orientativa, no decide sola.
+3. Decisión real: **YouTube Studio → «Probar y comparar»** (hasta 3 miniaturas, solo en ordenador, empieza al publicar; gana por cuota de tiempo de visualización). Con pocas impresiones puede salir «Preferida» en vez de «Ganadora»: indicio, no prueba. Fuente: https://support.google.com/youtube/answer/13861714
+
 ## 6. Investigación y guion largo
 
 **Antes del guion** (en `FICHA.md`): público, promesa título+miniatura, pregunta narrativa principal, punto de vista diferencial, duración deseada, estructura, información imprescindible, fuentes pendientes.
