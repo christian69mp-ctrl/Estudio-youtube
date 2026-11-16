@@ -40,3 +40,9 @@ Si te quedas con ganas de más, aquí tienes el caso del policía antidroga que 
 
 ## Pantalla final
 Policía antidroga (https://youtu.be/dUcXsIlF1E8) + botón de suscripción. Lista: «Mafias en España».
+
+## Combinación definitiva — 2026-11-16
+- Título: La MAFIA más PODEROSA de Italia se ESCONDÍA en España 🇪🇸 (vidIQ 83)
+- Miniatura principal: EN IBIZA (Gemini), con billetes de euro.
+- Prueba A/B (Probar y comparar): + miniatura «LA MAFIA EN ESPAÑA».
+- Si Studio permite probar títulos: alternativa «La MAFIA que mueve la COCAÍNA de Europa se ESCONDÍA en España 🇪🇸» (vidIQ 84).

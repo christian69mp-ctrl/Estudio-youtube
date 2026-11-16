@@ -44,3 +44,8 @@ Y si quieres saber cómo Telegram se convirtió en la herramienta favorita del c
 
 ## Pantalla final
 Telegram (https://youtu.be/Sy6zH00Lr6I) + botón de suscripción.
+
+## Combinación definitiva — 2026-11-16
+- Título: El mensaje «¿Eres Laura?» viene de una FÁBRICA de ESTAFAS 📲 (vidIQ 84)
+- Miniatura principal: «NO» rojo + complejo con torres (Gemini), con el mensaje del móvil cambiado a «Perdón, me equivoqué».
+- Prueba A/B (Probar y comparar): + miniatura «NO CONTESTES» arriba (móvil «Perdón, me equivoqué»).
