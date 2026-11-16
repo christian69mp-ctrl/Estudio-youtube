@@ -46,3 +46,5 @@ Policía antidroga (https://youtu.be/dUcXsIlF1E8) + botón de suscripción. List
 - Miniatura principal: EN IBIZA (Gemini), con billetes de euro.
 - Prueba A/B (Probar y comparar): + miniatura «LA MAFIA EN ESPAÑA».
 - Si Studio permite probar títulos: alternativa «La MAFIA que mueve la COCAÍNA de Europa se ESCONDÍA en España 🇪🇸» (vidIQ 84).
+
+- 2026-11-16: **programado** por Christian (estado: programado).
