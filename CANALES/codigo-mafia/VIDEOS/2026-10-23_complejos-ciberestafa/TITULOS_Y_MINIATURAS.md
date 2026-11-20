@@ -27,3 +27,12 @@ Miniatura de YouTube 16:9, 1280x720, estilo fotográfico realista y cinematográ
 ## Título v2 — 2026-11-14 (vidIQ score_title) — SUSTITUYE al anterior
 **El mensaje «¿Eres Laura?» viene de una FÁBRICA de ESTAFAS 📲** · 84/100 (anterior: 72/100). Alternativa probada: «Te escriben «por error»… desde una PRISIÓN de estafadores 📲» 76/100.
 Ajuste de la miniatura v2 para no repetir el título: el mensaje del móvil pasa a ser «Perdona, me he equivocado de número 😊» (en lugar de «Hola, ¿eres Laura?»). Resto del prompt igual.
+
+## Miniatura v3 — 2026-11-20 (CTR 1,3 % con la v2 en el empujón inicial)
+Idea: enseñar la trampa. El título dice de dónde viene el mensaje; la miniatura enseña que la persona que escribe NO EXISTE (perfil falso, recurso documentado en el guion: fotos falsas y caras generadas por IA). Patrón del nicho: rostro + revelación (Jim Browning, «Inside a Pig Butchering Scam», 4,4 M; Into the Shadows, 532 k).
+**TEXTO:** NO EXISTE
+
+**PROMPT PARA GEMINI (copiar tal cual):**
+Miniatura de YouTube 16:9, 1280x720, estilo fotográfico realista. En la mitad derecha, una foto de perfil tipo selfie de una mujer joven ficticia, sonriente y simpática, con ropa casual y luz cálida, como la foto de un chat; su rostro es inventado y no se parece a ninguna persona real. La foto está rasgada en diagonal como un papel: por la rotura, en la parte inferior derecha, se ve lo que hay detrás: una sala oscura y fría con filas de personas de espaldas frente a ordenadores, vigiladas por un guardia de espaldas, luz azul de pantallas. Contraste fuerte entre la mitad cálida (la foto) y la fría (la sala). En la mitad izquierda, sobre fondo oscuro, texto enorme en dos líneas: NO arriba en rojo intenso y EXISTE abajo en blanco, tipografía condensada extra gruesa (tipo Bebas Neue o Anton), con sombra negra marcada, ocupando casi toda la altura de la imagen. Alto contraste, legible en un móvil pequeño. Sin logotipos ni rostros reconocibles; sin contenido sexual.
+
+**Revisión:** ¿Se entiende al instante «la chica es falsa, detrás hay una sala de estafadores»? · ¿Texto exacto NO EXISTE? · ¿La cara no se parece a nadie real? · ¿La rotura deja ver la sala en tamaño móvil?
