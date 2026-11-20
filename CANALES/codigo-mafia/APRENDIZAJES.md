@@ -25,5 +25,12 @@ Niveles: hipótesis · indicio · patrón repetido.
 - Actualización 28/10: con la miniatura v4 (estilo D-MINI) ≈ 3 % de CTR en ~64 impresiones (muestra mínima), pero las impresiones ya se habían estancado: el empujón inicial se perdió con la miniatura antigua.
 - Qué lo confirmaría: CTR de la miniatura v4 con el mismo título; comparar con las miniaturas de los vídeos que funcionaron (Policía antidroga, Telegram, Búnker).
 
+### AP-003 — El empujón inicial es de ~900 impresiones y luego se aplana
+- Canal / vídeos: Trojan Shield (889 imp. a 2,5 días) y Estafas «¿Eres Laura?» (951 imp. a 20 h).
+- Nivel: indicio (2 vídeos).
+- Evidencia: en ambos, curva plana unas horas, salto a ~900 y meseta [DATO CHRISTIAN].
+- Interpretación: YouTube prueba el vídeo con ~900 impresiones; con CTR < 2 % no amplía. La miniatura y el título tienen que estar bien ANTES de publicar.
+- Qué lo confirmaría: un vídeo con CTR ≥ 3 % en ese primer tramo que sí siga creciendo.
+
 ## Hipótesis por probar
 (ninguna)
