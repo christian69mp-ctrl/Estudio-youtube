@@ -1,0 +1,133 @@
+# GUION — Operación Emperador (v1, 2026-11-23)
+
+Octubre de 2012. Un polígono industrial en Fuenlabrada, al sur de Madrid. Naves enormes llenas de ropa, juguetes, bolsos y zapatillas. El sitio donde miles de tiendas de toda España van a comprar mercancía al por mayor. Un lugar ruidoso, lleno de furgonetas, de cajas y de gente trabajando.
+
+Y un día, entra la policía.
+
+Cuando terminan los registros, los agentes han encontrado algo que no tiene nada que ver con la ropa: unos diez millones de euros en dinero en efectivo. Billetes. En fajos. Y al final de la operación, más de ochenta detenidos.
+
+Pero lo más sorprendente no era el dinero. Era la lista de detenidos. Porque entre ellos, según la información publicada, había un concejal de Fuenlabrada, un sargento de la Guardia Civil, un inspector de la Policía, una funcionaria de una subdelegación del Gobierno… y uno de los actores de cine para adultos más famosos de España.
+
+Y en el centro de todo, según la policía, un empresario chino que tenía una galería de arte en Madrid y al que se señalaba como el cerebro de una red capaz de mover cientos de millones de euros al año.
+
+Esta es la historia de la Operación Emperador. La investigación que destapó, según la policía, una de las mayores redes de blanqueo de dinero de la historia de España. Y que, catorce años después, todavía no ha terminado de cerrarse.
+
+Bienvenido a Código Mafia. Hoy nos vamos de compras a un polígono. Pero no a por ropa.
+
+Antes de empezar, como siempre: en esta historia hay muchísimos acusados y muy pocas certezas judiciales definitivas. Así que vamos a separar con cuidado lo que dijo la policía, lo que dijo la fiscalía y lo que se ha resuelto en los tribunales. Y vamos a reírnos de lo que tiene gracia, que en esta historia es bastante.
+
+Empecemos por el lugar. El polígono Cobo Calleja, en Fuenlabrada, es uno de los mayores centros de venta al por mayor de Europa. Cientos de naves, muchas de ellas de empresarios de origen chino, que venden de todo a tiendas, bazares y comercios de toda España. La inmensa mayoría de esos negocios son completamente legales, y conviene dejarlo claro desde el principio: la comunidad china en España no tiene nada que ver con esta historia más allá de que algunos de los acusados eran de ese origen.
+
+Pero un lugar así tiene una característica que a la policía le llamaba mucho la atención. Por allí circulaba muchísimo dinero en efectivo. Y el dinero en efectivo, ya lo sabes si has visto otros vídeos de esta serie, es la materia prima favorita de cualquiera que quiera esconder algo.
+
+Según la investigación, en algunas de esas naves no solo se vendía ropa. Se hacía otra cosa: se recogía dinero en efectivo de procedencia sospechosa, se le hacía desaparecer del radar de Hacienda y se enviaba fuera de España, principalmente a China. Y a cambio, se cobraba una comisión.
+
+Es decir, según la policía, aquello funcionaba como una especie de banco paralelo. Un banco sin ventanilla, sin director de sucursal y sin preguntas incómodas.
+
+Y para entender por qué algo así es tan valioso para una organización criminal, hay que entender qué es exactamente blanquear dinero. Te lo explico sin tecnicismos.
+
+Imagina que alguien gana un millón de euros con un negocio ilegal. Tiene un problema enorme: ese dinero no lo puede usar. Si va a un banco con una bolsa llena de billetes, el banco pregunta de dónde sale. Si se compra un piso pagando en efectivo, salta una alarma. Si se compra un coche de lujo sin tener un sueldo que lo justifique, Hacienda llama a su puerta. El dinero sucio, por mucho que sea, es casi inútil mientras siga siendo sucio.
+
+Blanquear es, simplemente, darle a ese dinero una historia falsa. Hacer que parezca que viene de un negocio normal: de vender ropa, de exportar mercancía, de una empresa que factura. Y una vez que tiene esa historia, el dinero ya se puede gastar, invertir o guardar en un banco sin que nadie pregunte.
+
+Por eso las organizaciones criminales necesitan a alguien que haga ese trabajo por ellas. Y por eso, según los investigadores, un sitio con mucho movimiento de efectivo y mucho comercio con el extranjero era el escondite perfecto. Entre miles de operaciones legales, unas cuantas ilegales pasan mucho más desapercibidas.
+
+Y aquí está la clave de esta historia, así que guárdala bien. Según los investigadores, a ese banco paralelo no acudían solo empresarios que querían ahorrarse impuestos. También acudían, supuestamente, personas que tenían que mover dinero procedente de otros delitos. Y eso convertía una red de evasión fiscal en algo mucho más serio.
+
+Ahora, el protagonista.
+
+Se llama Gao Ping. Un empresario chino afincado en Madrid, con negocios de importación y una galería de arte. Según la policía, era el líder de la organización. Un hombre que, por su faceta de galerista, se movía más cerca del mundo del arte contemporáneo que de un polígono industrial.
+
+Y ese contraste es, precisamente, lo que hacía la historia tan llamativa. Por la mañana, cuadros y exposiciones. Según la acusación, por la tarde, sacos de billetes.
+
+Dieciséis de octubre de 2012. La Policía Nacional lanza la Operación Emperador. Registros en naves, viviendas y oficinas, sobre todo en la Comunidad de Madrid. Al día siguiente, el director general de la Policía da las cifras: ochenta y tres detenidos y trece millones de euros intervenidos, diez de ellos en dinero en efectivo encontrado en la redada.
+
+Diez millones en billetes. Para que te hagas una idea, si los pusieras en billetes de cincuenta euros, serían doscientos mil billetes. Más de doscientos kilos de papel. No es algo que se guarda debajo del colchón. Bueno, a no ser que tengas muchos colchones.
+
+Y la estimación de la policía era todavía más espectacular. Según los investigadores, la trama podía llegar a blanquear entre doscientos y trescientos millones de euros al año.
+
+Al año.
+
+Si esas cifras se demostraran, estaríamos hablando de una de las mayores operaciones de blanqueo detectadas nunca en España. Pero, como siempre en esta serie, la pregunta clave no es lo que estima la policía. Es lo que se puede demostrar ante un juez.
+
+Si te está gustando esta serie sobre las mafias y las tramas que han tenido su base en España, suscríbete a Código Mafia. Porque ahora vamos con la parte más surrealista de esta historia: la lista de detenidos.
+
+Porque una cosa es detener a ochenta personas. Y otra muy distinta es que entre ellas aparezcan perfiles que nadie se esperaba.
+
+Según la información publicada en aquellos días, entre los detenidos había un concejal del Ayuntamiento de Fuenlabrada. También un sargento de la Guardia Civil. Un inspector del Cuerpo Nacional de Policía. Y una funcionaria de la subdelegación del Gobierno en Zamora.
+
+Fíjate en el detalle. Según la investigación, una red que se dedicaba a mover dinero sin control tenía relación con personas que trabajaban precisamente en las instituciones que debían controlarla. Es como descubrir que en la banda que roba en la fábrica de chocolate trabaja el encargado de la seguridad. Y el de recursos humanos. Y el que firma los permisos.
+
+Y luego estaba él. El nombre que hizo que la Operación Emperador saliera en todos los telediarios y en todas las revistas: Nacho Vidal, uno de los actores de cine para adultos más conocidos de España y de Europa.
+
+Imagínate el titular. Una red de blanqueo internacional, un empresario de arte chino, policías, guardias civiles, políticos locales… y una estrella del cine porno. Si esto lo presentas en una reunión de guionistas, te dicen que estás exagerando.
+
+Y aquí es importante hacer una aclaración. Tanto el concejal como el actor quedaron en libertad con cargos poco después de su detención. Que te detengan no significa que seas culpable. Y en esta historia, como verás, la diferencia entre lo que se dice en una rueda de prensa y lo que se demuestra en un tribunal es enorme.
+
+Ahora te pregunto a ti: ¿qué es lo que más te ha sorprendido de la lista de detenidos? ¿El concejal, los agentes, la funcionaria o el actor? Déjamelo en los comentarios.
+
+Volvamos a Gao Ping. Tras la operación, pasó un tiempo en prisión provisional. Y en julio de 2015, quedó en libertad provisional tras pagar una fianza, con la prohibición de salir de España.
+
+Y mientras tanto, la historia dio un salto. Literalmente. Por encima de los Pirineos.
+
+Diez de marzo de 2015. Las autoridades de Andorra intervienen uno de sus bancos, la Banca Privada d'Andorra. ¿El motivo? Una nota de la agencia contra los delitos financieros del Tesoro de Estados Unidos que acusaba a ese banco de facilitar el blanqueo de dinero de varias organizaciones. Y entre ellas, según aquella nota, la de Gao Ping.
+
+Fue un terremoto en el pequeño país de los Pirineos. Un banco intervenido, clientes asustados, investigaciones abiertas. Y años de juicios. La justicia andorrana acabó condenando a varios exdirectivos y empleados de aquel banco por blanqueo de capitales.
+
+Y aquí conviene pararse un momento, porque esto dice mucho de cómo funciona el mundo del dinero. Durante décadas, Andorra fue conocida por su secreto bancario. Un pequeño país entre montañas, con bancos discretos y pocas preguntas. Y bastó una nota de una agencia estadounidense para que uno de esos bancos se viniera abajo en cuestión de días. Porque un banco que pierde la confianza de los bancos internacionales, que son los que le permiten mover dinero por el mundo, es un banco que deja de funcionar.
+
+Para el pequeño país de los Pirineos fue un golpe muy duro. Y para muchos clientes del banco que no tenían nada que ver con ninguna trama, también. Ese es otro de los efectos del blanqueo que casi nunca se cuentan: cuando estalla, no solo arrastra a los culpables. Arrastra a todos los que estaban alrededor.
+
+Es decir, según la investigación estadounidense, el supuesto banco paralelo del polígono de Fuenlabrada tenía su prolongación en un banco de verdad, con ventanilla y todo, en Andorra. Del polígono a la banca privada. Un ascenso social que ya quisieran muchos.
+
+Recapitulemos, que esta historia tiene más plantas que un centro comercial. Un polígono de Fuenlabrada. Un supuesto banco paralelo que mueve dinero en efectivo hacia China. Más de ochenta detenidos, entre ellos un concejal, varios agentes y un famoso actor. Diez millones en billetes. Un empresario del arte señalado como el cerebro. Y un banco de Andorra intervenido por la conexión, según Estados Unidos, con su organización.
+
+Ahora, la gran pregunta: ¿qué pasó en los tribunales?
+
+Y aquí es donde la historia se vuelve lenta. Muy lenta.
+
+Una causa con más de cien investigados, con dinero repartido por varios países, con documentación en varios idiomas y con empresas, cuentas y testaferros por todas partes, es una pesadilla para cualquier juzgado. La instrucción duró años. Y años. Y más años.
+
+En julio de 2020, ocho años después de la operación, la Audiencia Nacional rechazó los recursos de varios investigados, entre ellos Gao Ping, que pedían cerrar la causa. El caso seguía adelante, con acusaciones de organización criminal, blanqueo de capitales y delitos contra Hacienda.
+
+Y en 2022, el juez abrió juicio oral contra Gao Ping y más de cien personas. La fiscalía anticorrupción pedía para él cuarenta y siete años y tres meses de cárcel, y reclamaba en total más de cien millones de euros.
+
+Y aquí llega uno de los momentos más curiosos del proceso. Según la prensa, Gao Ping pidió que se le tradujera al chino el escrito de acusación. El juez lo rechazó y, según esa misma información, calificó la petición de abuso.
+
+Diez años después de la redada, pidiendo la traducción. Hay quien pide tiempo muerto en un partido de baloncesto. Y hay quien lo pide en un procedimiento judicial.
+
+¿Y cómo ha terminado?
+
+Aquí tengo que ser muy honesto contigo. Según la prensa andorrana, en 2026 la Audiencia Nacional cerró una gran parte del caso con un acuerdo de conformidad: es decir, muchos acusados aceptaron los hechos a cambio de penas reducidas. Según esa información, el acuerdo afectó a setenta y dos de los más de cien acusados, con penas que, de media, rondaban el año y tres meses.
+
+Un año y tres meses de media. Después de catorce años de investigación, ochenta y tres detenidos, diez millones en billetes y una estimación policial de cientos de millones blanqueados al año.
+
+Y sobre Gao Ping, que es el gran protagonista, no he podido confirmar en fuentes fiables cómo ha quedado su situación. Así que lo digo como es: hasta donde he podido comprobar, no consta una sentencia firme que lo condene, y por tanto hay que presumir su inocencia. Si eso cambia, lo actualizaremos.
+
+Y fíjate en el contraste con la estimación inicial. La policía hablaba de cientos de millones de euros al año. Y el final, por ahora, es un acuerdo con penas pequeñas para buena parte de los acusados. ¿Significa eso que la policía exageró? ¿O que, después de tanto tiempo, era casi imposible probarlo todo? Probablemente, un poco de las dos cosas.
+
+Y hay un tercer factor que casi nadie menciona y que es clave para entender estos finales. En el Código Penal español existe algo llamado atenuante de dilaciones indebidas. Explicado de forma sencilla: si un proceso judicial se alarga de forma excesiva sin culpa del acusado, la pena puede reducirse. La idea es justa: nadie debería pasarse media vida esperando a que lo juzguen.
+
+Pero en un caso como este, el efecto es evidente. Cuando una causa tarda más de una década en llegar a juicio, las penas que se pueden imponer bajan. Y cuando las penas bajan, a muchos acusados les compensa aceptar un acuerdo y cerrar el asunto, y a la fiscalía también, porque se ahorra un juicio larguísimo con un resultado incierto. Esto es una interpretación, no una explicación oficial del acuerdo, pero ayuda a entender por qué una operación gigantesca puede acabar con penas tan pequeñas.
+
+En otras palabras: en los macrocasos, el tiempo casi siempre juega a favor de los acusados.
+
+Porque hay un problema que se repite en esta serie. Cuanto más grande y más internacional es una trama de dinero, más difícil es demostrarla. Hay que seguir el rastro de miles de operaciones, en varios países, durante años. Y cada año que pasa, los recuerdos se borran, los papeles se pierden y los acusados cambian de vida.
+
+Hagamos aquí un pequeño homenaje al talento. Porque hay que tener un talento especial para que una historia empiece con diez millones de euros en billetes en un polígono… y acabe, catorce años después, con una discusión sobre si hay que traducir un documento al chino. Ni el mejor guionista de comedia judicial habría escrito un giro así.
+
+Pero detrás de la broma hay algo serio. Según la investigación, el dinero que pasaba por estas redes no era solo dinero de empresarios que no querían pagar impuestos. Era, supuestamente, también dinero de otros delitos. Y cada euro que se blanquea es un euro que permite a alguien seguir delinquiendo, comprar más droga, pagar a más gente o esconder sus beneficios. Por eso el blanqueo, aunque no tenga sangre ni pistolas, es el corazón de cualquier organización criminal. Sin un sitio donde lavar el dinero, el dinero sucio no sirve de nada.
+
+Y hay otra lección, quizá la más incómoda. La lista de detenidos de aquel octubre de 2012. Un concejal, un sargento, un inspector, una funcionaria. Personas que, según la investigación, tenían que estar al otro lado. No sabemos lo que hizo cada uno en detalle, y muchos de ellos pueden haber sido absueltos o haber llegado a acuerdos. Pero la sola sospecha de que una red así pudiera tener contactos dentro de las instituciones es lo que convierte un caso de dinero en un caso de confianza.
+
+Y una última reflexión. Cuando ves una operación espectacular en el telediario, con cifras gigantescas y detenidos famosos, recuerda esta historia. El día de la redada es solo el principio. Lo importante es lo que pasa en los años siguientes, cuando los focos se apagan y empieza el trabajo lento de demostrar cada cosa. Y ese trabajo, muchas veces, nadie lo cuenta.
+
+Recapitulemos por última vez. Octubre de 2012: ochenta y tres detenidos y diez millones en billetes. 2015: un banco de Andorra intervenido. 2020: la Audiencia Nacional mantiene viva la causa. 2022: se abre juicio y la fiscalía pide cuarenta y siete años para el señalado como cerebro. Y 2026, según la prensa andorrana: un acuerdo con penas pequeñas para buena parte de los acusados.
+
+Volvamos al principio. Un polígono en Fuenlabrada. Naves llenas de ropa y juguetes. Y detrás, según la policía, un banco sin ventanilla que movía cientos de millones al año hacia China.
+
+La Operación Emperador fue, en su día, el golpe más espectacular contra el blanqueo de dinero en España. Catorce años después, es también un ejemplo perfecto de lo difícil que es convertir una operación espectacular en una condena.
+
+Al final, del emperador queda sobre todo el nombre de la operación. La corona, de momento, nadie se la ha podido poner. Ni para coronarlo ni para quitársela.
+
+Si quieres ver otra gran operación española que acabó de forma inesperada, te dejo aquí la historia de la Operación Troika, la mafia rusa en Mallorca y la mansión que la justicia acabó devolviendo. Te espero allí.
