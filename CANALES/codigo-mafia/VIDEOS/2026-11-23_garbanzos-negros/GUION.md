@@ -1,0 +1,137 @@
+# GUION — Garbanzos negros (v1, 2026-11-23)
+
+Domingo, dieciséis de noviembre de 2025. Puerto de Bilbao.
+
+Un coche patrulla de la Guardia Civil circula por el recinto portuario. Nada raro: es su trabajo. Los guardias civiles de esa zona se encargan precisamente de vigilar lo que entra y lo que sale del puerto.
+
+Pero ese día, ese coche patrulla no estaba vigilando nada. Según la investigación, lo que llevaba dentro eran unos ciento veinte kilos de cocaína.
+
+Y quien lo detuvo no fue una unidad especial venida de Madrid. Ni la policía de otro país. Fueron sus propios compañeros. Guardias civiles de la misma comandancia. Gente con la que, probablemente, había compartido turnos, cafés y conversaciones durante años.
+
+El agente detenido no era un novato. Según la Delegación del Gobierno, era un veterano. Y según la información publicada, Asuntos Internos llevaba tiempo investigándolo.
+
+En el cuerpo hay una expresión para esto. Cuando un agente se pasa al otro lado, cuando trabaja para los que debería perseguir, lo llaman un garbanzo negro.
+
+Y este no es el único. Según datos del propio Ministerio del Interior, entre 2021 y 2025 ciento seis miembros de la Policía Nacional y de la Guardia Civil fueron detenidos o investigados por delitos relacionados con el narcotráfico. Ciento seis. Y en esa lista, como vas a ver, hay un caso que hace que ciento veinte kilos en un coche patrulla parezcan una anécdota: un alto mando policial con unos veinte millones de euros escondidos en las paredes de su casa.
+
+Bienvenido a Código Mafia. Hoy no vamos a hablar de un capo. Vamos a hablar de algo que necesitan todos los capos: alguien dentro.
+
+Antes de empezar, dos avisos importantes. El primero: todos los casos de este vídeo están en investigación o pendientes de juicio. Ninguno de los agentes de los que vamos a hablar ha sido condenado, así que todos tienen derecho a la presunción de inocencia. El segundo: la Policía Nacional y la Guardia Civil suman decenas de miles de agentes. Ciento seis casos en cinco años son muchos para lo que significan, pero son una parte muy pequeña de un colectivo en el que la inmensa mayoría se juega la vida contra estas mismas organizaciones. Este vídeo va de las manzanas podridas, no del cesto.
+
+Dicho esto, vamos al lío.
+
+Empecemos por entender por qué un narcotraficante quiere tener a un agente en nómina. Porque no es un capricho. Es, probablemente, la inversión más rentable de todo su negocio.
+
+Piénsalo así. Una organización que mete cocaína en España tiene un enemigo principal: la gente que la busca. Guardias civiles en los puertos, policías antidroga, funcionarios de aduanas, perros, escáneres, controles. Cada uno de ellos es un riesgo. Cada contenedor que se revisa es un alijo que se puede perder. Y cada alijo perdido son millones de euros.
+
+Ahora imagina que, en lugar de esquivar a todos esos controles, tienes a alguien dentro. Alguien que sabe qué contenedores se van a revisar y cuáles no. Alguien que sabe si hay una investigación abierta contra ti. Alguien que, si hace falta, puede mover la droga en un vehículo que nadie va a parar, porque es un vehículo oficial.
+
+Eso no tiene precio. Bueno, sí que lo tiene. Y según algunas investigaciones, es un precio altísimo.
+
+Por eso la corrupción es la pieza invisible de casi todas las grandes historias de narcotráfico. Las lanchas, los contenedores y los kilos salen en las fotos. Los que miran hacia otro lado, casi nunca.
+
+Volvamos a Bilbao.
+
+Según la información publicada, el guardia civil detenido estaba destinado desde hacía años en el área de Fiscal y Fronteras. Es decir, en la unidad que, en un puerto, se encarga del control aduanero. La que tiene que vigilar precisamente que no entre droga.
+
+Residía en Castro Urdiales, en Cantabria, a pocos kilómetros de Bilbao. Y tras la detención, los investigadores registraron una vivienda de su propiedad allí.
+
+Unos días después, el juez decretó su ingreso en prisión preventiva. Y la investigación, según las fuentes de la Guardia Civil, seguía abierta para tratar de averiguar si había más personas implicadas.
+
+Aquí conviene hacer una pausa y ser muy claros con lo que no sabemos. No sabemos de dónde venía esa cocaína. No sabemos para quién trabajaba, si es que trabajaba para alguien. No sabemos si había más agentes implicados. Y no sabemos qué dirá un juez cuando el caso llegue a juicio. Todo eso está todavía por resolver.
+
+Pero hay un detalle que lo dice todo sobre lo complicado que es combatir esto. A ese agente lo detuvieron sus propios compañeros. Lo que significa que dentro de la misma Guardia Civil hubo gente que sospechó, que investigó durante tiempo y que acabó deteniendo a uno de los suyos. Eso, que no es plato de buen gusto para nadie, es exactamente lo que tiene que pasar.
+
+Y ahora sí, vamos con el caso grande. El que hace que el de Bilbao parezca un aperitivo.
+
+Noviembre de 2024. Alcalá de Henares, en Madrid. Los investigadores entran en la vivienda de un hombre muy particular: Óscar Sánchez Gil, que era jefe de la Unidad de Delincuencia Económica y Fiscal de la Policía Nacional en Madrid. Es decir, uno de los responsables de investigar delitos económicos, como el blanqueo de dinero.
+
+Y lo que encuentran es difícil de creer. Según la información publicada, unos veinte millones de euros en efectivo. Escondidos en las paredes y en los techos de la casa.
+
+Veinte millones. Emparedados.
+
+Para que te hagas una idea: hay gente que esconde algo de dinero en un calcetín, o en una lata de galletas. Según la investigación, aquí el escondite era la propia casa. No es que hubiera dinero en la casa. Es que, en cierto modo, la casa estaba hecha de dinero.
+
+Y lo más irónico es el cargo. El hombre al que encontraron veinte millones escondidos era, precisamente, uno de los responsables de perseguir el dinero escondido. Es como descubrir que el jefe de bomberos tiene un almacén de gasolina en el sótano. Y que además fuma.
+
+Si te está gustando esta historia, suscríbete a Código Mafia. Aquí contamos cada semana las historias del crimen organizado que tienen que ver con España, con los datos contrastados y separando siempre lo probado de lo que no lo está. Y ahora viene lo más grave de este caso.
+
+¿De dónde salía ese dinero? Según la investigación, del narcotráfico.
+
+La detención de Óscar Sánchez llegó en el contexto de la investigación de una red relacionada con el mayor alijo de cocaína intervenido nunca en España: unas trece toneladas escondidas en un cargamento que llegó al puerto de Algeciras en octubre de 2024.
+
+Trece toneladas. Para que te hagas una idea de la escala: el caso de Bilbao eran ciento veinte kilos, que ya es muchísimo. Trece toneladas son más de cien veces esa cantidad. En un solo envío. Y un envío así no se organiza a ciegas. Una organización que se arriesga a perder una carga de ese tamaño necesita saber todo lo posible sobre quién vigila, cómo vigila y qué sabe la policía.
+
+Y ahí es donde, según la investigación, entraba en escena alguien de dentro.
+
+Según la policía, el exjefe de la UDEF habría colaborado con esa organización. Y no por un solo envío. El auto judicial habla de la presunta entrada en España de unas setenta y tres toneladas de cocaína entre 2020 y 2024. Según la investigación policial publicada, la implicación alcanzaría al menos a treinta y nueve contenedores, de los que solo dos fueron finalmente interceptados. Y por esa colaboración, según la policía, habría cobrado más de treinta y dos millones de euros.
+
+Setenta y tres toneladas. Si esos datos se confirmaran, estaríamos ante uno de los mayores casos de corrupción policial ligada al narcotráfico de la historia de Europa.
+
+En marzo de 2026, el juez de la Audiencia Nacional lo procesó por tráfico de drogas, blanqueo de capitales, cohecho y revelación de secretos. Esto último significa, según la acusación, que habría pasado información reservada a la organización: datos de investigaciones en marcha, de filtraciones, de lo que la policía sabía.
+
+Imagínate el valor de eso para una organización criminal. No solo tienes a alguien que te ayuda a meter la droga. Tienes a alguien que te avisa de lo que la policía sabe de ti. Es como jugar al póker viendo las cartas del contrario.
+
+Pero, como siempre en esta serie, cuidado con las conclusiones rápidas. Porque este caso ha tenido giros.
+
+En mayo de 2026, la Audiencia Nacional revocó ese procesamiento. Según la prensa, el tribunal consideró que la investigación estaba inconclusa, que todavía faltaban diligencias esenciales por practicar, algo que la propia fiscalía ya había advertido. Eso no significa que se anulara la causa: la investigación sigue abierta. Y Óscar Sánchez sigue en prisión provisional. De hecho, en septiembre de 2026 su prisión provisional se prorrogó dos años más.
+
+Y él, ¿qué dice? Según la información publicada, niega cualquier implicación en la organización. Su defensa sostiene que la causa está viciada, cuestiona las escuchas y asegura que se ocultaron pruebas. E incluso apunta a una supuesta red de corrupción en otro organismo. Todo eso tendrá que decidirlo un tribunal.
+
+Y un apunte sobre la prisión provisional, porque se confunde mucho. Estar en prisión provisional no es estar condenado. Es una medida que un juez puede tomar mientras se investiga, cuando considera que hay riesgo de fuga, de que se destruyan pruebas o de que se repita el delito. En este caso, según la prensa, el juez apreció riesgo de fuga. Pero la condena, si llega, solo puede llegar después de un juicio.
+
+Así que, hoy por hoy, lo que tenemos es esto: un alto mando policial en prisión provisional, unos veinte millones de euros encontrados en las paredes de su casa, una acusación de colaborar con la entrada de decenas de toneladas de cocaína y un proceso judicial todavía abierto. Y la presunción de inocencia, que vale para él igual que para cualquiera.
+
+Ahora te pregunto a ti: ¿qué te parece más grave? ¿Un agente que mueve la droga con sus propias manos, como el caso de Bilbao, o un mando que, según la acusación, vende información desde un despacho? Déjamelo en los comentarios, que me interesa mucho tu opinión.
+
+Recapitulemos. Bilbao, noviembre de 2025: un guardia civil de aduanas detenido por sus compañeros con unos ciento veinte kilos de cocaína en el coche patrulla. Madrid, noviembre de 2024: un jefe de la policía económica con unos veinte millones en las paredes y acusado de colaborar con la entrada de setenta y tres toneladas. Dos cuerpos distintos, dos ciudades distintas, dos niveles distintos. Y el mismo problema.
+
+Y ahora vamos a Galicia. Porque la historia no termina ahí.
+
+Agosto de 2026. Muxía, en la Costa da Morte, en A Coruña. Una operación conjunta de la Guardia Civil, la Policía Nacional y Vigilancia Aduanera interviene unos mil quinientos kilos de cocaína en plena descarga en un arenal de la costa. Según la prensa gallega, la operación acaba con más de veinte detenidos.
+
+Y entre ellos, otra vez, un guardia civil.
+
+Sobre su papel, la información es muy escasa, porque la causa, instruida en la Audiencia Nacional, está bajo secreto. Un medio ha publicado que, por su puesto, podía consultar las matrículas de los coches camuflados que se usan en las investigaciones, y que habría pasado esa información a la organización. Pero es una información de un solo medio, sin confirmar oficialmente, y así hay que tratarla.
+
+Si se confirmara, piensa en lo que significa. Los coches camuflados son la forma en que los investigadores siguen a los sospechosos sin ser vistos. Si la organización conoce sus matrículas, los investigadores dejan de ser invisibles. Es como jugar al escondite cuando el otro sabe exactamente dónde te has metido.
+
+Y Galicia, además, tiene memoria. Si has visto nuestro vídeo sobre la Operación Nécora, sabes que la historia del narcotráfico gallego siempre ha ido acompañada de una pregunta incómoda: cuánta gente miraba hacia otro lado. Treinta y seis años después de aquella operación, la pregunta sigue ahí.
+
+Y los casos no se quedan en estos tres. En la misma lista de los últimos años aparece, por ejemplo, el jefe del grupo de Estupefacientes de la Policía Nacional en Valladolid, detenido tras una operación en la que se intervinieron cuarenta kilos de cocaína. El responsable de perseguir la droga en una ciudad, detenido en una operación antidroga.
+
+Volvamos ahora a la cifra que abría este vídeo: ciento seis miembros de la Policía Nacional y la Guardia Civil detenidos o investigados por narcotráfico entre 2021 y 2025. Ese dato lo dio el Ministerio del Interior en respuesta a una pregunta parlamentaria.
+
+Y la cifra tiene trampa, aunque no la que piensas. El Ministerio no distingue cuántos de esos ciento seis fueron detenidos y cuántos solo investigados, y atribuye esa limitación a un cambio en su sistema de datos. Es decir, no sabemos cuántos de esos casos acabarán en condena y cuántos en absolución.
+
+Lo que sí sabemos es la tendencia. En 2025 fueron veinticuatro, doce de la Policía Nacional y doce de la Guardia Civil, igualando el máximo de 2023. Dicho de otra forma: aproximadamente un policía y un guardia civil cada mes.
+
+¿Por qué ocurre esto? Aquí entramos en el terreno de la interpretación, así que tómalo como tal.
+
+La primera razón es el dinero. Una sola operación de cocaína puede mover cifras que un agente no ganaría en toda su carrera. Cuando una organización ofrece cantidades así a cambio de mirar hacia otro lado una vez, la tentación es enorme. Y una vez que alguien acepta la primera vez, ya no hay vuelta atrás: la organización tiene algo con lo que presionarle.
+
+La segunda razón es la cantidad de cocaína que llega a Europa. Cuanto más volumen mueven las organizaciones, más dinero tienen para corromper, y más puertos, más aduanas y más funcionarios necesitan tener de su lado.
+
+Y la tercera es más incómoda: la presión. No todas las corrupciones empiezan con un sobre. Algunas pueden empezar con una amenaza. Sabemos dónde vives. Sabemos dónde estudian tus hijos. Y esa combinación de plata o plomo, que en España suena a película, es la forma en que estas organizaciones trabajan en muchos lugares del mundo.
+
+Hagamos aquí nuestro pequeño homenaje al talento. Porque hay que tener un talento especial para esconder veinte millones de euros en las paredes de tu casa y pensar que nadie se va a dar cuenta. Que el dinero hace bulto, amigo. Mucho bulto. Y hay que tener un talento todavía más especial para pasearse por un puerto con ciento veinte kilos de cocaína en un coche con las letras de la Guardia Civil en la puerta… en un sitio lleno de guardias civiles. El escondite perfecto, hasta que deja de serlo.
+
+Pero, fuera de la broma, este tema tiene un lado muy serio. Y es el de los que están al otro lado.
+
+En febrero de 2024, en el puerto de Barbate, en Cádiz, dos guardias civiles murieron cuando una narcolancha embistió la pequeña embarcación en la que estaban. Dos agentes que hacían su trabajo, con medios muy inferiores a los de las organizaciones que perseguían. Aquella imagen conmocionó a toda España.
+
+Por eso cada garbanzo negro hace tanto daño. No solo porque ayuda a meter droga. Sino porque traiciona a los compañeros que se juegan la vida. Cada información que se filtra puede arruinar meses de investigación. Cada matrícula revelada puede poner en peligro a un agente que sigue a un sospechoso. Y cada caso que sale en las noticias erosiona la confianza de la gente en las instituciones que la protegen.
+
+Y por eso también es importante quedarse con la otra parte de la historia. En los tres casos de este vídeo, a los agentes sospechosos los investigaron y los detuvieron otros agentes. Asuntos Internos, compañeros de comandancia, unidades de la Policía Nacional. El sistema tiene grietas, pero también tiene gente dedicada a taparlas.
+
+Recapitulemos por última vez. Tres casos, tres escalas. Un agente de aduanas con un coche patrulla cargado de cocaína en Bilbao. Un jefe de la policía económica con veinte millones en las paredes y acusado de ayudar a entrar setenta y tres toneladas. Un guardia civil detenido en una descarga de una tonelada y media en la Costa da Morte. Y detrás, una cifra oficial: ciento seis agentes detenidos o investigados en cinco años. Ninguno de los tres casos tiene todavía sentencia. Y los tres, si se confirman, dibujan el mismo patrón: las organizaciones no solo esquivan los controles. Intentan comprarlos.
+
+Y un detalle final sobre la expresión garbanzo negro. Fíjate en que no habla de un saco de garbanzos negros. Habla de uno. Del que aparece entre muchos que están bien. Y esa es, en el fondo, la mejor noticia de esta historia: que para que un garbanzo negro llame tanto la atención, el resto del plato tiene que estar limpio.
+
+Volvamos al principio. Un domingo en el puerto de Bilbao. Un coche patrulla que no debería llamar la atención de nadie. Y unos compañeros que, por desgracia, sí tuvieron que fijarse en él.
+
+Los grandes narcos necesitan lanchas, contenedores, dinero y rutas. Pero, sobre todo, necesitan algo que no sale en las fotos: a alguien dentro. Y mientras haya tanto dinero en juego, siempre habrá alguien intentando comprar a esa persona.
+
+La pregunta no es si habrá más garbanzos negros. La pregunta es cuántos se detectan a tiempo.
+
+Si quieres entender de dónde viene todo esto, te dejo aquí la historia de la Operación Nécora, el día que cayeron los grandes narcos gallegos. Te espero allí.

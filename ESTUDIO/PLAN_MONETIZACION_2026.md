@@ -16,7 +16,7 @@ Días propuestos: **martes y viernes** [HIPÓTESIS; las 19:00 son horario histó
 | 1 (27/10–2/11) | 'Ndrangheta en España | Complejos de ciberestafa | en PX-01 (Pixelido) |
 | 2 (3–9/11) | CM-I003 Clan Kinahan en Marbella | CM-I004 Operación Nécora | por aprobar |
 | 3 (10–16/11) | CM-I005 Mocro Maffia en la Costa del Sol | CM-I006 Operación Troika (mafia rusa) | por aprobar |
-| 4 (17–23/11) | CM-I007 Operación Emperador (Gao Ping) | CM-I008 Sito Miñanco | por aprobar |
+| 4 (17–23/11) | CM-I007 Operación Emperador (Gao Ping) | CM-I015 Garbanzos negros (sustituye a CM-I008 Sito Miñanco, 23/11) | por aprobar |
 | 5 (24–30/11) | CM-I009 Hells Angels en Mallorca | CM-I010 Caso Malaya (corrupción en Marbella) | por aprobar |
 | 6 (1–7/12) | CM-I011 Clan de los Castañas (La Línea) | CM-I012 Los Charlines | por aprobar |
 | 7 (8–14/12) | CM-I013 Laureano Oubiña | CM-I014 La Camorra en España | por aprobar |

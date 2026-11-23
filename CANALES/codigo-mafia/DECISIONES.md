@@ -39,3 +39,9 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 - Qué: las miniaturas del canal siguen el patrón de Telegram (11,4 k) y Policía antidroga (26,2 k): **foto realista desaturada (verde azulado/gris), texto blanco enorme y condensado en 2–3 líneas ocupando media imagen, un objeto protagonista nítido (móvil, cámara acorazada…), figura humana sin cara visible o de espaldas; sin contorno rojo.** El texto habla al espectador o promete un «cómo» («NO DEBERÍAS VER ESTO», «ASÍ LIMPIABAN EL DINERO»).
 - Por qué: CTR 0,5 % en Trojan Shield con estilo ilustración/avatares (AP-002) frente a los dos vídeos más vistos del canal.
 - Sustituye a: identidad de miniatura «cine negro con acentos rojos» (ESTILO, 2026-10-23) y a los avatares azul/rojo (2026-10-24).
+
+### D-PX02-SUST — 2026-11-23 — Sito Miñanco sustituido por «Garbanzos negros» en PX-02
+- Estado: aprobada (Christian: «Sito Miñanco lo podemos cambiar por operación garbanzo» → «Garbanzo negro»).
+- Qué: el hueco 6 de PX-02 pasa a CM-I015 (agentes acusados de colaborar con el narco: Bilbao 2025, exjefe UDEF, Muxía 2026). CM-I008 queda en pausa, no descartado.
+- Por qué: decisión editorial de Christian; tema actual con vínculo español y ángulo de traidor/corrupción (el que mejor funciona en el canal).
+- Sustituye a: CM-I008 Sito Miñanco en el pedido PX-02 y en la semana 4 del plan de monetización.
