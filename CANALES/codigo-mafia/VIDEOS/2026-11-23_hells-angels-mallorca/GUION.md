@@ -1,0 +1,133 @@
+# GUION — Hells Angels en Mallorca (v1, 2026-11-23)
+
+Veintitrés de julio de 2013. Mallorca. Pleno verano. Playas llenas, aeropuerto a reventar, turistas de media Europa tomando el sol.
+
+Y mientras tanto, la Guardia Civil y la Policía Nacional, con la colaboración de Europol, de Interpol y de policías de Alemania, Austria y Países Bajos, lanzan una operación en la isla. Registros en decenas de domicilios. Y al final del día, unos veinticinco detenidos.
+
+Entre ellos, un alemán con una casa en Mallorca valorada, según la policía, en unos dos millones y medio de euros. Un hombre al que las autoridades presentaron como el líder europeo de una de las bandas moteras más famosas del mundo.
+
+Los Hells Angels. Los Ángeles del Infierno.
+
+Las acusaciones eran de todo menos pequeñas: tráfico de drogas, extorsión, blanqueo de dinero, prostitución y trata de mujeres. Según la investigación, la banda se había instalado en una de las islas más turísticas de Europa para montar allí su negocio.
+
+Diez años después, aquel hombre se sentó en el banquillo de la Audiencia Nacional. La fiscalía pedía para él trece años de cárcel.
+
+Y salió absuelto. De todo.
+
+Esta es la historia de los Ángeles del Infierno en Mallorca. Una operación internacional, decenas de acusados, chalecos de cuero y motos enormes. Y un final que nadie se esperaba.
+
+Bienvenido a Código Mafia. Hoy nos subimos a una Harley. Pero sin casco, que lo que viene es una curva tras otra.
+
+Antes de arrancar, el aviso de siempre, que en esta historia es especialmente importante. La sentencia descartó que existiera una organización criminal y absolvió al principal acusado. Así que vamos a separar con mucho cuidado lo que dijo la policía, lo que pedía la fiscalía y lo que finalmente se dio por probado. Y vamos a reírnos de lo que tiene gracia, pero no de las posibles víctimas.
+
+Empecemos por el principio. ¿Quiénes son los Hells Angels?
+
+Es un club de moteros nacido en California a finales de los años cuarenta. Con el tiempo se extendió por todo el mundo, organizado en lo que ellos llaman capítulos: cada capítulo es una sección local, con su propio presidente, sus propios miembros y su propio territorio. Su símbolo es una calavera con alas, y sus chalecos de cuero son prácticamente un uniforme.
+
+Ahora bien, aquí hay que ser precisos. Los Hells Angels se presentan a sí mismos como un club de amantes de las motos. Pero en varios países, las autoridades han vinculado a algunos de sus capítulos o miembros con delitos graves. En algunos lugares, de hecho, se han llegado a prohibir capítulos concretos, o incluso el propio club, como ocurrió en Países Bajos por decisión judicial.
+
+Y su estructura interna ayuda a entender por qué despiertan tantas sospechas. Los clubes moteros de este tipo suelen funcionar con cargos muy definidos: un presidente, un vicepresidente, un tesorero, un responsable de disciplina. Hay periodos de prueba para entrar, reglas estrictas y una lealtad al grupo que se lleva literalmente bordada en la espalda. Para sus miembros, eso es hermandad. Para un investigador, una estructura jerárquica con disciplina interna se parece mucho a lo que el Código Penal llama organización. Y ese choque de miradas es justo lo que acabó decidiéndose en un tribunal. Y precisamente esa diferencia, entre club motero y organización criminal, es el centro de toda esta historia.
+
+Porque una cosa es que algunos miembros de un club cometan delitos. Y otra muy distinta es demostrar que el club en sí es una empresa criminal. Guárdate esta idea, porque al final del vídeo vas a ver por qué es tan importante.
+
+Ahora vamos con el protagonista.
+
+Se llama Frank Hanebuth. Alemán, presidente de los Hells Angels de Hannover, y una de las figuras más conocidas del mundo motero en Alemania.
+
+Según la fiscalía, Hanebuth había elegido Mallorca para crear allí un nuevo capítulo de los Ángeles del Infierno. Y no solo eso: según la acusación, había seleccionado personalmente a sus miembros.
+
+¿Y por qué Mallorca? Aquí entramos en el terreno de la interpretación, así que tómalo como tal. Mallorca tiene una enorme comunidad alemana, residente y turística. Tiene una vida nocturna muy intensa, mucho movimiento de dinero y un sector del ocio en el que se mueven cifras muy grandes. Para cualquiera que quiera hacer negocios, legales o no, en un entorno donde se habla alemán y hay mucho dinero, la isla es un lugar evidente.
+
+Y según la policía, el negocio no era precisamente el de alquilar motos.
+
+Veamos qué decía la acusación. Según la fiscalía, los miembros del grupo en Mallorca se dedicaban a varias actividades. La extorsión. El tráfico de drogas. El blanqueo de dinero. Y la parte más grave de todas: la explotación sexual de mujeres.
+
+Según el relato de la acusación, varias mujeres de Europa del Este habrían sido atraídas a Mallorca con la promesa de trabajar como camareras. Y al llegar, cuando se negaban a ejercer la prostitución, habrían sido retenidas contra su voluntad.
+
+Aquí se acaban las bromas, y conviene decirlo claro. Si esos hechos ocurrieron, hay detrás personas reales que vinieron a trabajar y se encontraron con una pesadilla. Y la trata de personas es uno de los delitos más graves que existen. Por eso, cuando hablamos de esta historia con humor, hablamos de los chalecos, de las motos y de los giros judiciales. Nunca de ellas.
+
+Y en el expediente aparecía además un ingrediente que ya conoces si has visto otros vídeos de esta serie: la sospecha de corrupción. Entre los delitos de la causa figuraba el cohecho, y según la información publicada, la acusación también alcanzaba a algunos policías de Palma. Su situación final en el proceso no la he podido confirmar, así que lo dejo ahí.
+
+Volvamos al día de la operación. Julio de 2013. La operación, según la información publicada, se llamó Casablanca. Y fue una operación de las grandes: varios cuerpos policiales españoles, colaboración europea, decenas de registros. Hanebuth fue detenido en Mallorca.
+
+Y aquí merece la pena explicar por qué participaban tantos países. Europol es la agencia de la Unión Europea que ayuda a las policías nacionales a coordinarse en casos que cruzan fronteras. No detiene a nadie por sí misma: lo que hace es cruzar datos, conectar investigaciones de distintos países y ayudar a organizar operaciones conjuntas. Interpol hace algo parecido a escala mundial.
+
+En un caso como este, la cooperación era imprescindible. Si el principal acusado es alemán, si parte del dinero y de las relaciones están en Alemania, si hay conexiones con otros países europeos, la policía española sola solo ve una parte del puzle. Las piezas están repartidas por media Europa. Y para juntarlas hace falta que muchos países trabajen a la vez.
+
+Por eso la operación se presentó como un gran golpe internacional. Y por eso, como vamos a ver, las expectativas eran tan altas.
+
+Y la imagen que quedó fue impactante. Moteros alemanes con sus chalecos de calavera alada, detenidos en una isla de vacaciones. Si buscas un contraste entre lo que se espera de Mallorca en julio y lo que pasó aquel día, es difícil encontrar uno mayor.
+
+Según la información publicada, Hanebuth pasó alrededor de dos años en prisión provisional, hasta que quedó en libertad bajo fianza. Y a partir de ahí empezó lo que en esta serie ya es casi una tradición: la espera.
+
+Si te está gustando esta historia, suscríbete a Código Mafia. Cada semana contamos una historia del crimen organizado con conexión española, separando siempre lo que se ha probado de lo que no. Y ahora viene la parte en la que esta historia da su primer gran giro.
+
+Porque mientras la causa avanzaba lentamente en España, apareció una línea de defensa muy concreta. Según un acusado alemán, los Hells Angels ya habían abandonado Mallorca en 2011. Es decir, dos años antes de la operación.
+
+Imagina la escena. La policía monta una operación internacional contra los Ángeles del Infierno en Mallorca… y la defensa dice que los Ángeles del Infierno ya se habían ido de Mallorca. Es como organizar una fiesta sorpresa y que el homenajeado te diga que se mudó hace dos años.
+
+Lógicamente, esa era la versión de la defensa, no un hecho probado. Pero da una idea de lo complicado que iba a ser este juicio.
+
+Recapitulemos antes de entrar en los tribunales. Mallorca, 2013. Una operación internacional contra los Hells Angels. Unos veinticinco detenidos. Un alemán con una casa de lujo presentado como el líder europeo de la banda. Acusaciones de drogas, extorsión, blanqueo y trata de mujeres. Unos dos años de prisión provisional para el principal acusado. Y una defensa que dice que el club ya se había marchado de la isla.
+
+Ahora sí, vamos al juicio.
+
+Enero de 2023. Diez años después de la operación. La Audiencia Nacional abre el juicio contra casi cincuenta acusados relacionados con los Ángeles del Infierno de Mallorca. Entre los delitos de la acusación: organización criminal, blanqueo de capitales, tráfico de drogas, detención ilegal, prostitución, cohecho y otros.
+
+Y el primer día, la sorpresa.
+
+La fiscalía anuncia acuerdos con treinta y cuatro de los acusados. Es decir, treinta y cuatro personas aceptan los hechos a cambio de una rebaja de pena. Y, según la información publicada, la fiscalía sustituye las penas de cárcel que pedía por multas.
+
+Y el detalle de las multas tiene su miga. Según la prensa, se calcularon a razón de cuatro euros al día. Cuatro euros. Menos de lo que cuesta un café con tostada en un chiringuito de Palma en pleno agosto.
+
+¿Por qué aceptaría la fiscalía algo así? Aquí, otra vez, interpretación. Un acuerdo de conformidad tiene ventajas para las dos partes. El acusado evita el riesgo de una condena mayor. Y la fiscalía se asegura una condena, aunque sea pequeña, sin tener que probar cada hecho en un juicio larguísimo, diez años después y con testigos que quizá ya no estén. Cuando el tiempo ha jugado en contra, muchas veces un acuerdo es la única forma de cerrar algo.
+
+Treinta y cuatro acusados, de golpe, fuera del juicio y sin entrar en prisión. El primer día. Hay juicios que se resuelven en semanas. Este resolvió a dos terceras partes de los acusados antes de la hora del bocadillo.
+
+Pero Hanebuth no pactó. Él quería ir a juicio. Y la fiscalía pedía para él trece años de cárcel. Otro de los acusados, que tampoco llegó a un acuerdo, se enfrentaba a una petición de más de treinta y tres años.
+
+Así que el juicio siguió con Hanebuth y una docena de acusados más. Y la tesis de la defensa fue muy clara, y se resumió en una frase que recogió la prensa: no somos una organización criminal.
+
+Ahora te pregunto a ti, antes de contarte el final: ¿tú crees que un club como los Hells Angels es una organización criminal, o que se le culpa en bloque por lo que hacen algunos de sus miembros? Déjamelo en los comentarios, que esta pregunta da para mucho.
+
+Veintiséis de septiembre de 2023. Llega la sentencia.
+
+La Audiencia Nacional condena a treinta y dos acusados a penas de hasta dos años de prisión. Absuelve a otros trece. Y entre esos trece absueltos está él: Frank Hanebuth. Absuelto de todos los delitos de los que se le acusaba.
+
+Pero hay algo todavía más importante. El tribunal descartó el delito de organización criminal. Según la información publicada, consideró que no se había demostrado que los acusados formaran una estructura criminal jerarquizada. Y en el caso de Hanebuth, que no quedó probado que hubiera intimidado a nadie ni que hubiera establecido en España una base permanente para crear un capítulo en la isla.
+
+Es decir: la idea central de la operación de 2013, que los Ángeles del Infierno habían montado una organización criminal en Mallorca dirigida por Hanebuth, no quedó probada ante el tribunal.
+
+¿Y el considerado como su mano derecha? Paul Engelke fue condenado a un año y medio de prisión por amenazas y encubrimiento. Año y medio. Por amenazas y encubrimiento. Muy lejos del escenario de trata, drogas y blanqueo con el que había arrancado la historia.
+
+Hagamos aquí nuestro pequeño homenaje al talento. Porque hay que tener un talento especial para que una operación internacional, con Europol, Interpol y policías de cuatro países, termine con el principal acusado absuelto de todo y una condena de año y medio para su mano derecha. Es como preparar una película de acción con helicópteros y explosiones… y que al final el gran estreno sea un capítulo de una serie de abogados.
+
+Pero detrás de la broma hay preguntas serias. Y creo que merece la pena hacérselas.
+
+La primera: ¿se equivocó la investigación? No necesariamente. Treinta y dos personas fueron condenadas, y treinta y cuatro de ellas reconocieron hechos en el acuerdo con la fiscalía. Algo ocurrió en Mallorca. Lo que no quedó probado fue la estructura: que todo aquello formara parte de una organización criminal dirigida desde arriba.
+
+Y piensa en lo que eso significa en la práctica. Cuando una investigación de este tipo arranca, la policía suele trabajar con una hipótesis: hay un jefe, hay una estructura, hay un reparto de papeles. Esa hipótesis es la que da sentido a las escuchas, a los seguimientos y a la operación final. Pero en el juicio esa hipótesis tiene que convertirse en pruebas concretas: quién dio qué orden, a quién, cuándo y cómo. Y si las pruebas solo demuestran delitos sueltos de personas concretas, sin una cadena de mando clara, el tribunal no puede condenar por organización criminal, por mucho que lo parezca desde fuera.
+
+Es, en el fondo, la misma diferencia que hay entre sospechar y demostrar. La policía puede tener razón en sus sospechas y, aun así, no conseguir demostrarlas. O puede haberse equivocado en parte. Desde fuera, y sin acceso a todas las pruebas, no podemos saber cuál de las dos cosas ocurrió aquí.
+
+La segunda pregunta es la que te pedí que guardaras al principio. La diferencia entre un club y una organización criminal. Para condenar a alguien por organización criminal, no basta con que pertenezca a un grupo cuyos miembros cometen delitos. Hay que demostrar que existe una estructura estable, con jerarquía y reparto de funciones, creada para delinquir. Y hay que demostrar que esa persona forma parte de ella. Y eso, con un club que tiene una apariencia legal, con sus estatutos, sus reuniones y sus motos, es extraordinariamente difícil.
+
+Y la tercera pregunta es la del tiempo. Diez años entre la operación y el juicio. Si has visto los otros vídeos de esta serie, ya sabes lo que pasa cuando una causa tarda tanto: los testigos se dispersan, los recuerdos se borran, las pruebas envejecen y las penas, cuando llegan, suelen ser mucho más bajas. Esto es una interpretación, pero es un patrón que se repite en muchos macrocasos en España.
+
+Y hay una cuarta reflexión, sobre cómo nos llegan estas historias. El día de la operación, en 2013, los titulares fueron enormes: el líder europeo de los Ángeles del Infierno, detenido en Mallorca. Fotos de moteros, de chalecos, de registros. Diez años después, la absolución fue noticia, sí, pero con mucho menos ruido. Y eso tiene consecuencias. Mucha gente que leyó el titular de 2013 nunca se enteró del de 2023.
+
+Por eso en este canal insistimos tanto en separar las cosas. Una detención no es una condena. Una acusación no es un hecho probado. Y una operación espectacular puede acabar, una década después, en algo muy distinto. Eso no quita mérito a quienes investigan, ni resta gravedad a lo que pudiera ocurrir. Simplemente, es la diferencia entre una noticia y una sentencia.
+
+Y luego está la parte que más me importa. Las mujeres que, según la acusación, fueron engañadas y retenidas en la isla. En una sentencia así, con acuerdos, multas y absoluciones, es fácil que su historia quede en segundo plano. Y no debería. Sea cual sea la responsabilidad de cada acusado, la trata de personas existe, también en lugares tan turísticos como Mallorca, y casi nunca aparece en las fotos de las vacaciones.
+
+¿Y después de la sentencia? No he encontrado información fiable sobre recursos posteriores ni sobre una revisión de esa sentencia, así que, hasta donde he podido comprobar, ese es el punto final conocido de esta historia. Si aparece algo nuevo, lo actualizaremos.
+
+Recapitulemos por última vez. Julio de 2013: una operación internacional en Mallorca contra los Hells Angels, con unos veinticinco detenidos y su presunto líder europeo entre rejas. Enero de 2023: juicio en la Audiencia Nacional, y treinta y cuatro acusados pactan el primer día cambiando cárcel por multas. Septiembre de 2023: treinta y dos condenados a penas de hasta dos años, trece absueltos, y el líder absuelto de todo. Y ninguna organización criminal probada.
+
+Volvamos al principio. Mallorca, pleno verano. Turistas, playas y motos. Y una operación que prometía demostrar que los Ángeles del Infierno habían convertido la isla en su base.
+
+Diez años después, el tribunal no lo vio así. Y la lección es la misma que se repite en esta serie: el día de la operación es solo el principio. Lo que de verdad cuenta es lo que se puede demostrar ante un juez.
+
+Los Ángeles del Infierno se fueron de los tribunales con una sentencia mucho más pequeña que la operación que los llevó allí. Y la pregunta de si eran un club de moteros o algo más, por lo menos en Mallorca, quedó oficialmente sin respuesta.
+
+Si quieres ver otra gran operación en Mallorca que acabó de una forma igual de inesperada, te dejo aquí la historia de la Operación Troika, la mafia rusa y la mansión que la justicia acabó devolviendo. Te espero allí.
