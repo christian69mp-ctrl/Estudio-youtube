@@ -1,0 +1,6 @@
+# TÍTULO Y MINIATURA — Caso Malaya (propuesta, patrón AP-004)
+**Título:** Dijo que se iba a hacer el CAMINO DE SANTIAGO… y VOLVIÓ 19 AÑOS después 🚶‍♂️
+**Alternativa:** El AYUNTAMIENTO que funcionaba como una MAFIA: 240 MILLONES de MULTA 🏛️
+**Texto miniatura:** EN MARBELLA (MARBELLA en amarillo)
+**Prompt Gemini:** Miniatura de YouTube 16:9, 1280x720, estilo fotográfico realista y cinematográfico, luz dorada de tarde. En la mitad derecha, primer plano de un hombre ficticio de unos 55 años con traje claro, camisa abierta y gafas de sol en la mano, mirando fijamente a cámara con una sonrisa ladeada de suficiencia; rostro inventado que no se parece a ninguna persona real. Detrás, desenfocado, un edificio de ayuntamiento andaluz blanco con palmeras y, en primer término sobre una mesa, un plano urbanístico desplegado con fajos de billetes de 500 € encima y un sello de «APROBADO». En la mitad izquierda, texto enorme en dos líneas: EN arriba en blanco y MARBELLA abajo en amarillo intenso, tipografía condensada extra gruesa (tipo Bebas Neue o Anton) con sombra negra marcada, ocupando casi toda la altura. Alto contraste, legible en un móvil pequeño. Sin escudos oficiales, banderas, logotipos ni rostros reales.
+- Ojo: Kinahan también usa «EN MARBELLA». Si salen cerca, usar aquí «EL SAQUEO» (SAQUEO en amarillo). Imagen sintética, nunca como foto real.

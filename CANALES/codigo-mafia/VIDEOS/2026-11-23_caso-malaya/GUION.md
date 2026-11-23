@@ -1,0 +1,137 @@
+# GUION — Caso Malaya (v1, 2026-11-23)
+
+Octubre de 2025. Aeropuerto de Madrid-Barajas.
+
+Un hombre aterriza en España después de casi veinte años fuera. Y nada más llegar, es detenido y puesto a disposición de la Audiencia Nacional.
+
+¿Quién es? Un antiguo concejal de Marbella. Uno de los acusados del mayor caso de corrupción municipal de la historia de España.
+
+Y lo más increíble es cómo se marchó. En 2006, cuando la policía estaba deteniendo a medio Ayuntamiento de Marbella, este concejal dijo que se iba a hacer el Camino de Santiago.
+
+Y nunca volvió.
+
+Bueno, sí volvió. Diecinueve años después. Y lo que pasó entonces es, probablemente, el mejor resumen de esta historia: pactó con la fiscalía una multa de cuatro mil euros y el pago de doscientos cincuenta mil euros al Ayuntamiento de Marbella.
+
+Esta es la historia del Caso Malaya. La operación que destapó, según la justicia, cómo un Ayuntamiento entero se convirtió en una máquina de cobrar comisiones. Un caso con un alcalde condenado, dos alcaldesas condenadas, un cerebro con una multa de doscientos cuarenta millones de euros, una de las cantantes más famosas de España en el banquillo… y un fugado que se fue andando.
+
+Bienvenido a Código Mafia. Hoy no hay narcolanchas ni pistolas. Hoy el arma del crimen es una licencia de obras.
+
+Antes de empezar, una aclaración que en este vídeo es distinta a otros. Aquí sí hay sentencias firmes. Así que vamos a poder hablar de hechos probados. Pero también vamos a separar bien quién fue condenado, por qué y por cuánto, porque no todos los acusados acabaron igual. Y vamos a reírnos, porque esta historia tiene momentos que ni el mejor guionista se atrevería a escribir.
+
+Para entender el Caso Malaya, primero hay que entender Marbella en los años noventa.
+
+Marbella era, y es, uno de los destinos de lujo más conocidos de Europa. Yates, mansiones, campos de golf, famosos, jeques. Un lugar donde un metro cuadrado de terreno vale una fortuna.
+
+Y en 1991, llegó a la alcaldía un personaje que ya era famoso en toda España: Jesús Gil, el presidente del Atlético de Madrid. Con su propio partido, el GIL, ganó las elecciones con un discurso de mano dura, limpieza y orden. Y gobernó Marbella durante más de una década.
+
+Y aquí está la clave de toda esta historia. En un lugar como Marbella, el poder más valioso de un Ayuntamiento no es poner multas ni arreglar calles. Es decidir dónde se puede construir. Porque una decisión urbanística puede convertir un terreno sin valor en una mina de oro. Un sí o un no en una licencia de obras puede valer millones.
+
+Y cuando alguien controla esas decisiones, y está dispuesto a venderlas, tienes el mejor negocio del mundo. No necesitas fabricar nada. No necesitas transportar nada. Solo necesitas una firma.
+
+Déjame explicarte esto con un ejemplo sencillo, porque es la base de todo. Imagina un terreno en las afueras de una ciudad donde, según las normas, no se puede construir. Ese terreno vale poco. Ahora imagina que el Ayuntamiento cambia las normas y dice que ahí sí se pueden levantar viviendas. De la noche a la mañana, ese mismo terreno, sin que nadie haya movido una piedra, vale muchísimo más. A eso se le llama recalificar.
+
+Recalificar no es ilegal. Las ciudades crecen y las normas cambian. El problema empieza cuando esa decisión no se toma pensando en lo que necesita la ciudad, sino en quién paga por ella. Cuando el que decide recibe una parte del beneficio a cambio de decidir en un sentido. Eso ya no es urbanismo. Eso, según el Código Penal, es cohecho.
+
+Y en una ciudad como Marbella, donde cada metro cuadrado vale oro, la diferencia entre un sí y un no puede valer millones de euros.
+
+Ahora, el protagonista.
+
+Se llama Juan Antonio Roca. Durante los años del GIL, fue el hombre que controlaba el urbanismo de Marbella. No era alcalde. No era el que salía en televisión. Era el que estaba en el despacho donde se decidía qué se construía y qué no.
+
+Y según la sentencia, Roca fue el cerebro de la trama. Los promotores y empresarios que querían construir en Marbella pagaban. Y a cambio, recibían licencias, recalificaciones y favores urbanísticos. Según la justicia, Roca recibía ese dinero, se quedaba una parte y repartía otra entre concejales y cargos del Ayuntamiento para asegurarse sus votos y su apoyo.
+
+Es decir, según los tribunales, el Ayuntamiento funcionaba como una empresa. Con un consejero delegado, Roca. Con empleados, los concejales que votaban lo que hacía falta. Y con clientes, los empresarios que pagaban por lo que querían.
+
+¿Y cómo se esconde tanto dinero? Aquí, sin entrar en detalles, basta con entender una palabra: testaferro. Un testaferro es una persona o una empresa que figura como dueña de algo que en realidad pertenece a otro. Según la investigación, buena parte del patrimonio vinculado a Roca estaba a nombre de sociedades y de terceros. Sobre el papel, no era suyo. En la práctica, según la justicia, sí. Desenredar esa madeja de sociedades fue una de las partes más largas y difíciles del caso.
+
+Una empresa muy rentable, por cierto. Pero que tenía un problema: los ciudadanos de Marbella eran, en teoría, los dueños. Y nadie les había pedido permiso.
+
+Jesús Gil dejó la alcaldía en 2002 y murió en 2004. Le sucedió Julián Muñoz, que había sido su mano derecha. Y a Muñoz, tras una moción de censura, le sucedió Marisol Yagüe. Y mientras los alcaldes cambiaban, según la investigación, el sistema seguía funcionando.
+
+Y entonces, en 2005, empezó la investigación que lo cambiaría todo.
+
+Si te está gustando esta historia, suscríbete a Código Mafia. Aquí contamos las historias del crimen organizado con conexión española, con los datos contrastados. Y ahora viene el día en que Marbella se quedó sin Ayuntamiento.
+
+Marzo de 2006. La policía lanza la Operación Malaya. Una veintena de detenidos en la primera fase. Y entre ellos, nada menos que la alcaldesa de Marbella, Marisol Yagüe. Y también Juan Antonio Roca, el hombre del urbanismo.
+
+Y lo que fue apareciendo en los registros es, según la investigación, el retrato de una fortuna casi imposible de imaginar: fincas, propiedades, caballos, obras de arte. Años después, la colección de arte de Roca llegó a salir a subasta. Y para hacerse una idea de la escala, la multa que le acabaría imponiendo la justicia fue de doscientos cuarenta millones de euros.
+
+Doscientos cuarenta millones. No es una multa. Es el presupuesto de una ciudad mediana.
+
+Y la consecuencia política fue histórica. En abril de 2006, el Gobierno de España disolvió el Ayuntamiento de Marbella. Algo que nunca había ocurrido en la democracia española. El Ayuntamiento pasó a estar gestionado por una comisión gestora hasta las siguientes elecciones.
+
+Una comisión gestora es, para entendernos, un equipo provisional que se encarga de que el Ayuntamiento siga funcionando: que se paguen las nóminas, que se recoja la basura, que se mantengan los servicios. Pero sin el mandato político que dan las urnas. Fue una solución de emergencia para una situación que no tenía precedentes. Y Marbella vivió así hasta las elecciones municipales de 2007, en las que los vecinos volvieron a elegir a sus concejales.
+
+Imagínate la situación. Una de las ciudades más famosas de Europa, sin alcaldesa, sin concejales, gestionada por una comisión porque el Ayuntamiento entero estaba bajo sospecha. Es como si tu comunidad de vecinos tuviera que ser intervenida porque el presidente, el secretario y el tesorero estaban detenidos. Y tres vocales más.
+
+Y luego vino la segunda fase de la operación. Y aquí es donde aparece el hombre del principio de este vídeo.
+
+Carlos Fernández, concejal de Marbella. Según la información publicada, cuando llegó la segunda fase de la Operación Malaya, dijo que estaba haciendo el Camino de Santiago. Y desapareció. Según algunas informaciones, salió hacia Lisboa, voló a Brasil y acabó en Argentina.
+
+Durante más de una década, nadie supo dónde estaba. Hasta que en 2017 fue localizado y detenido en Argentina. España pidió su extradición. Y en 2022, el Tribunal Supremo de Argentina la rechazó, al considerar que el delito del que se le acusaba había prescrito.
+
+Y en Argentina se quedó. Según la prensa argentina, trabajando como consultor en la provincia de San Juan.
+
+Aquí conviene explicar qué es la prescripción, porque va a aparecer más de una vez. La ley establece que, pasado un tiempo, algunos delitos ya no se pueden perseguir. La idea es que nadie puede vivir eternamente con una acusación pendiente, y que con los años las pruebas se vuelven poco fiables. Ese plazo depende de la gravedad del delito. Pero cuando alguien está fuera del país y la extradición se decide con las leyes de otro Estado, la cuenta puede salir de forma muy distinta. En este caso, según la justicia argentina, el plazo ya había pasado.
+
+Ahora te pregunto a ti: si fueras un acusado fugado, ¿se te habría ocurrido una excusa mejor que el Camino de Santiago? Déjamelo en los comentarios, que esta tiene muchas posibilidades.
+
+Pero volvamos al caso principal. Porque una cosa es detener a medio Ayuntamiento. Y otra es juzgarlo.
+
+El Caso Malaya fue uno de los juicios más grandes de la historia judicial española. Decenas y decenas de acusados. Concejales, exalcaldes, empresarios, abogados, testaferros. Años de instrucción, cientos de testigos, montañas de documentos.
+
+Y en medio de todo eso, una pieza separada que convirtió el caso en un fenómeno de la prensa del corazón.
+
+Julián Muñoz, el exalcalde, había mantenido una relación muy mediática con Isabel Pantoja, una de las cantantes más famosas de España. Y en una pieza separada del Caso Malaya, juzgada de forma independiente, Muñoz, Pantoja y la exmujer de Muñoz, Mayte Zaldívar, se sentaron en el banquillo acusados de blanqueo de capitales.
+
+En abril de 2013, la Audiencia de Málaga condenó a Isabel Pantoja a dos años de prisión por blanqueo de capitales. Muñoz y Zaldívar también fueron condenados. Y Pantoja acabó ingresando en prisión en 2014.
+
+Fíjate en el salto. Una historia de licencias de obras y recalificaciones acabó en las portadas de las revistas del corazón, con una de las artistas más queridas del país entrando en la cárcel. El Caso Malaya fue, a la vez, un caso de corrupción, un culebrón y un fenómeno televisivo.
+
+Y eso tuvo un efecto curioso. Durante años, mucha gente asoció el Caso Malaya con nombres famosos, con fotos en la puerta de los juzgados y con tertulias de televisión. Pero el corazón del caso no estaba ahí. Estaba en los despachos, en las licencias, en las sociedades y en los convenios urbanísticos. La parte más aburrida de contar es, casi siempre, la más importante. Y por eso aquí vamos a seguir por ella.
+
+Recapitulemos. Marbella, años noventa: el urbanismo convertido, según la justicia, en un negocio de comisiones. Roca, el cerebro. Tres alcaldes sucesivos. 2006: la Operación Malaya, la alcaldesa detenida y el Ayuntamiento disuelto por primera vez en democracia. Un concejal que se fue al Camino de Santiago y apareció en Argentina. Y una pieza separada que llevó a Isabel Pantoja a prisión.
+
+Y ahora, la sentencia principal.
+
+Cuatro de octubre de 2013. La Audiencia Provincial de Málaga dicta sentencia en el Caso Malaya. Condena a cincuenta y dos de los procesados y absuelve a más de cuarenta.
+
+Fíjate en ese dato, porque es importante. Más de cuarenta absueltos. Es decir, no todas las personas a las que se investigó acabaron condenadas. Algunas porque no se pudo probar su participación, otras porque su papel resultó ser distinto del que pensaban los investigadores. En un caso tan grande, con tantos nombres, es fácil meter a todo el mundo en el mismo saco. Y la sentencia demuestra que no todos estaban en el mismo saco. Por eso, aunque aquí hay condenas firmes, hay que hablar de cada persona por su nombre y por lo que se probó sobre ella.
+
+Juan Antonio Roca, once años de prisión y doscientos cuarenta millones de euros de multa. Culpable, entre otros delitos, de cohecho y de blanqueo de capitales como jefe de una organización.
+
+Marisol Yagüe, la alcaldesa, seis años. Isabel García Marcos, que había sido teniente de alcalde, cuatro años. Julián Muñoz, dos años.
+
+Y la historia no terminó ahí. En julio de 2015, el Tribunal Supremo revisó la sentencia. Y a Roca le subió la condena: de once a diecisiete años de prisión, entre otras cosas por un nuevo delito contra Hacienda. A Yagüe, en cambio, se la rebajó a cinco años y medio. Y también rebajó la de García Marcos.
+
+Diecisiete años. Para el hombre que, según la justicia, había convertido la firma de un despacho en una de las mayores fortunas ilegales de España.
+
+Y fíjate en algo poco habitual. En muchos de los casos que hemos contado en esta serie, el paso del tiempo y los recursos acaban rebajando las penas. Aquí, para el principal condenado, ocurrió justo lo contrario: el Tribunal Supremo no solo confirmó la condena, sino que la endureció. Es una de las pocas ocasiones en esta serie en las que el final judicial es más duro que el principio.
+
+Y aquí viene nuestro pequeño homenaje al talento. Porque hay que tener talento para convertir un Ayuntamiento en una empresa privada sin que lo noten los dueños, que eran todos los vecinos. Hay que tener talento para que tu sistema sobreviva a tres alcaldes distintos. Y hay que tener un talento muy especial para huir de la justicia diciendo que te vas de peregrinación. Hay gente que hace el Camino de Santiago para encontrarse a sí misma. Este señor lo hizo para que no le encontraran los demás.
+
+Y ahora, el epílogo. El que abría este vídeo.
+
+Octubre de 2025. Carlos Fernández aterriza en Barajas. Es detenido y queda en libertad provisional a la espera de juicio. Y unos días después, en noviembre de 2025, llega a un acuerdo con la fiscalía en el llamado caso Saqueo II, otra de las causas relacionadas con el saqueo de las arcas de Marbella.
+
+Porque, y esto es importante, el Caso Malaya no fue la única causa. Alrededor de la etapa del GIL en Marbella se abrieron varios procedimientos por el desvío de dinero público municipal. Es decir, además de las comisiones por el urbanismo, la justicia investigó cómo salía dinero del propio Ayuntamiento hacia donde no debía ir. Y algunas de esas causas, como vemos, todavía se estaban cerrando casi veinte años después. Según la información publicada, acepta una multa de cuatro mil euros y el pago de doscientos cincuenta mil euros al Ayuntamiento. Y el Ayuntamiento de Marbella, según la prensa, reclamaba todo el dinero malversado.
+
+Cuatro mil euros de multa. Después de casi veinte años fugado. Más o menos lo que cuesta, siendo generosos, hacer el Camino de Santiago bien comido, bien dormido y con alguien que te lleve la mochila.
+
+Y esto, una vez más, tiene una explicación que se repite en esta serie. Cuando pasa tanto tiempo, muchos delitos prescriben, las pruebas envejecen y las penas se reducen. Esto es una interpretación, pero ayuda a entender por qué un caso de este tamaño puede terminar, para algunos de sus protagonistas, con cifras tan pequeñas.
+
+Pero detrás de las bromas hay algo muy serio. Y creo que es importante decirlo.
+
+La corrupción urbanística no tiene víctimas visibles. No hay heridos, no hay sangre, no hay fotos dramáticas. Pero tiene víctimas. Cada euro que se pagó en comisiones es un euro que no fue a colegios, a hospitales o a servicios para los vecinos. Cada licencia vendida es una decisión que debería haberse tomado pensando en el interés de todos y se tomó pensando en el bolsillo de unos pocos. Y cada edificio construido donde no se debía es una herencia que la ciudad arrastra durante décadas.
+
+Y hay un efecto que dura mucho más que cualquier condena: la confianza. Durante años, los vecinos de Marbella tuvieron que convivir con la idea de que su Ayuntamiento, la institución que debía representarles, había funcionado como un negocio privado. Recuperar esa confianza cuesta mucho más que recuperar el dinero. Y no se consigue con una sentencia, sino con años de hacer las cosas bien.
+
+Y hay otra lección importante. Durante años, en Marbella, mucha gente sabía o intuía que algo no iba bien. Y el sistema siguió funcionando. Lo que acabó con él no fue un escándalo en la prensa ni un cambio de gobierno. Fue una investigación judicial y policial larga y meticulosa, que siguió el rastro del dinero hasta el final. Sin esa investigación, probablemente el sistema seguiría ahí.
+
+Por eso el Caso Malaya es tan importante. Porque demostró, con sentencia firme, que una institución pública puede llegar a funcionar como una organización dedicada al beneficio de unos pocos. Y que, aunque tarde, la justicia puede llegar.
+
+Volvamos al principio. Un hombre aterriza en Barajas después de casi veinte años. En 2006 dijo que se iba a hacer el Camino de Santiago. Y el Caso Malaya, el mayor caso de corrupción municipal de España, cerraba así uno de sus últimos capítulos pendientes.
+
+Marbella sigue siendo uno de los destinos más lujosos de Europa. Pero durante unos años, según la justicia, sus mejores negocios no se hicieron en los yates ni en los campos de golf. Se hicieron en un despacho de urbanismo.
+
+Si quieres ver otra historia de Marbella, pero con una organización criminal muy distinta, te dejo aquí la historia del clan Kinahan, el cártel que Estados Unidos buscaba por cinco millones de dólares y que tenía su base en la Costa del Sol. Te espero allí.
