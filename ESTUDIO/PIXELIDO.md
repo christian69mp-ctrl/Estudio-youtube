@@ -41,4 +41,4 @@ Indicarlo en «Observaciones» de cada vídeo en todos los pedidos.
 | Pedido | Enviado | Contenido | Fase actual | Notas |
 |---|---|---|---|---|
 | PX-01 | 2026-10-31 [DATO CHRISTIAN] | 10 guiones (PED-01, 2 por canal) | 1 · guion (revisión de Pixelido / aprobación de Christian) | Guiones en Drive: `PEDIDOS_PIXELIDO/guiones_drive.md`. Medir días por fase. |
-| PX-02 | — | **10 vídeos, solo Código Mafia** [DATO CHRISTIAN, 31/10] | pendiente: aprobación de los 10 temas | |
+| PX-02 | — | **10 vídeos, solo Código Mafia** [DATO CHRISTIAN, 31/10] | 10 guiones v1 escritos (23/11), pendientes de aprobación y envío: Kinahan, Nécora, Mocro Maffia, Troika, Emperador, Garbanzos negros, Hells Angels, Malaya, Narcosubmarino, Charlines | `CANALES/codigo-mafia/VIDEOS/2026-11-23_*` |

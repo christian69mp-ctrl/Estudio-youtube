@@ -1,0 +1,133 @@
+# GUION — Los Charlines (v1, 2026-11-23)
+
+Ocho de agosto de 2018. Vilanova de Arousa, Pontevedra. Una mañana de verano en un pueblo marinero de las Rías Baixas.
+
+La policía llama a la puerta de una casa. Y detiene a un hombre que, a esas alturas, la mayoría de la gente de su edad estaría jugando a las cartas en el bar del pueblo.
+
+Tenía ochenta y cinco años.
+
+Según la información publicada, se le acusaba, junto a uno de sus hijos, de organizar un nuevo envío de cocaína. Un cargamento que fue interceptado cerca de la isla de Madeira. Y en aquella operación, entre detenidos en tierra y a bordo de dos embarcaciones, cayeron veintiséis personas.
+
+Ese hombre no era un abuelo cualquiera. Se llamaba Manuel Charlín Gama. Y era el patriarca de uno de los clanes más conocidos de la historia del narcotráfico en Galicia: los Charlines.
+
+Un hombre que ya había sido condenado a veinte años de cárcel por un alijo de seiscientos kilos de cocaína. Que había sido detenido en la Operación Nécora. Que había cumplido varias condenas. Y que, a los ochenta y cinco años, según la policía, seguía en el negocio.
+
+La prensa lo resumió así: el viejo Charlín había batido el récord de longevidad criminal en España.
+
+Esta es la historia de los Charlines. Una familia de Vilanova de Arousa que, según la justicia, pasó del contrabando a la cocaína. Y que, durante más de cuarenta años, apareció una y otra vez en las grandes operaciones contra el narcotráfico gallego.
+
+Bienvenido a Código Mafia. Hoy no hay un capo. Hay una familia entera.
+
+Antes de empezar, una aclaración importante. En esta historia hay condenas firmes del patriarca, pero también hay absoluciones recientes de varios miembros de la familia. Y hay operaciones cuyo resultado judicial final no he podido confirmar. Así que vamos a separar con cuidado cada cosa, y a hablar de cada persona solo por lo que se ha probado sobre ella.
+
+Para entender a los Charlines, primero hay que entender Arousa.
+
+La ría de Arousa es la más grande de Galicia. Una costa enorme, llena de islas, playas, puertos y pequeñas ensenadas. Un lugar donde casi todo el mundo, de una forma u otra, vive del mar: de la pesca, del marisco, de las conserveras, de las bateas de mejillón.
+
+Y durante décadas, también vivió de otra cosa: el contrabando.
+
+En los años sesenta y setenta, en buena parte de la costa gallega, el contrabando de tabaco era casi una actividad tradicional. Planeadoras que traían cajas de cigarrillos rubios desde barcos en alta mar. Mucha gente lo veía como algo menor, casi como una picardía. Daba trabajo, movía dinero y, para muchos, no hacía daño a nadie.
+
+Pero el contrabando de tabaco creó algo muy valioso para lo que vendría después: una red. Gente que conocía cada rincón de la costa. Lanchas rápidas. Rutas. Contactos en el mar. Y la costumbre de que, en muchos lugares, nadie viera nada.
+
+Y en los años ochenta, alguien se dio cuenta de que por esas mismas rutas, con esas mismas lanchas y esa misma gente, se podía mover algo muchísimo más rentable que el tabaco. Primero el hachís. Después, la cocaína.
+
+Y el salto tenía una lógica económica brutal. Una caja de tabaco de contrabando dejaba un beneficio. Un fardo de hachís dejaba bastante más. Y un fardo de cocaína, muchísimo más. Con la misma lancha, la misma tripulación y el mismo riesgo de que te pillaran, el dinero se multiplicaba. Para quien ya estaba acostumbrado a moverse al margen de la ley, la tentación era enorme. Y los cárteles sudamericanos, que buscaban una puerta de entrada a Europa, encontraron en las rías gallegas socios con experiencia, lanchas y conocimiento del terreno.
+
+Aquí está la clave de toda esta historia, así que guárdala bien. El paso del tabaco a la droga no fue un cambio de negocio cualquiera. Fue el paso de algo que muchos veían como inofensivo a algo que iba a destrozar a una generación entera de jóvenes gallegos.
+
+Ahora, los protagonistas.
+
+Manuel Charlín Gama, el patriarca. Con él, según la información publicada, su esposa y sus hijos: Manuel, María Teresa, Melchor y Yolanda. Y alguna prima más. Una familia que, de cara al exterior, tenía negocios muy gallegos: una conservera en Vilanova de Arousa y una cocedera de marisco en A Illa de Arousa.
+
+Y aquí conviene entender por qué la estructura familiar es tan importante en esta historia. Una organización criminal tiene un enemigo interno muy peligroso: la traición. Un socio que habla, un empleado que colabora con la policía, un rival que se venga. En un clan familiar, ese riesgo es mucho menor. Es mucho más difícil que un hijo declare contra su padre, o que un hermano entregue a su hermana. La lealtad no se compra: viene de serie. Y además, el negocio se hereda. Cuando el padre está en prisión, alguien de la familia puede ocupar su lugar.
+
+Por eso tantas organizaciones del narcotráfico en todo el mundo tienen forma de familia. Y por eso, para los investigadores, son tan difíciles de desmontar.
+
+Ahora bien, una cosa es la teoría y otra lo que se demuestra en un juicio. Y en el caso de los Charlines, como vas a ver, esa diferencia acabará siendo fundamental.
+
+Volviendo a los negocios de la familia. Una conservera. Hay que reconocer que como tapadera tiene su gracia. Si alguien te pregunta a qué se dedica tu familia, dices que a las latas de mejillón. Y técnicamente no mientes.
+
+Según la justicia, detrás de esa fachada había otra actividad. Y la primera gran prueba llegó con un barco.
+
+Junio de 1989. Según la sentencia, un barco llamado Halcón II trajo seiscientos kilos de cocaína desde Colombia hasta las costas de Galicia. El barco era de Charlín, aunque figuraba a nombre de una sociedad panameña.
+
+Seiscientos kilos. En 1989. En unos años en los que la cocaína empezaba a ocupar en las rías el lugar que antes habían tenido el tabaco y el hachís.
+
+Y en 1990 llegó la operación más famosa de la historia del narcotráfico gallego: la Operación Nécora. Si has visto nuestro vídeo, ya lo sabes: decenas de detenidos, los grandes nombres de las rías esposados, un antes y un después. Manuel Charlín fue detenido en aquella operación. Pero en esa causa no fue condenado.
+
+Si te está gustando esta historia, suscríbete a Código Mafia. Cada semana contamos una historia del crimen organizado con conexión española, separando siempre lo probado de lo que no. Y ahora viene la parte en la que la justicia, por fin, alcanza al patriarca.
+
+1999. Diez años después del alijo del Halcón II, la Audiencia Nacional condena a Manuel Charlín a veinte años de prisión y a una multa de doscientos veinticinco millones de pesetas por organizar aquel transporte de cocaína desde Colombia.
+
+Diez años desde el alijo hasta la condena. Si has visto otros vídeos de esta serie, ya no te sorprende. Pero en este caso, por lo menos, la condena llegó y fue dura.
+
+Y no fue la única. Según la información publicada, Charlín acumuló otras condenas, entre ellas una de trece años por blanqueo de capitales. Y según la prensa gallega, en los años noventa la policía llegó a detener a prácticamente toda la familia y a embargar bienes por un valor muy elevado.
+
+Y un apunte sobre esos embargos, porque son una herramienta clave contra el narcotráfico. Embargar bienes significa que la justicia los bloquea: no se pueden vender ni traspasar mientras dura el proceso. La idea es sencilla: si al final hay condena, que esos bienes puedan servir para pagar multas o ser decomisados. Para una organización criminal, perder el dinero duele, a veces, más que perder la libertad.
+
+Imagínate la situación en un pueblo pequeño. Una familia conocida por todos, con su conservera, su casa, sus barcos. Y cada pocos años, la policía en la puerta. Detenciones, registros, embargos, juicios. Y después, la vida que sigue. Y otra vez.
+
+Ahora te pregunto a ti: ¿crees que en los pueblos donde vivían estas familias la gente sabía lo que pasaba, o que de verdad nadie se enteraba? Déjamelo en los comentarios, porque esta es una de las preguntas más incómodas de la historia del narcotráfico gallego.
+
+Volvamos a Charlín. Después de cumplir sus condenas, salió en libertad en 2010. Tenía ya más de setenta años.
+
+Y aquí cualquiera pensaría que la historia termina. Un hombre mayor, con décadas de cárcel a sus espaldas, que vuelve a su casa a pasar la jubilación mirando la ría.
+
+Pues no.
+
+Recapitulemos antes del giro final. Arousa: del contrabando de tabaco a la droga. Una familia con conservera y cocedera. 1989: el Halcón II y seiscientos kilos de cocaína desde Colombia. 1990: Charlín detenido en la Nécora, pero no condenado en esa causa. 1999: veinte años de prisión. Más condenas, más detenciones, más embargos. Y en 2010, libertad.
+
+Y ocho años después, en agosto de 2018, a los ochenta y cinco años, la policía vuelve a llamar a su puerta.
+
+Según la información publicada, a Manuel Charlín y a su hijo Melchor se les acusaba de organizar un nuevo envío de cocaína, interceptado cerca de Madeira. Y aquella operación acabó con veintiséis detenidos.
+
+Ochenta y cinco años. Hay gente que a esa edad se apunta a clases de pintura, o a un viaje del Imserso. Según la acusación, este señor organizaba envíos transatlánticos. La jubilación, está claro, no estaba hecha para él.
+
+¿Y por qué Madeira? Aquí, una interpretación. Madeira es un archipiélago portugués en mitad del Atlántico, en la ruta natural de cualquier barco que viaje desde Sudamérica hacia la península ibérica. Para las organizaciones, es un punto de paso. Y para las policías de España y Portugal, uno de los lugares donde más vigilan. Si has visto nuestro vídeo sobre el narcosubmarino de Galicia, ya sabes que la cooperación entre países en el Atlántico es una de las claves para interceptar estos envíos.
+
+Y aquí viene un giro curioso. Según la información publicada, apenas un par de días después, el juez de instrucción dejó en libertad a los Charlines y a otros detenidos. ¿Qué pasó después con esa causa? Aquí tengo que ser honesto contigo: no he podido confirmar en fuentes fiables cómo terminó. Así que, sobre esa operación de 2018, lo único que puedo decir es que hubo detenciones y una acusación, y que no he encontrado una sentencia.
+
+Y entonces, la historia del patriarca llega a su final. Y no es un final de película.
+
+Treinta y uno de diciembre de 2021. Manuel Charlín Gama muere a los ochenta y nueve años. Según la prensa, tras sufrir una caída en su casa de Vilanova de Arousa. Uno de los narcotraficantes más conocidos de Galicia moría así, en su casa, en Nochevieja.
+
+Y faltaba todavía un capítulo. Uno que lo cambia todo en esta historia.
+
+Porque mientras el patriarca envejecía, seguía abierta en la Audiencia Nacional una causa contra la familia por blanqueo de capitales. Se investigaba si los Charlines habían lavado dinero procedente del narcotráfico entre los años 2000 y 2010.
+
+El juicio se celebró en 2023. Seis miembros del clan y otras cuatro personas en el banquillo. El patriarca, ya fallecido, no estaba.
+
+Y en mayo de 2024, la sentencia. La Audiencia Nacional absolvió a los seis miembros de la familia del delito de blanqueo. Según la información publicada, los magistrados subrayaron la inexistencia de pruebas de cargo que permitieran una condena.
+
+Es decir: después de años de investigación, la justicia no encontró pruebas suficientes para condenar a la familia por blanqueo en ese periodo.
+
+¿Cómo puede ser, si el patriarca había sido condenado por narcotráfico? Aquí está la clave, y es algo que se entiende poco. Para condenar a alguien por blanqueo, no basta con que su familia tenga antecedentes. Ni siquiera basta con que tenga más dinero o más bienes de lo que parece normal. Hay que demostrar que un dinero concreto procede de un delito concreto, y que esa persona sabía de dónde venía y lo movió para ocultarlo. Es decir, hay que unir con pruebas cada eslabón de la cadena. Si falta un eslabón, no hay condena.
+
+Y en un caso que se refería a hechos de hace más de quince años, con el principal protagonista ya fallecido, unir esa cadena era especialmente difícil. Esto es una interpretación, pero ayuda a entender la sentencia. Y eso, en esta serie, hay que decirlo con la misma claridad con la que contamos las condenas. Absueltos es absueltos.
+
+Recapitulemos por última vez. Un patriarca condenado a veinte años por el Halcón II y a otros trece por blanqueo. Detenido en la Nécora en 1990, aunque sin condena en esa causa. En libertad en 2010. Detenido de nuevo en 2018, a los ochenta y cinco años, en una operación cuyo final judicial no he podido confirmar. Fallecido en 2021. Y en 2024, seis miembros de su familia absueltos de blanqueo por falta de pruebas. Una historia con condenas, con absoluciones y con preguntas que nunca se resolvieron.
+
+Hagamos aquí nuestro pequeño homenaje al talento. Porque hay que tener un talento muy especial para que tu carrera delictiva, según la policía, abarque desde la época de las planeadoras de tabaco hasta la era de los móviles. Para ser detenido en la Operación Nécora en 1990 y volver a ser detenido en una operación antidroga veintiocho años después. Y para que, a los ochenta y cinco años, la prensa tenga que inventar una categoría nueva para ti: récord de longevidad criminal. No conozco ningún otro sector en el que se tome tan poco en serio la edad de jubilación.
+
+Y hay una coincidencia curiosa de fechas. Aquel mismo 2018, unos meses antes de la detención de Charlín, se había estrenado en televisión Fariña, la serie sobre el narcotráfico gallego basada en el libro del periodista Nacho Carretero, con personajes inspirados en varios de los clanes de las rías. Media España estaba viendo en la pantalla la historia de los narcos gallegos de los años ochenta. Y en agosto, uno de los protagonistas reales de aquella época volvía a ser noticia por una detención. La ficción y la realidad, en el mismo verano.
+
+Pero, fuera de la broma, esta historia tiene un lado muy oscuro. Y no podemos contarla sin mencionarlo.
+
+En los años ochenta y noventa, la cocaína y la heroína entraron en Galicia como una ola. Y no solo de paso hacia Europa. Se quedaron. Y en muchos pueblos de las rías, una generación entera de jóvenes cayó en la droga. Familias destrozadas, muertes por sobredosis, enfermedades, cárcel. Aquello fue una tragedia que todavía se recuerda en muchas casas gallegas.
+
+Y frente a eso, hubo gente que plantó cara. Especialmente, las madres. Madres que habían perdido a sus hijos por la droga y que salieron a la calle, se organizaron, se plantaron delante de las casas de los narcos y exigieron que se hiciera algo. En unos años en los que muchos callaban, ellas no se callaron. Y su presión fue una de las razones por las que la justicia y la policía empezaron a tomarse en serio lo que pasaba en las rías.
+
+Por eso, cuando se habla de los clanes gallegos con cierta fascinación, como si fueran personajes de una serie, conviene recordar el otro lado. Detrás de cada alijo había una cadena que terminaba en algún joven, en algún barrio, en alguna familia rota.
+
+Y hay una última lección en la historia de los Charlines, quizá la más interesante. Una familia no es una empresa. En un clan familiar, los lazos de sangre y la lealtad hacen que sea muy difícil que alguien colabore con la justicia. Pero, al mismo tiempo, que alguien sea hijo, hija o esposa de un narcotraficante condenado no le convierte automáticamente en culpable de nada. La sentencia de 2024 lo dejó claro: cada persona responde por lo que se puede probar sobre ella, no por su apellido.
+
+Volvamos al principio. Una mañana de agosto de 2018 en Vilanova de Arousa. La policía llama a la puerta de un hombre de ochenta y cinco años. Un hombre que había visto pasar por la ría el tabaco, el hachís y la cocaína. Que había sido detenido en la Nécora y condenado por el Halcón II. Y que, según la acusación, todavía no se había retirado.
+
+Tres años después, murió en su casa. Y tres años más tarde, su familia fue absuelta del blanqueo por el que había sido juzgada.
+
+Es un final extraño para un clan tan famoso. Sin una gran operación final, sin una última imagen espectacular. Solo un anciano que muere en su casa en Nochevieja y una sentencia que, años después, cierra una causa sin condenas. Pero quizá sea el final más honesto posible. Porque la historia real del crimen organizado casi nunca termina como en las películas. Termina con el paso del tiempo, con expedientes que se archivan, con protagonistas que envejecen y con un pueblo que intenta pasar página.
+
+Los Charlines son, quizá, el mejor resumen de la historia del narcotráfico gallego: empezó con el contrabando, creció con la cocaína y dejó una herida que tardó décadas en cerrarse. Y que, en algunos sitios, todavía no se ha cerrado del todo.
+
+Si quieres ver cómo ha cambiado el narcotráfico en las rías, de las planeadoras a algo mucho más sorprendente, te dejo aquí la historia del narcosubmarino de Galicia, el submarino casero que cruzó el Atlántico y acabó hundido en una ría gallega. Te espero allí.
