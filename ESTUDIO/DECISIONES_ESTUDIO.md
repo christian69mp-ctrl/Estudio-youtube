@@ -55,3 +55,10 @@
 - Sustituye a: «una voz distinta por canal» (PIXELIDO.md, 2026-10-26). Dos voces se comparten entre canales por decisión de Christian.
 - Aplicación: cada pedido a Pixelido indica la voz en las observaciones de cada vídeo.
 - Alcance: todos los canales
+
+### D-ESTUDIO-008 — 2026-11-23 — Guiones de ~20 minutos
+- Estado: aprobada (Christian: «tenemos que hacerlos de 20»).
+- Qué: guiones largos de **2.900–3.100 palabras** (objetivo 3.000), para vídeos de unos 20 minutos.
+- Por qué: los guiones de ~3.800 palabras del PX-01 dieron vídeos de 24:30–25 min (≈ 150–155 palabras/min con las voces de Pixelido) [DATO CHRISTIAN + medición del vídeo de estafas, 24:30].
+- Sustituye a: mínimo 3.750 palabras (D-EXT de cada canal y PROTOCOLOS §6b, 2026-10-23). Se mantienen el tono propio de cada canal y la estructura de alta retención; se recorta relleno y recapitulaciones, no ganchos ni cliffhangers.
+- Alcance: todos los canales (primero en el PX-02 de Código Mafia).

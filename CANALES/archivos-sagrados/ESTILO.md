@@ -18,7 +18,7 @@ Anterior: Divulgativo y respetuoso, con atmósfera de misterio; claro al marcar 
 
 ## Locución
 - **Voz: Berto** (Pixelido; fija para siempre, D-ESTUDIO-007, 2026-11-04).
-- Ritmo real: pendiente de calibrar (supuesto provisional 140–160 palabras/min).
+- Ritmo real calibrado (2026-11-23): ≈ 150–155 palabras/min con la voz de Pixelido → 3.000 palabras ≈ 20 min.
 
 ## Miniaturas
 - Identidad visual pendiente de definir.

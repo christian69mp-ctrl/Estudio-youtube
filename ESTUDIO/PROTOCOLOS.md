@@ -140,7 +140,9 @@ Objetivo de diseño: retención alta (meta de Christian: ≥ 50 %). Es un objeti
    - **Al editor:** `LOCUCION_EDITOR.txt` = solo el texto para la voz sintética. Sin títulos, sin notas, sin marcas, sin bloques recortables, sin nada de revisión. Solo se genera con todas las afirmaciones confirmadas o retiradas del texto.
    - **Interno (estudio):** `GUION.md` con locución, indicaciones visuales, fuentes y afirmaciones a verificar.
 
-**Extensión (Christian, 2026-10-23, sustituye a la norma anterior de 3.600–3.900):** **mínimo 3.750 palabras** de locución por guion largo. Si faltan datos verificados, completar con recapitulaciones, transiciones, cliffhangers y pasajes de tono propio del canal, nunca con datos sin comprobar.
+**Extensión vigente (D-ESTUDIO-008, 2026-11-23): 2.900–3.100 palabras de locución (objetivo 3.000) para vídeos de ~20 min.** Calibración real: ~3.800 palabras dieron 24:30–25 min con las voces de Pixelido (≈ 150–155 palabras/min).
+
+~~**Extensión (Christian, 2026-10-23, sustituye a la norma anterior de 3.600–3.900):** mínimo 3.750 palabras~~ (sustituida) de locución por guion largo. Si faltan datos verificados, completar con recapitulaciones, transiciones, cliffhangers y pasajes de tono propio del canal, nunca con datos sin comprobar.
 
 **Tono diferenciado (obligatorio):** Jager Aviación formal y entretenido (pausas técnicas, «detengámonos en la cabina»); Código Mafia burlón contra los criminales (ironía, «recapitulemos el modelo de negocio»); Jager Crime documental sobrio (formato expediente: «lo que constaba / lo que no constaba»); Archivos Sagrados misterioso (segunda persona sensorial, «cierra los ojos»); Jager Explica divertido (comparaciones absurdas, «dato inútil del día»).
 

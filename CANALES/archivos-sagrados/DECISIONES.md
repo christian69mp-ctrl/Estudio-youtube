@@ -26,7 +26,7 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 
 ### D-EXT — 2026-10-23 — Extensión mínima y tono propio
 - Estado: aprobada (Christian)
-- Qué se decidió: guiones largos con un mínimo de 3.750 palabras y tono claramente distinto al de los demás canales (ver PROTOCOLOS §6b).
+- Qué se decidió: guiones largos con un ~~mínimo de 3.750 palabras~~ (sustituido por D-ESTUDIO-008, 2026-11-23: 2.900–3.100 palabras, ~20 min) y tono claramente distinto al de los demás canales (ver PROTOCOLOS §6b).
 - Sustituye a: objetivo anterior de ~4.000 / 3.600–3.900 palabras.
 - Alcance: canal
 
