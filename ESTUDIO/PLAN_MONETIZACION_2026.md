@@ -18,7 +18,7 @@ Días propuestos: **martes y viernes** [HIPÓTESIS; las 19:00 son horario histó
 | 3 (10–16/11) | CM-I005 Mocro Maffia en la Costa del Sol | CM-I006 Operación Troika (mafia rusa) | por aprobar |
 | 4 (17–23/11) | CM-I007 Operación Emperador (Gao Ping) | CM-I015 Garbanzos negros (sustituye a CM-I008 Sito Miñanco, 23/11) | por aprobar |
 | 5 (24–30/11) | CM-I009 Hells Angels en Mallorca | CM-I010 Caso Malaya (corrupción en Marbella) | por aprobar |
-| 6 (1–7/12) | CM-I011 Clan de los Castañas (La Línea) | CM-I012 Los Charlines | por aprobar |
+| 6 (1–7/12) | CM-I016 Narcosubmarino de Galicia (sustituye a CM-I011 Castañas, 23/11) | CM-I012 Los Charlines | por aprobar |
 | 7 (8–14/12) | CM-I013 Laureano Oubiña | CM-I014 La Camorra en España | por aprobar |
 
 **Pedidos:** PX-01 = los 10 guiones de PED-01 (todos los canales; enviado 31/10). **PX-02 = 10 vídeos, solo Código Mafia** [DATO CHRISTIAN, 31/10]. Temas **aprobados** [DATO CHRISTIAN, 14/11]: CM-I003 a CM-I012 (Oubiña y Camorra de reserva).

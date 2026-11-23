@@ -45,3 +45,9 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 - Qué: el hueco 6 de PX-02 pasa a CM-I015 (agentes acusados de colaborar con el narco: Bilbao 2025, exjefe UDEF, Muxía 2026). CM-I008 queda en pausa, no descartado.
 - Por qué: decisión editorial de Christian; tema actual con vínculo español y ángulo de traidor/corrupción (el que mejor funciona en el canal).
 - Sustituye a: CM-I008 Sito Miñanco en el pedido PX-02 y en la semana 4 del plan de monetización.
+
+### D-PX02-SUST2 — 2026-11-23 — Clan de los Castañas sustituido por el narcosubmarino de Galicia en PX-02
+- Estado: aprobada (Christian: «Este también lo podríamos cambiar por otro más viral» → «Sí, el narcosubmarino»).
+- Qué: el hueco 9 de PX-02 pasa a CM-I016. CM-I011 queda en pausa, no descartado.
+- Por qué: mayor potencial viral (objeto visual único, aventura) con vínculo español y sentencia firme.
+- Sustituye a: CM-I011 en PX-02 y en la semana 6 del plan de monetización.
