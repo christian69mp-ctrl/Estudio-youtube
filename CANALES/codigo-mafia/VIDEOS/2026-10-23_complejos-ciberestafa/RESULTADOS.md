@@ -11,3 +11,6 @@
 - Visualizaciones: 35 · CTR 1,3 % · Duración media 8:21 de 24:30 (≈ 34 %) · Puesto 4 de 10.
 - Miniatura publicada: v2 con el móvil diciendo «Hola, ¿eres Laura?» (repite el título; no se aplicó la corrección). Una sola miniatura visible (Probar y comparar aparentemente no activo).
 - Lectura [INTERPRETACIÓN]: retención aceptable (34 %; Trojan 68 %, Sala 25 %); el cuello de botella vuelve a ser el clic. Siguiente: sustituir por la v3 «NO EXISTE» o, mínimo, corregir el mensaje del móvil.
+
+## Captura 3 — 2026-11-23 (3 d 10 h) [DATO CHRISTIAN]
+- Visualizaciones: 54. Miniatura actual: v3 «NO EXISTE». Pendiente: CTR desde el cambio.
