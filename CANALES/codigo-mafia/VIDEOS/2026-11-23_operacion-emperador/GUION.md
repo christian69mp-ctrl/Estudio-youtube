@@ -92,7 +92,7 @@ Diez años después de la redada, pidiendo la traducción. Hay quien pide tiempo
 
 ¿Y cómo ha terminado?
 
-Aquí tengo que ser muy honesto contigo. Según la prensa andorrana, en 2026 la Audiencia Nacional cerró una gran parte del caso con un acuerdo de conformidad: es decir, muchos acusados aceptaron los hechos a cambio de penas reducidas. Según esa información, el acuerdo afectó a setenta y dos de los más de cien acusados, con penas que, de media, rondaban el año y tres meses.
+Aquí tengo que ser muy honesto contigo. El juicio empezó por fin en la primavera de 2026, catorce años después de la redada. Y según la prensa andorrana, ese mismo año la Audiencia Nacional cerró una gran parte del caso con un acuerdo de conformidad: es decir, muchos acusados aceptaron los hechos a cambio de penas reducidas. Según esa información, el acuerdo afectó a setenta y dos de los más de cien acusados, con penas que, de media, rondaban el año y tres meses.
 
 Un año y tres meses de media. Después de catorce años de investigación, ochenta y tres detenidos, diez millones en billetes y una estimación policial de cientos de millones blanqueados al año.
 

@@ -22,5 +22,6 @@ Repositorio: github.com/christian69mp-ctrl/estudio-youtube (privado), rama `main
 ## 2026-10-31
 - PX-01 (10 guiones) enviado a Pixelido por Christian. Briefing de canales y hoja de solicitudes entregados; guiones en Drive (carpeta «Guiones Pixelido PX-01»).
 - 2026-11-23: escritos los 10 guiones v1 de PX-02 (2.900–3.000 palabras). Sustituciones aprobadas: Sito Miñanco → Garbanzos negros (CM-I015); Castañas → Narcosubmarino (CM-I016).
-- Siguiente: Christian revisa/aprueba los 10 guiones de PX-02 → subir a Drive y preparar solicitudes de Pixelido; [PENDIENTE] confirmar conformidad Emperador (fuente española) y entrada en prisión de Pantoja (2014); métricas de Trojan Shield tras miniatura v4 y curva de retención del caso Sala; voces asignadas por Pixelido a cada canal.
+- 2026-11-24: PX-02 preparado (guiones v3 ≤2.500 palabras en Drive, carpeta 15zISixbh2Ms2SxJZ3e6-LGDQkkBXZLHy; solicitudes, miniaturas y comentarios fijados). Pantoja (21/11/2014) verificado; Emperador: juicio iniciado 30/04/2026 [HECHO], conformidad solo en prensa andorrana (atribuido así).
+- Siguiente: cuando Christian pase el briefing de Pixelido, rellenarlo con `SOLICITUDES_PX-02.md` como en PX-01; Christian debe activar «cualquiera con el enlace» en la carpeta de Drive; métricas de Trojan Shield tras miniatura v4 y curva de retención del caso Sala; voces asignadas por Pixelido a cada canal.
 - Limpieza pendiente de confirmar: página de Claude «Guiones PX-01» y documento vacío «Guiones PX-01 — Pixelido» (ya no se usan).
