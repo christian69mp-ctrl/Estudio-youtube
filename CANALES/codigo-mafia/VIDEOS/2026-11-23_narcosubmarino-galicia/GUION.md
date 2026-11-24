@@ -1,4 +1,4 @@
-# GUION — El narcosubmarino de Galicia (v1, 2026-11-23)
+# GUION — El narcosubmarino de Galicia (v2 · CTA de retención, 2026-11-23)
 
 Noviembre de 2019. Ría de Aldán, en Cangas, Pontevedra. Una de esas rías gallegas tranquilas, con bateas de mejillón, barcos de pesca y aldeas junto al mar.
 
@@ -13,6 +13,8 @@ Y cuando llegaron a Galicia, después de toda esa travesía, el plan se torció.
 Esta es la historia del narcosubmarino de Galicia. Según la prensa, el primer narcosubmarino interceptado en Europa tras cruzar el Atlántico. Una historia tan increíble que acabó convertida en serie de televisión.
 
 Bienvenido a Código Mafia. Hoy nos vamos bajo el agua. Bueno, casi bajo el agua, que ya verás que el matiz es importante.
+
+Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque al final te cuento la gran paradoja de esta historia: quién se llevó las penas más duras… y quién ni siquiera aparece en la sentencia.
 
 Antes de empezar, una buena noticia para este canal: esta historia tiene sentencia firme. Los tres tripulantes confesaron en el juicio y fueron condenados, y esas condenas fueron confirmadas. Así que vamos a poder hablar de hechos probados. Eso sí, con los acusados que esperaban en tierra, la historia judicial tuvo varios giros, y te los cuento al final con detalle.
 
@@ -38,6 +40,8 @@ Y con más de tres mil kilos de cocaína como compañeros de viaje.
 
 No hace falta exagerar nada. Ese viaje, se mire como se mire, es una auténtica locura. Por eso la serie de televisión que se hizo después sobre esta historia lleva un subtítulo que lo resume perfectamente: la travesía suicida.
 
+Ahora te pregunto a ti: ¿te subirías a un submarino casero para cruzar el Atlántico por mucho dinero que te ofrecieran? Yo lo tengo clarísimo. Déjame tu respuesta en los comentarios, que tengo curiosidad por ver cuántos valientes, o cuántos insensatos, hay por aquí.
+
 Y antes de seguir, una pregunta que mucha gente se hace: ¿por qué salir de Brasil, si Brasil no produce cocaína? La cocaína se produce sobre todo en países andinos como Colombia, Perú y Bolivia. Pero para llegar a Europa necesita una salida al Atlántico. Y Brasil, con una costa inmensa mirando hacia África y Europa, se ha convertido en los últimos años en uno de los grandes puntos de salida de la cocaína que cruza el océano. Es decir, la droga no nace allí, pero muchas veces sale de allí.
 
 Ahora, ¿por qué Galicia? Aquí, una interpretación. Galicia tiene una costa enorme, llena de rías, calas y entrantes difíciles de vigilar en su totalidad. Y tiene una historia larga de contrabando y narcotráfico. Si has visto nuestro vídeo sobre la Operación Nécora, sabes de lo que hablo. Durante décadas, las rías gallegas fueron una de las principales puertas de entrada de droga en Europa. Y quien conoce ese terreno sabe dónde se puede descargar algo sin que nadie mire.
@@ -48,7 +52,7 @@ Según la prensa, la operación contó con la colaboración de las policías de 
 
 Es decir, aquel submarino no viajaba tan en secreto como creían sus tripulantes. Había gente siguiendo la pista desde mucho antes de que llegara a Galicia. Y según la prensa británica de aquellos días, la droga probablemente tenía como destino el Reino Unido.
 
-Si te está gustando esta historia, suscríbete a Código Mafia. Cada semana contamos una historia del crimen organizado con conexión española, con los datos contrastados y separando lo probado de lo que no. Y ahora viene la parte más cinematográfica de todas: la llegada.
+Y si has llegado hasta aquí y todavía no estás suscrito, este es el momento, que ahora viene la parte más cinematográfica de todas: la llegada.
 
 Noviembre de 2019. Después de semanas en el mar, el submarino llega a la costa gallega. Pero algo sale mal. Según la información del juicio, el plan cambió y los tripulantes decidieron hundir la embarcación, con toda la droga dentro, en la ría de Aldán.
 
@@ -63,8 +67,6 @@ El tercero, el patrón, consiguió escapar en un primer momento. Pero no fue muy
 Días después. En neopreno. No sé si por estilo, por falta de ropa o porque había decidido que ya formaba parte de su personalidad. Pero hay que reconocer que, como disfraz para pasar desapercibido en un pueblo gallego en noviembre, el neopreno no es la mejor elección.
 
 Y otras dos personas fueron detenidas en Vigo. Con lo que el número de arrestos en aquellos primeros días llegó a cinco.
-
-Ahora te pregunto a ti: ¿te subirías a un submarino casero para cruzar el Atlántico por mucho dinero que te ofrecieran? Yo lo tengo clarísimo. Déjame tu respuesta en los comentarios, que tengo curiosidad por ver cuántos valientes, o cuántos insensatos, hay por aquí.
 
 Y luego vino el rescate de la carga. El submarino fue reflotado y remolcado al puerto de Aldán. Y dentro aparecieron los fardos. Ciento cincuenta y dos fardos de cocaína. Según la sentencia, unos tres mil sesenta y ocho kilos. Y según la misma sentencia, su valor en el mercado ilícito habría superado los ciento veintitrés millones de euros.
 

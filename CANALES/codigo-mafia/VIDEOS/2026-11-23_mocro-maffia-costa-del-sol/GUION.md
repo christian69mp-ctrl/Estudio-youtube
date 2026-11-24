@@ -1,4 +1,4 @@
-# GUION — Mocro Maffia en la Costa del Sol (v1, 2026-11-23)
+# GUION — Mocro Maffia en la Costa del Sol (v2 · CTA de retención, 2026-11-23)
 
 Otoño de 2022. La futura reina de los Países Bajos, la princesa Amalia, tiene dieciocho años y acaba de empezar la universidad en Ámsterdam. Como cualquier estudiante, se ha mudado a una residencia. Y unas semanas después, tiene que irse.
 
@@ -11,6 +11,8 @@ Ahora viene lo increíble. Mientras la heredera de un país entero se escondía 
 Hoy vas a descubrir qué es la Mocro Maffia, por qué ha convertido a los Países Bajos en uno de los países más tensos de Europa y por qué la Costa del Sol se ha convertido en su segunda casa.
 
 Bienvenido a Código Mafia. Hoy viajamos de los canales de Ámsterdam a los puertos deportivos de Marbella. Y te aviso: esta mafia no es de las que hacen bromas.
+
+Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque cuando lleguemos a lo que pasó con el hombre de Marbella en los tribunales españoles, vas a tener opinión. Seguro.
 
 Como siempre, una advertencia antes de empezar. En esta historia hay condenados, acusados y personas a las que la prensa ha señalado sin que ningún tribunal haya dicho la última palabra. Vamos a distinguirlos con cuidado. Y nos reiremos de quien se lo merece, pero aquí hay muertos de verdad.
 
@@ -42,6 +44,8 @@ Peter R. de Vries no era un periodista cualquiera. Llevaba décadas investigando
 
 Un hermano. Un abogado. Un periodista. Todos alrededor de una misma persona que había decidido hablar.
 
+Y ahora te pregunto a ti: ¿habías oído hablar de la Mocro Maffia antes de este vídeo? ¿Te imaginabas que esta historia acabaría pasando por España? Déjamelo en los comentarios, que tengo curiosidad.
+
 Los fiscales sostienen que detrás de esos crímenes estaba el entorno de Taghi, aunque cada uno de esos asesinatos ha tenido o tiene su propio proceso judicial. Pero el mensaje que recibió el país fue clarísimo: en los Países Bajos, colaborar con la justicia podía costarte la vida a ti y a todos los que te rodean.
 
 Veintisiete de febrero de 2024. Después de uno de los juicios más grandes de la historia del país, celebrado en una sala de máxima seguridad en Ámsterdam, el tribunal condena a Ridouan Taghi a cadena perpetua. El juez lo considera el líder indiscutible de lo que llamó una organización asesina, y lo declara culpable de varios asesinatos. Otros dos acusados reciben también cadena perpetua. Las sentencias pueden recurrirse.
@@ -50,7 +54,7 @@ Y fíjate en lo que dice todo esto del ambiente que se vivía. En un país conoc
 
 Ese fue el contexto en el que, en otoño de 2022, saltó la noticia de que la heredera al trono estaba amenazada por el crimen organizado. El país entero se preguntó: si no pueden proteger a la futura reina en su residencia de estudiantes, ¿quién está a salvo?
 
-Si te está gustando esta serie sobre las mafias que han tenido su base en España, suscríbete a Código Mafia. Porque ahora toca hablar de la parte española de esta historia. Y es mucho más grande de lo que imaginas.
+Y si has llegado hasta aquí y todavía no estás suscrito, dale ahora, que estamos con toda una serie sobre las mafias con base en España. Porque ahora toca hablar de la parte española de esta historia. Y es mucho más grande de lo que imaginas.
 
 Porque mientras los Países Bajos sufrían la guerra, muchos de sus protagonistas buscaban un sitio tranquilo. Con sol, con lujo, con buenas comunicaciones y lejos de la presión de la policía neerlandesa.
 

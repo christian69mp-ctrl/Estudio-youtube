@@ -1,4 +1,4 @@
-# GUION — Operación Nécora (v1, 2026-11-23)
+# GUION — Operación Nécora (v2 · CTA de retención, 2026-11-23)
 
 En las Rías Baixas, en Galicia, hay un pazo precioso rodeado de viñedos. Hoy es una bodega de albariño. Se hacen visitas, catas, bodas. Y una parte del dinero de cada botella que se vende va a parar a programas contra la droga.
 
@@ -11,6 +11,8 @@ Ese pazo se llama Baión. Y su dueño de entonces era uno de los nombres más co
 ¿Cómo pasó una casa de un narco a financiar la lucha contra la droga? La respuesta empieza un amanecer de junio de 1990, cuando un juez de Madrid decidió hacer algo que nadie se había atrevido a hacer: entrar en las rías gallegas a por los capos. La llamaron Operación Nécora. Y sí, la historia que vas a oír inspiró un libro que un juzgado llegó a secuestrar y una serie que vio media España.
 
 Bienvenido a Código Mafia. Hoy toca marisco. Del caro.
+
+Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque el gran juicio de la Nécora no salió como nadie esperaba. Y te voy a explicar por qué.
 
 Antes de empezar, como siempre: aquí separamos lo que dijeron los tribunales, lo que contaron los testigos y lo que nunca se llegó a demostrar. Porque en esta historia hubo muchos acusados… y bastantes absueltos.
 
@@ -36,6 +38,8 @@ Fueron ellas, las madres, las primeras en plantarse. Se organizaron, señalaron 
 
 Durante mucho tiempo, esas madres se sintieron solas. Les decían que exageraban, que aquellos señores daban trabajo, que no se podía acusar a nadie sin pruebas. Y ellas respondían con lo único que tenían: las fotos de sus hijos. Las marchas, las pancartas y los gritos delante de los pazos acabaron llegando a los periódicos de toda España. Y lo que antes era un problema de unos pueblos de Galicia se convirtió en un problema nacional.
 
+Ahora te pregunto a ti: si vives en Galicia o tienes familia allí, ¿cómo se recuerda hoy aquella época en tu pueblo? ¿Se habla de ello o todavía se prefiere no hablar? Déjamelo en los comentarios, porque es una de esas historias que se cuentan mejor desde dentro.
+
 Y entonces, el Estado decidió mirar también.
 
 Guarda esto en la cabeza, porque va a ser importante: en esta historia, los primeros que se atrevieron a señalar no fueron los jueces ni los policías. Fueron unas madres. Pero para meter a alguien en la cárcel no basta con señalarlo. Hacen falta pruebas. Y ahí empieza el problema.
@@ -56,7 +60,7 @@ Y piensa también en lo que significa ser arrepentido en un sitio así. No eres 
 
 Recuerda lo de las pruebas. Porque, como vas a ver, ese mapa tenía una debilidad: dependía muchísimo de lo que dijeran dos personas.
 
-Si te gusta esta serie sobre las mafias que han tenido su base en España, suscríbete a Código Mafia. Porque ahora llega el juicio. Y el juicio no salió como nadie esperaba.
+Y si has llegado hasta aquí y todavía no estás suscrito, este es el momento. Porque ahora llega el juicio. Y el juicio no salió como nadie esperaba.
 
 Seis de septiembre de 1990. La fiscalía antidroga presenta su acusación contra cuarenta y nueve de los detenidos. Es un caso gigantesco. Al banquillo se sientan cuarenta y ocho acusados.
 
@@ -97,8 +101,6 @@ Y en 1995, dentro de la Operación Nécora, el pazo fue embargado.
 Pasaron los años, los recursos, los papeles. Y en 2008, el Estado sacó el pazo a subasta. Lo compró una cooperativa de vino de la zona, Condes de Albarei, por algo más de quince millones de euros. Hoy, el Pazo de Baión es una bodega de albariño. Y según la propia cooperativa y las autoridades, una parte de lo que genera se destina a programas contra la droga.
 
 Piénsalo bien. Una casa que, según las madres, se había levantado con el dinero de la droga, ahora ayuda a pagar la lucha contra esa misma droga. Si existe la justicia poética, debe de saber a albariño.
-
-Ahora te pregunto a ti: si vives en Galicia o tienes familia allí, ¿cómo se recuerda hoy aquella época en tu pueblo? ¿Se habla de ello o todavía se prefiere no hablar? Déjamelo en los comentarios, porque es una de esas historias que se cuentan mejor desde dentro.
 
 Pero la Nécora todavía tenía un capítulo más. Y este llegó casi treinta años después. En una librería.
 

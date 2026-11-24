@@ -1,4 +1,4 @@
-# GUION — Operación Troika (v1, 2026-11-23)
+# GUION — Operación Troika (v2 · CTA de retención, 2026-11-23)
 
 Julio de 2020. La Audiencia Nacional, uno de los tribunales más importantes de España, toma una decisión: devolver una mansión de lujo en Mallorca a su dueño.
 
@@ -11,6 +11,8 @@ Entre medias: escuchas telefónicas, decenas de detenidos, un fiscal español di
 Esta es la historia de la Operación Troika. La operación que iba a demostrar que la mafia rusa había elegido España para lavar su dinero. Y que terminó de la forma más inesperada.
 
 Bienvenido a Código Mafia. Hoy nos vamos a Mallorca. Llévate el abrigo, que viene frío de San Petersburgo.
+
+Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque más adelante vas a oír lo que, según un cable diplomático filtrado, le dijo un fiscal español a la embajada de Estados Unidos sobre Rusia.
 
 Y antes de empezar, una advertencia más importante que nunca. En esta historia, nadie ha sido condenado. Todos los acusados que se sentaron en el banquillo fueron absueltos, y el hombre al que la policía consideraba el jefe nunca fue juzgado. Así que aquí no vamos a llamar mafioso a nadie con nombre y apellidos. Vamos a contarte qué dijo la policía, qué dijo la fiscalía y qué dijeron los jueces. Y vamos a reírnos, sobre todo, de lo surrealista que fue todo.
 
@@ -38,9 +40,11 @@ Si no conoces la zona, imagínatela. Una urbanización de lujo en el suroeste de
 
 Según los investigadores, Petrov era uno de los máximos responsables de esas organizaciones de San Petersburgo y llevaba años viviendo en la isla. Y según la fiscalía, desde España se movía dinero de esas organizaciones a través de empresas, inmuebles y cuentas bancarias.
 
+Ahora te pregunto a ti: ¿crees que la justicia debería haberle dejado viajar a Rusia mientras estaba investigado? ¿O fue un error de manual? Déjamelo en los comentarios.
+
 Días después, los detenidos fueron trasladados ante el juez. La prensa de medio mundo habló de un golpe histórico. Parecía que España estaba a punto de demostrar ante un tribunal algo que muchas policías europeas sospechaban desde hacía años.
 
-Si te está gustando esta serie sobre las mafias que han tenido su base en España, suscríbete a Código Mafia. Porque ahora viene la parte en la que esta historia se vuelve muy, muy rara.
+Y si has llegado hasta aquí y todavía no estás suscrito, este es el momento. Porque ahora viene la parte en la que esta historia se vuelve muy, muy rara.
 
 Primera rareza. Las escuchas.
 
@@ -79,8 +83,6 @@ Detengámonos aquí un momento, porque esto merece un aplauso irónico. Imagina 
 Y mientras tanto, la mansión de Mallorca se quedó vacía. Embargada. Esperando.
 
 Hubo propuestas de todo tipo. Se habló de venderla. Incluso se planteó darle un uso social. Durante años, aquella casa de lujo en Sol de Mallorca fue el símbolo de una operación que se había quedado a medias.
-
-Ahora te pregunto a ti: ¿crees que la justicia debería haberle dejado viajar a Rusia mientras estaba investigado? ¿O fue un error de manual? Déjamelo en los comentarios.
 
 Piensa también en lo que supone para una investigación perder a su protagonista. Sin el principal acusado delante, muchas de las piezas pierden fuerza. Las conversaciones, los movimientos de dinero, las relaciones entre empresas… todo giraba alrededor de él. Y ahora había que juzgar a los que, según la acusación, le ayudaban, sin poder sentar en el banquillo a la persona a la que supuestamente ayudaban. Es como juzgar a los músicos de una orquesta sin el director, y tener que demostrar que tocaban la partitura que él les había dado.
 

@@ -51,3 +51,9 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 - Qué: el hueco 9 de PX-02 pasa a CM-I016. CM-I011 queda en pausa, no descartado.
 - Por qué: mayor potencial viral (objeto visual único, aventura) con vínculo español y sentencia firme.
 - Sustituye a: CM-I011 en PX-02 y en la semana 6 del plan de monetización.
+
+### D-CTA — 2026-11-24 — Estructura de CTA para retención y conversión
+- Estado: aprobada (Christian: «Sí, hazlos de alta retención y conversión… con el estilo de Código Mafia y su voz»).
+- Qué: en cada guion largo: (1) CTA de suscripción breve + bucle abierto (teaser concreto) justo después de «Bienvenido a Código Mafia» (~7–9 %, ~1:30–2 min); (2) pregunta de comentarios hacia el 29–35 % (~6–7 min), antes de la duración media; (3) recordatorio de suscripción corto a mitad (35–45 %), con re-enganche a lo que viene.
+- Por qué: H-001 — en 'Ndrangheta los CTA caían después de la duración media (8:50 de ~25 min): 645 vistas, +3 suscriptores, 0 comentarios.
+- Aplicado a: los 10 guiones de PX-02 (v2). Medir suscriptores por cada 1.000 vistas y comentarios frente a 'Ndrangheta.

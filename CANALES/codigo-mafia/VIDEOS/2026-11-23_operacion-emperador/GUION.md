@@ -1,4 +1,4 @@
-# GUION — Operación Emperador (v1, 2026-11-23)
+# GUION — Operación Emperador (v2 · CTA de retención, 2026-11-23)
 
 Octubre de 2012. Un polígono industrial en Fuenlabrada, al sur de Madrid. Naves enormes llenas de ropa, juguetes, bolsos y zapatillas. El sitio donde miles de tiendas de toda España van a comprar mercancía al por mayor. Un lugar ruidoso, lleno de furgonetas, de cajas y de gente trabajando.
 
@@ -13,6 +13,8 @@ Y en el centro de todo, según la policía, un empresario chino que tenía una g
 Esta es la historia de la Operación Emperador. La investigación que destapó, según la policía, una de las mayores redes de blanqueo de dinero de la historia de España. Y que, catorce años después, todavía no ha terminado de cerrarse.
 
 Bienvenido a Código Mafia. Hoy nos vamos de compras a un polígono. Pero no a por ropa.
+
+Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque catorce años después de la redada, uno de los acusados le pidió algo al juez que te va a hacer reír. Te lo cuento más adelante.
 
 Antes de empezar, como siempre: en esta historia hay muchísimos acusados y muy pocas certezas judiciales definitivas. Así que vamos a separar con cuidado lo que dijo la policía, lo que dijo la fiscalía y lo que se ha resuelto en los tribunales. Y vamos a reírnos de lo que tiene gracia, que en esta historia es bastante.
 
@@ -34,6 +36,8 @@ Por eso las organizaciones criminales necesitan a alguien que haga ese trabajo p
 
 Y aquí está la clave de esta historia, así que guárdala bien. Según los investigadores, a ese banco paralelo no acudían solo empresarios que querían ahorrarse impuestos. También acudían, supuestamente, personas que tenían que mover dinero procedente de otros delitos. Y eso convertía una red de evasión fiscal en algo mucho más serio.
 
+Y ahora te pregunto a ti: ¿crees que es posible mover cientos de millones de euros en efectivo sin que nadie se dé cuenta? Déjamelo en los comentarios, que en unos minutos vas a ver lo que calculaba la policía.
+
 Ahora, el protagonista.
 
 Se llama Gao Ping. Un empresario chino afincado en Madrid, con negocios de importación y una galería de arte. Según la policía, era el líder de la organización. Un hombre que, por su faceta de galerista, se movía más cerca del mundo del arte contemporáneo que de un polígono industrial.
@@ -50,7 +54,7 @@ Al año.
 
 Si esas cifras se demostraran, estaríamos hablando de una de las mayores operaciones de blanqueo detectadas nunca en España. Pero, como siempre en esta serie, la pregunta clave no es lo que estima la policía. Es lo que se puede demostrar ante un juez.
 
-Si te está gustando esta serie sobre las mafias y las tramas que han tenido su base en España, suscríbete a Código Mafia. Porque ahora vamos con la parte más surrealista de esta historia: la lista de detenidos.
+Y si has llegado hasta aquí y todavía no estás suscrito, este es el momento. Porque ahora vamos con la parte más surrealista de esta historia: la lista de detenidos.
 
 Porque una cosa es detener a ochenta personas. Y otra muy distinta es que entre ellas aparezcan perfiles que nadie se esperaba.
 

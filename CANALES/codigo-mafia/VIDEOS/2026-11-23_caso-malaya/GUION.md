@@ -1,4 +1,4 @@
-# GUION — Caso Malaya (v1, 2026-11-23)
+# GUION — Caso Malaya (v2 · CTA de retención, 2026-11-23)
 
 Octubre de 2025. Aeropuerto de Madrid-Barajas.
 
@@ -15,6 +15,8 @@ Bueno, sí volvió. Diecinueve años después. Y lo que pasó entonces es, proba
 Esta es la historia del Caso Malaya. La operación que destapó, según la justicia, cómo un Ayuntamiento entero se convirtió en una máquina de cobrar comisiones. Un caso con un alcalde condenado, dos alcaldesas condenadas, un cerebro con una multa de doscientos cuarenta millones de euros, una de las cantantes más famosas de España en el banquillo… y un fugado que se fue andando.
 
 Bienvenido a Código Mafia. Hoy no hay narcolanchas ni pistolas. Hoy el arma del crimen es una licencia de obras.
+
+Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque te voy a contar qué tribunal decidió subirle la condena al cerebro de la trama. Algo que en esta serie casi nunca pasa.
 
 Antes de empezar, una aclaración que en este vídeo es distinta a otros. Aquí sí hay sentencias firmes. Así que vamos a poder hablar de hechos probados. Pero también vamos a separar bien quién fue condenado, por qué y por cuánto, porque no todos los acusados acabaron igual. Y vamos a reírnos, porque esta historia tiene momentos que ni el mejor guionista se atrevería a escribir.
 
@@ -46,11 +48,13 @@ Es decir, según los tribunales, el Ayuntamiento funcionaba como una empresa. Co
 
 Una empresa muy rentable, por cierto. Pero que tenía un problema: los ciudadanos de Marbella eran, en teoría, los dueños. Y nadie les había pedido permiso.
 
+Y mientras te cuento cómo funcionaba aquello, te dejo una pregunta: si fueras un acusado fugado, ¿se te habría ocurrido una excusa mejor que el Camino de Santiago? Déjamelo en los comentarios, que esta tiene muchas posibilidades.
+
 Jesús Gil dejó la alcaldía en 2002 y murió en 2004. Le sucedió Julián Muñoz, que había sido su mano derecha. Y a Muñoz, tras una moción de censura, le sucedió Marisol Yagüe. Y mientras los alcaldes cambiaban, según la investigación, el sistema seguía funcionando.
 
 Y entonces, en 2005, empezó la investigación que lo cambiaría todo.
 
-Si te está gustando esta historia, suscríbete a Código Mafia. Aquí contamos las historias del crimen organizado con conexión española, con los datos contrastados. Y ahora viene el día en que Marbella se quedó sin Ayuntamiento.
+Y si has llegado hasta aquí y todavía no estás suscrito, este es el momento, que ahora viene el día en que Marbella se quedó sin Ayuntamiento.
 
 Marzo de 2006. La policía lanza la Operación Malaya. Una veintena de detenidos en la primera fase. Y entre ellos, nada menos que la alcaldesa de Marbella, Marisol Yagüe. Y también Juan Antonio Roca, el hombre del urbanismo.
 
@@ -73,8 +77,6 @@ Durante más de una década, nadie supo dónde estaba. Hasta que en 2017 fue loc
 Y en Argentina se quedó. Según la prensa argentina, trabajando como consultor en la provincia de San Juan.
 
 Aquí conviene explicar qué es la prescripción, porque va a aparecer más de una vez. La ley establece que, pasado un tiempo, algunos delitos ya no se pueden perseguir. La idea es que nadie puede vivir eternamente con una acusación pendiente, y que con los años las pruebas se vuelven poco fiables. Ese plazo depende de la gravedad del delito. Pero cuando alguien está fuera del país y la extradición se decide con las leyes de otro Estado, la cuenta puede salir de forma muy distinta. En este caso, según la justicia argentina, el plazo ya había pasado.
-
-Ahora te pregunto a ti: si fueras un acusado fugado, ¿se te habría ocurrido una excusa mejor que el Camino de Santiago? Déjamelo en los comentarios, que esta tiene muchas posibilidades.
 
 Pero volvamos al caso principal. Porque una cosa es detener a medio Ayuntamiento. Y otra es juzgarlo.
 
