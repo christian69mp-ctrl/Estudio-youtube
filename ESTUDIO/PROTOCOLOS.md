@@ -140,7 +140,7 @@ Objetivo de diseño: retención alta (meta de Christian: ≥ 50 %). Es un objeti
    - **Al editor:** `LOCUCION_EDITOR.txt` = solo el texto para la voz sintética. Sin títulos, sin notas, sin marcas, sin bloques recortables, sin nada de revisión. Solo se genera con todas las afirmaciones confirmadas o retiradas del texto.
    - **Interno (estudio):** `GUION.md` con locución, indicaciones visuales, fuentes y afirmaciones a verificar.
 
-**Extensión vigente (D-ESTUDIO-008, 2026-11-23): 2.900–3.100 palabras de locución (objetivo 3.000) para vídeos de ~20 min.** Calibración real: ~3.800 palabras dieron 24:30–25 min con las voces de Pixelido (≈ 150–155 palabras/min).
+**Extensión vigente (D-ESTUDIO-009, 2026-11-24): máximo 2.500 palabras de locución (rango 2.350–2.500) para vídeos de ~15–16 min; nunca ≥ 18 min. CTA según D-CTA y comentario fijado siempre.** (Sustituye a D-ESTUDIO-008: 2.900–3.100.) Calibración real: ~3.800 palabras dieron 24:30–25 min con las voces de Pixelido (≈ 150–155 palabras/min).
 
 ~~**Extensión (Christian, 2026-10-23, sustituye a la norma anterior de 3.600–3.900):** mínimo 3.750 palabras~~ (sustituida) de locución por guion largo. Si faltan datos verificados, completar con recapitulaciones, transiciones, cliffhangers y pasajes de tono propio del canal, nunca con datos sin comprobar.
 

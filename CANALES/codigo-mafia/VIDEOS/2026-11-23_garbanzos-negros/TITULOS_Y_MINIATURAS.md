@@ -4,3 +4,6 @@
 **Texto miniatura:** EN BILBAO (BILBAO en amarillo)
 **Prompt Gemini:** Miniatura de YouTube 16:9, 1280x720, estilo fotográfico realista y cinematográfico, de noche en una terminal portuaria con grúas y contenedores iluminados por luces de sodio. En la mitad derecha, primer plano de un agente ficticio de unos 50 años con uniforme verde genérico SIN emblemas, escudos ni logotipos, mirando fijamente a cámara con expresión tensa y culpable; rostro inventado que no se parece a ninguna persona real. Detrás, desenfocado, un todoterreno blanco y verde genérico SIN rotulación oficial con el maletero abierto lleno de fardos rectangulares envueltos en plástico. En la mitad izquierda, texto enorme en dos líneas: EN arriba en blanco y BILBAO abajo en amarillo intenso, tipografía condensada extra gruesa (tipo Bebas Neue o Anton) con sombra negra marcada, ocupando casi toda la altura. Alto contraste, legible en un móvil pequeño. Sin escudos oficiales, banderas, logotipos ni rostros reales.
 - Nota: imagen sintética, nunca presentarla como foto real del caso. Sin rotulación ni emblemas oficiales para no suplantar al cuerpo.
+
+**Comentario fijado (publicarlo y fijarlo nada más salir el vídeo):**
+> ¿Un caso aislado o la punta del iceberg? 🧊 106 agentes detenidos o investigados en cinco años según Interior. ¿Qué opinas? 👇

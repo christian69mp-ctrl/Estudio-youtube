@@ -57,8 +57,15 @@
 - Alcance: todos los canales
 
 ### D-ESTUDIO-008 — 2026-11-23 — Guiones de ~20 minutos
-- Estado: aprobada (Christian: «tenemos que hacerlos de 20»).
+- Estado: **sustituida por D-ESTUDIO-009 (2026-11-24)**. Antes: aprobada (Christian: «tenemos que hacerlos de 20»).
 - Qué: guiones largos de **2.900–3.100 palabras** (objetivo 3.000), para vídeos de unos 20 minutos.
 - Por qué: los guiones de ~3.800 palabras del PX-01 dieron vídeos de 24:30–25 min (≈ 150–155 palabras/min con las voces de Pixelido) [DATO CHRISTIAN + medición del vídeo de estafas, 24:30].
 - Sustituye a: mínimo 3.750 palabras (D-EXT de cada canal y PROTOCOLOS §6b, 2026-10-23). Se mantienen el tono propio de cada canal y la estructura de alta retención; se recorta relleno y recapitulaciones, no ganchos ni cliffhangers.
 - Alcance: todos los canales (primero en el PX-02 de Código Mafia).
+
+### D-ESTUDIO-009 — 2026-11-24 — Guiones de ~15–16 minutos y comentario fijado siempre
+- Estado: aprobada (Christian: «Los haremos de como mucho 2500 palabras para que duren 15 minutos o poquito más sin llegar a veinte nunca ni a 18… y pondría también siempre comentario fijado»).
+- Qué: guiones largos de **2.350–2.500 palabras como máximo** (≈ 15–16 min a 150–155 palabras/min); nunca ≥ 18 min. Estructura de CTA de D-CTA (suscripción temprana con bucle abierto, pregunta de comentarios antes de la duración media, recordatorio a mitad). **Comentario fijado en todos los vídeos**, publicado y fijado al salir.
+- Por qué: 'Ndrangheta retiene 8:50 de media en ~25 min (~35 %); en ~16 min, esa misma duración sería ~55 % [HIPÓTESIS: la duración media absoluta puede variar con el vídeo más corto]. Objetivo: monetizar cuanto antes (faltan suscriptores, no horas [DATO CHRISTIAN]).
+- Sustituye a: D-ESTUDIO-008 (2.900–3.100 palabras).
+- Alcance: todos los canales [supuesto: mismo alcance que D-ESTUDIO-008]; aplicado ya a los 10 guiones de PX-02 (v3).

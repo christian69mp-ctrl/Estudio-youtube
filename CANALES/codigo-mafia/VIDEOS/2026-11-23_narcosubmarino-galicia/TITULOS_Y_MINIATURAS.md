@@ -4,3 +4,6 @@
 **Texto miniatura:** EN GALICIA (GALICIA en amarillo)
 **Prompt Gemini:** Miniatura de YouTube 16:9, 1280x720, estilo fotográfico realista y cinematográfico, amanecer gris azulado con niebla sobre una ría gallega con bateas de mejillón al fondo. En la mitad derecha, primer plano de un hombre ficticio de unos 40 años, empapado, con traje de neopreno negro, barba de varios días y mirada agotada y desafiante a cámara; rostro inventado que no se parece a ninguna persona real. Detrás, sobre el agua, un semisumergible alargado de fibra pintado de azul grisáceo, casi hundido, con solo una pequeña cabina asomando y varios fardos rectangulares envueltos en plástico flotando a su alrededor. En la mitad izquierda, texto enorme en dos líneas: EN arriba en blanco y GALICIA abajo en amarillo intenso, tipografía condensada extra gruesa (tipo Bebas Neue o Anton) con sombra negra marcada, ocupando casi toda la altura. Alto contraste, legible en un móvil pequeño. Sin logotipos, banderas ni rostros reales.
 - Ojo: Nécora también usa «EN GALICIA». Si salen cerca, aquí usar «CRUZÓ EL OCÉANO» o «EN UNA RÍA». Imagen sintética, nunca como foto real.
+
+**Comentario fijado (publicarlo y fijarlo nada más salir el vídeo):**
+> Cruzar el Atlántico en un submarino casero 🌊 ¿Te subirías por mucho dinero que te ofrecieran? Yo lo tengo clarísimo 👇

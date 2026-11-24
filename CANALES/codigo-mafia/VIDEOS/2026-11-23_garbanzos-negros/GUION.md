@@ -1,4 +1,4 @@
-# GUION — Garbanzos negros (v2 · CTA de retención, 2026-11-23)
+# GUION — Garbanzos negros (v3 · ≤2.500 palabras + CTA, 2026-11-23)
 
 Domingo, dieciséis de noviembre de 2025. Puerto de Bilbao.
 
@@ -20,23 +20,15 @@ Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con
 
 Antes de empezar, dos avisos importantes. El primero: todos los casos de este vídeo están en investigación o pendientes de juicio. Ninguno de los agentes de los que vamos a hablar ha sido condenado, así que todos tienen derecho a la presunción de inocencia. El segundo: la Policía Nacional y la Guardia Civil suman decenas de miles de agentes. Ciento seis casos en cinco años son muchos para lo que significan, pero son una parte muy pequeña de un colectivo en el que la inmensa mayoría se juega la vida contra estas mismas organizaciones. Este vídeo va de las manzanas podridas, no del cesto.
 
-Dicho esto, vamos al lío.
-
 Empecemos por entender por qué un narcotraficante quiere tener a un agente en nómina. Porque no es un capricho. Es, probablemente, la inversión más rentable de todo su negocio.
 
-Piénsalo así. Una organización que mete cocaína en España tiene un enemigo principal: la gente que la busca. Guardias civiles en los puertos, policías antidroga, funcionarios de aduanas, perros, escáneres, controles. Cada uno de ellos es un riesgo. Cada contenedor que se revisa es un alijo que se puede perder. Y cada alijo perdido son millones de euros.
-
-Ahora imagina que, en lugar de esquivar a todos esos controles, tienes a alguien dentro. Alguien que sabe qué contenedores se van a revisar y cuáles no. Alguien que sabe si hay una investigación abierta contra ti. Alguien que, si hace falta, puede mover la droga en un vehículo que nadie va a parar, porque es un vehículo oficial.
-
-Eso no tiene precio. Bueno, sí que lo tiene. Y según algunas investigaciones, es un precio altísimo.
+Una organización que mete cocaína en España tiene un enemigo principal: la gente que la busca en puertos, aduanas y controles. Ahora imagina que, en lugar de esquivarlos, tienes a alguien dentro. Alguien que sabe qué contenedores se van a revisar y cuáles no. Alguien que sabe si hay una investigación abierta contra ti. Alguien que, si hace falta, puede mover la droga en un vehículo que nadie va a parar, porque es un vehículo oficial.
 
 Por eso la corrupción es la pieza invisible de casi todas las grandes historias de narcotráfico. Las lanchas, los contenedores y los kilos salen en las fotos. Los que miran hacia otro lado, casi nunca.
 
 Volvamos a Bilbao.
 
 Según la información publicada, el guardia civil detenido estaba destinado desde hacía años en el área de Fiscal y Fronteras. Es decir, en la unidad que, en un puerto, se encarga del control aduanero. La que tiene que vigilar precisamente que no entre droga.
-
-Residía en Castro Urdiales, en Cantabria, a pocos kilómetros de Bilbao. Y tras la detención, los investigadores registraron una vivienda de su propiedad allí.
 
 Unos días después, el juez decretó su ingreso en prisión preventiva. Y la investigación, según las fuentes de la Guardia Civil, seguía abierta para tratar de averiguar si había más personas implicadas.
 
@@ -64,8 +56,6 @@ Y si has llegado hasta aquí y todavía no estás suscrito, este es el momento, 
 
 La detención de Óscar Sánchez llegó en el contexto de la investigación de una red relacionada con el mayor alijo de cocaína intervenido nunca en España: unas trece toneladas escondidas en un cargamento que llegó al puerto de Algeciras en octubre de 2024.
 
-Trece toneladas. Para que te hagas una idea de la escala: el caso de Bilbao eran ciento veinte kilos, que ya es muchísimo. Trece toneladas son más de cien veces esa cantidad. En un solo envío. Y un envío así no se organiza a ciegas. Una organización que se arriesga a perder una carga de ese tamaño necesita saber todo lo posible sobre quién vigila, cómo vigila y qué sabe la policía.
-
 Y ahí es donde, según la investigación, entraba en escena alguien de dentro.
 
 Según la policía, el exjefe de la UDEF habría colaborado con esa organización. Y no por un solo envío. El auto judicial habla de la presunta entrada en España de unas setenta y tres toneladas de cocaína entre 2020 y 2024. Según la investigación policial publicada, la implicación alcanzaría al menos a treinta y nueve contenedores, de los que solo dos fueron finalmente interceptados. Y por esa colaboración, según la policía, habría cobrado más de treinta y dos millones de euros.
@@ -74,15 +64,11 @@ Setenta y tres toneladas. Si esos datos se confirmaran, estaríamos ante uno de 
 
 En marzo de 2026, el juez de la Audiencia Nacional lo procesó por tráfico de drogas, blanqueo de capitales, cohecho y revelación de secretos. Esto último significa, según la acusación, que habría pasado información reservada a la organización: datos de investigaciones en marcha, de filtraciones, de lo que la policía sabía.
 
-Imagínate el valor de eso para una organización criminal. No solo tienes a alguien que te ayuda a meter la droga. Tienes a alguien que te avisa de lo que la policía sabe de ti. Es como jugar al póker viendo las cartas del contrario.
-
 Pero, como siempre en esta serie, cuidado con las conclusiones rápidas. Porque este caso ha tenido giros.
 
 En mayo de 2026, la Audiencia Nacional revocó ese procesamiento. Según la prensa, el tribunal consideró que la investigación estaba inconclusa, que todavía faltaban diligencias esenciales por practicar, algo que la propia fiscalía ya había advertido. Eso no significa que se anulara la causa: la investigación sigue abierta. Y Óscar Sánchez sigue en prisión provisional. De hecho, en septiembre de 2026 su prisión provisional se prorrogó dos años más.
 
 Y él, ¿qué dice? Según la información publicada, niega cualquier implicación en la organización. Su defensa sostiene que la causa está viciada, cuestiona las escuchas y asegura que se ocultaron pruebas. E incluso apunta a una supuesta red de corrupción en otro organismo. Todo eso tendrá que decidirlo un tribunal.
-
-Y un apunte sobre la prisión provisional, porque se confunde mucho. Estar en prisión provisional no es estar condenado. Es una medida que un juez puede tomar mientras se investiga, cuando considera que hay riesgo de fuga, de que se destruyan pruebas o de que se repita el delito. En este caso, según la prensa, el juez apreció riesgo de fuga. Pero la condena, si llega, solo puede llegar después de un juicio.
 
 Así que, hoy por hoy, lo que tenemos es esto: un alto mando policial en prisión provisional, unos veinte millones de euros encontrados en las paredes de su casa, una acusación de colaborar con la entrada de decenas de toneladas de cocaína y un proceso judicial todavía abierto. Y la presunción de inocencia, que vale para él igual que para cualquiera.
 
@@ -97,10 +83,6 @@ Agosto de 2026. Muxía, en la Costa da Morte, en A Coruña. Una operación conju
 Y entre ellos, otra vez, un guardia civil.
 
 Sobre su papel, la información es muy escasa, porque la causa, instruida en la Audiencia Nacional, está bajo secreto. Un medio ha publicado que, por su puesto, podía consultar las matrículas de los coches camuflados que se usan en las investigaciones, y que habría pasado esa información a la organización. Pero es una información de un solo medio, sin confirmar oficialmente, y así hay que tratarla.
-
-Si se confirmara, piensa en lo que significa. Los coches camuflados son la forma en que los investigadores siguen a los sospechosos sin ser vistos. Si la organización conoce sus matrículas, los investigadores dejan de ser invisibles. Es como jugar al escondite cuando el otro sabe exactamente dónde te has metido.
-
-Y Galicia, además, tiene memoria. Si has visto nuestro vídeo sobre la Operación Nécora, sabes que la historia del narcotráfico gallego siempre ha ido acompañada de una pregunta incómoda: cuánta gente miraba hacia otro lado. Treinta y seis años después de aquella operación, la pregunta sigue ahí.
 
 Y los casos no se quedan en estos tres. En la misma lista de los últimos años aparece, por ejemplo, el jefe del grupo de Estupefacientes de la Policía Nacional en Valladolid, detenido tras una operación en la que se intervinieron cuarenta kilos de cocaína. El responsable de perseguir la droga en una ciudad, detenido en una operación antidroga.
 
@@ -127,10 +109,6 @@ En febrero de 2024, en el puerto de Barbate, en Cádiz, dos guardias civiles mur
 Por eso cada garbanzo negro hace tanto daño. No solo porque ayuda a meter droga. Sino porque traiciona a los compañeros que se juegan la vida. Cada información que se filtra puede arruinar meses de investigación. Cada matrícula revelada puede poner en peligro a un agente que sigue a un sospechoso. Y cada caso que sale en las noticias erosiona la confianza de la gente en las instituciones que la protegen.
 
 Y por eso también es importante quedarse con la otra parte de la historia. En los tres casos de este vídeo, a los agentes sospechosos los investigaron y los detuvieron otros agentes. Asuntos Internos, compañeros de comandancia, unidades de la Policía Nacional. El sistema tiene grietas, pero también tiene gente dedicada a taparlas.
-
-Recapitulemos por última vez. Tres casos, tres escalas. Un agente de aduanas con un coche patrulla cargado de cocaína en Bilbao. Un jefe de la policía económica con veinte millones en las paredes y acusado de ayudar a entrar setenta y tres toneladas. Un guardia civil detenido en una descarga de una tonelada y media en la Costa da Morte. Y detrás, una cifra oficial: ciento seis agentes detenidos o investigados en cinco años. Ninguno de los tres casos tiene todavía sentencia. Y los tres, si se confirman, dibujan el mismo patrón: las organizaciones no solo esquivan los controles. Intentan comprarlos.
-
-Y un detalle final sobre la expresión garbanzo negro. Fíjate en que no habla de un saco de garbanzos negros. Habla de uno. Del que aparece entre muchos que están bien. Y esa es, en el fondo, la mejor noticia de esta historia: que para que un garbanzo negro llame tanto la atención, el resto del plato tiene que estar limpio.
 
 Volvamos al principio. Un domingo en el puerto de Bilbao. Un coche patrulla que no debería llamar la atención de nadie. Y unos compañeros que, por desgracia, sí tuvieron que fijarse en él.
 

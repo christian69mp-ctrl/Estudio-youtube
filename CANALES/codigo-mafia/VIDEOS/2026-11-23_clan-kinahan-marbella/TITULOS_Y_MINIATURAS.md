@@ -2,3 +2,6 @@
 **Título:** El CÁRTEL que EE. UU. buscaba por 5 MILLONES vivía en España 🇪🇸
 **Texto miniatura:** EN MARBELLA (MARBELLA en amarillo)
 **Prompt Gemini:** Miniatura de YouTube 16:9, 1280x720, estilo fotográfico realista y cinematográfico, de noche. En la mitad derecha, primer plano de un hombre irlandés ficticio de unos 45 años, barba corta cuidada, polo oscuro y reloj caro, mirando fijamente a cámara con expresión fría y desafiante; rostro inventado que no se parece a ninguna persona real. Detrás, desenfocado, el puerto deportivo de Marbella de noche con yates iluminados y palmeras; a un lado, un cartel de «SE BUSCA» con una cifra de 5.000.000 $ y una silueta sin rostro, medio despegado. En la mitad izquierda, texto enorme en dos líneas: EN arriba en blanco y MARBELLA abajo en amarillo intenso, tipografía condensada extra gruesa (tipo Bebas Neue o Anton) con sombra negra marcada, ocupando casi toda la altura. Alto contraste, legible en un móvil pequeño. Sin logotipos ni rostros reales.
+
+**Comentario fijado (publicarlo y fijarlo nada más salir el vídeo):**
+> ¿Sabías que el cártel Kinahan tuvo su base en la Costa del Sol? ☀️ ¿Por qué crees que tantas mafias eligen esa zona: el clima, los puertos o algo más? 👇

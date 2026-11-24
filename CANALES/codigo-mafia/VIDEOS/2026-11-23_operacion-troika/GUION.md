@@ -1,4 +1,4 @@
-# GUION — Operación Troika (v2 · CTA de retención, 2026-11-23)
+# GUION — Operación Troika (v3 · ≤2.500 palabras + CTA, 2026-11-23)
 
 Julio de 2020. La Audiencia Nacional, uno de los tribunales más importantes de España, toma una decisión: devolver una mansión de lujo en Mallorca a su dueño.
 
@@ -26,8 +26,6 @@ Según las policías europeas, en los años noventa esos grupos libraron sus pro
 
 Durante los años noventa y dos mil, muchos ciudadanos rusos se instalaron en la costa española. La inmensa mayoría, por supuesto, gente normal que buscaba sol y buena vida, como cualquier jubilado británico o alemán. Pero la policía española empezó a sospechar que, entre ellos, había algo más. Y empezó a mirar con lupa unas cuantas mansiones de Marbella y de Mallorca.
 
-Hay que decir que la Operación Troika no fue la primera. Unos años antes, en 2005, la policía ya había lanzado en la Costa del Sol otra gran operación contra redes vinculadas al crimen organizado del este de Europa. España llevaba tiempo intentando demostrar una idea: que los grandes grupos criminales rusos no traían a España droga ni armas, sino algo mucho más difícil de detectar. Dinero. Mucho dinero que necesitaba parecer limpio.
-
 Y aquí está la clave de toda esta historia, así que guárdala bien: perseguir dinero es mucho más difícil que perseguir droga. Un kilo de cocaína es un kilo de cocaína. Pero un millón de euros invertido en una casa, en una empresa o en un barco… parece un millón de euros invertido en una casa. Para demostrar que es sucio, tienes que probar de dónde viene. Y si viene de muy lejos, de otro país, de hace muchos años, eso es dificilísimo.
 
 Trece de junio de 2008. Amanece en varias ciudades de España.
@@ -35,8 +33,6 @@ Trece de junio de 2008. Amanece en varias ciudades de España.
 La Guardia Civil y la fiscalía anticorrupción, con el juez Baltasar Garzón al frente de la instrucción, lanzan una gran operación contra lo que describen como la estructura en España de la mafia rusa. La bautizan Operación Troika. Una troika es un trineo ruso tirado por tres caballos. Muy poético, para una redada.
 
 Resultado: unos veinte detenidos en distintos puntos de España. Cuatro de ellos en Mallorca. Y uno de esos cuatro es el gran objetivo de la operación: un empresario ruso llamado Gennadios Petrov, detenido en su mansión de Sol de Mallorca, en el municipio de Calvià.
-
-Si no conoces la zona, imagínatela. Una urbanización de lujo en el suroeste de la isla, con casas sobre los acantilados, vistas al Mediterráneo, embarcaderos y calas de agua turquesa. Vecinos de medio mundo, mucha discreción y casi ningún curioso. El tipo de sitio donde un señor con dinero puede vivir años sin que nadie le pregunte a qué se dedica. Para la policía, eso era precisamente lo sospechoso. Para los vecinos, era simplemente un vecino más.
 
 Según los investigadores, Petrov era uno de los máximos responsables de esas organizaciones de San Petersburgo y llevaba años viviendo en la isla. Y según la fiscalía, desde España se movía dinero de esas organizaciones a través de empresas, inmuebles y cuentas bancarias.
 
@@ -66,8 +62,6 @@ Y mientras todo esto pasaba, Petrov… estaba en su casa.
 
 Porque en febrero de 2010, tras pasar más de año y medio en prisión provisional, quedó en libertad. Y, según la prensa local, volvió a su mansión de Sol de Mallorca insistiendo en una frase: soy inocente.
 
-Recapitulemos, porque esta historia tiene más capas que una matrioska. Una gran redada contra la supuesta mafia rusa en España. Unos veinte detenidos. Escuchas que, según la investigación, apuntaban muy alto en Rusia. Un fiscal español que, según un cable filtrado, habla de Estado mafioso. Y el principal detenido, de vuelta en su casa, esperando juicio en libertad.
-
 Y aquí llega el giro.
 
 Mayo de 2012. Petrov, que seguía siendo investigado en España, pide permiso para viajar a Rusia. Y se va.
@@ -83,8 +77,6 @@ Detengámonos aquí un momento, porque esto merece un aplauso irónico. Imagina 
 Y mientras tanto, la mansión de Mallorca se quedó vacía. Embargada. Esperando.
 
 Hubo propuestas de todo tipo. Se habló de venderla. Incluso se planteó darle un uso social. Durante años, aquella casa de lujo en Sol de Mallorca fue el símbolo de una operación que se había quedado a medias.
-
-Piensa también en lo que supone para una investigación perder a su protagonista. Sin el principal acusado delante, muchas de las piezas pierden fuerza. Las conversaciones, los movimientos de dinero, las relaciones entre empresas… todo giraba alrededor de él. Y ahora había que juzgar a los que, según la acusación, le ayudaban, sin poder sentar en el banquillo a la persona a la que supuestamente ayudaban. Es como juzgar a los músicos de una orquesta sin el director, y tener que demostrar que tocaban la partitura que él les había dado.
 
 Pero la investigación siguió adelante con el resto de los acusados. Y en 2016 dio otro paso llamativo: un juez español emitió órdenes de detención contra varias personas en Rusia, entre ellas, según la prensa, personas con cargos públicos. Órdenes que, por supuesto, nunca se ejecutaron, porque nadie iba a viajar a España a dejarse detener.
 
@@ -110,8 +102,6 @@ Y la sentencia iba todavía más lejos. Según la prensa, los propios jueces dej
 
 Diez años de investigación. Unos veinte detenidos. Escuchas, órdenes de detención internacionales, un cable filtrado que dio la vuelta al mundo… y ni una sola condena.
 
-Y fíjate en el tiempo. Diez años entre la redada y la sentencia. En ese tiempo, los acusados vivieron con una causa penal encima, con su nombre en los periódicos y con sus bienes bloqueados. Y la sociedad estuvo diez años esperando una respuesta que, al final, fue un no se ha podido demostrar. Cuando la justicia tarda tanto, nadie sale ganando: ni quien quería ver condenas, ni quien acabó absuelto después de una década de sospechas.
-
 Y faltaba el último capítulo. El de la mansión.
 
 Julio de 2020. Tras la absolución, la Audiencia Nacional acuerda devolver a Petrov la mansión de Sol de Mallorca. Una década después de embargarla. A un hombre que, recordemos, llevaba ocho años en Rusia sin volver.
@@ -126,11 +116,7 @@ Para la policía y la fiscalía, la sospecha puede ser muy fuerte. Pueden tener 
 
 Hay quien vio en la sentencia de Troika un fracaso del Estado. Hay quien la vio como la prueba de que el sistema funciona, porque no condena a nadie sin pruebas suficientes. Probablemente, las dos cosas son verdad a la vez.
 
-Y hay otra lección: la de la cooperación internacional. Cuando el dinero, las personas y las pruebas están repartidos entre varios países, todo depende de que esos países colaboren. Hemos visto cómo los Emiratos acabaron entregando a los Kinahan. Pero Rusia no entrega a sus ciudadanos. Y cuando un sospechoso cruza esa frontera, para la justicia española es como si hubiera desaparecido del mapa.
-
 Y hay una tercera lección, quizá la más incómoda. Durante años, mucha gente de origen ruso que vivía tranquilamente en Marbella o en Mallorca tuvo que soportar que la miraran con sospecha por culpa de titulares como los de esta operación. La inmensa mayoría no tenía nada que ver con ninguna mafia. Cuando una investigación tan mediática termina sin condenas, también conviene recordar a esas personas.
-
-¿Significa todo esto que la mafia rusa no existe en España? No. La policía española ha seguido investigando a grupos criminales de origen ruso y de otros países del este durante todos estos años, y ha habido otras operaciones y otras detenciones. Lo que significa es algo más incómodo: que, a veces, saber algo y poder demostrarlo ante un juez son dos cosas muy distintas.
 
 Volvamos al principio. Una mansión en Mallorca. Detenido allí en 2008 un hombre al que la policía consideraba uno de los jefes de la mafia de San Petersburgo. Puesto en libertad. De viaje a Rusia en 2012. Nunca regresa. Sus supuestos colaboradores, absueltos en 2018. Y en 2020, la casa vuelve a su dueño.
 

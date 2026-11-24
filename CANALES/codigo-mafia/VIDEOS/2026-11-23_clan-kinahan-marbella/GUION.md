@@ -1,4 +1,4 @@
-# GUION — El clan Kinahan en Marbella (v2 · CTA de retención, 2026-11-23)
+# GUION — El clan Kinahan en Marbella (v3 · ≤2.500 palabras + CTA, 2026-11-23)
 
 Nueve de agosto de 2026. Un avión del Gobierno irlandés aterriza en Dublín, escoltado como si llevara a un jefe de Estado. Dentro no viaja un presidente. Viaja un hombre por el que Estados Unidos ofrecía hasta cinco millones de dólares por información que llevara a su detención.
 
@@ -42,8 +42,6 @@ Christy pasa alrededor de seis meses en prisión provisional en España. Y todo 
 
 Guárdate esa palabra, blanqueo. Porque el final de esta operación es de las cosas más increíbles que vas a oír hoy.
 
-Pasan los años. Dos, cinco, ocho. La investigación avanza a paso de tortuga. Los papeles se acumulan. Los detenidos salen en libertad. Y en 2020, diez años después de las detenciones, un juzgado de Estepona toma una decisión: la parte de blanqueo de dinero y de organización criminal se archiva por falta de pruebas suficientes. Las acusaciones contra los hijos, también se caen.
-
 Diez años de investigación. Más de treinta detenidos. ¿Y qué queda en pie contra el supuesto fundador del cártel?
 
 Un pasaporte.
@@ -55,8 +53,6 @@ O sea, que después de doce años, la gran operación contra uno de los cártele
 Ahora te pregunto a ti: ¿sabías que una de las mafias más buscadas del mundo tenía su base en la Costa del Sol? ¿Y crees que la Costa del Sol atrae tanto a estas organizaciones por el clima, por los puertos o por otra cosa? Déjamelo en los comentarios.
 
 Pero aquí viene lo mejor. Mientras se apagaba la investigación, según la prensa irlandesa y española, los Kinahan reclamaron que les devolvieran el dinero, los coches y las joyas que la policía se había llevado en 2010. Es decir: la policía entra a por la mafia, la mafia sale libre… y encima pide que le devuelvan las cosas, como quien reclama una maleta perdida en el aeropuerto.
-
-Si esto fuera una película, el guionista estaría despedido por exagerado.
 
 Pero Shovel dejó algo muy claro. La familia había aprendido una lección: España no era el sitio más seguro para guardar el dinero. Y mientras la operación se apagaba, el centro de gravedad de la familia empezaba a moverse hacia otro lugar. Uno con más rascacielos y menos jueces de instrucción.
 
@@ -80,10 +76,6 @@ Y a partir de ahí, la espiral. A lo largo de los años siguientes, la guerra en
 
 Dieciocho vidas. Dieciocho familias rotas. Por una guerra entre dos grupos que, según la policía, se disputaban poder, dinero y orgullo.
 
-Y la historia judicial también tiene sus giros. En agosto de 2021, Gerry Hutch fue detenido. ¿Dónde? En España. En Fuengirola, en la Costa del Sol, a pocos kilómetros de donde habían vivido sus enemigos. Fue entregado a Irlanda y juzgado por el asesinato de David Byrne. Y en abril de 2023, el tribunal lo absolvió: consideró que el testigo principal de la acusación no era creíble. Otros dos hombres sí fueron condenados por ayudar en el ataque.
-
-Fíjate en la geografía de esta guerra. Una familia instalada en Marbella. Su gran rival, detenido en Fuengirola. Y los disparos, en Dublín. La Costa del Sol no era solo un lugar de vacaciones para estas organizaciones. Era la retaguardia de una guerra.
-
 Después del Regency, la presión sobre los Kinahan en Irlanda fue enorme. La policía irlandesa creó unidades especiales, detuvo a decenas de colaboradores y se incautó de armas, droga y dinero. Muchos de sus pistoleros acabaron en prisión. Pero los jefes, según la policía, ya no estaban en Irlanda. Ni en España.
 
 Estaban en Dubái.
@@ -94,8 +86,6 @@ Durante años, Daniel Kinahan estuvo vinculado a una empresa de representación 
 
 Y en junio de 2020 ocurrió algo increíble. Tyson Fury, el campeón del mundo de los pesos pesados, uno de los deportistas más famosos del planeta, publicó un vídeo dándole las gracias públicamente a Daniel Kinahan por haber cerrado el acuerdo de su gran combate contra Anthony Joshua.
 
-Piénsalo. Un hombre al que la policía de su país señalaba como jefe de un cártel, protagonista de un agradecimiento en las redes del campeón del mundo. Visto con millones de reproducciones. Es como si un capo de la mafia apareciera dando las campanadas.
-
 El escándalo fue enorme. Y aquel combate, por cierto, nunca llegó a celebrarse.
 
 Pero para entonces, alguien más estaba mirando. Y no era un periodista deportivo. Era el Gobierno de Estados Unidos.
@@ -104,11 +94,7 @@ Doce de abril de 2022. El Departamento del Tesoro de Estados Unidos anuncia sanc
 
 Y no solo eso. Las autoridades estadounidenses ofrecen recompensas de hasta cinco millones de dólares por información sobre cada uno de los tres Kinahan.
 
-Hasta cinco millones por cabeza. Para que te hagas una idea, son cifras que normalmente se asocian a los grandes capos internacionales del narcotráfico. Una familia de Dublín acababa de entrar en ese club.
-
 Y entre las empresas sancionadas había una que me encanta. Una compañía de bebidas llamada Nero Drinks. Según las autoridades, vinculada a la familia. Es decir: el supuesto cártel tenía su propia marca de vodka. Porque cuando ya tienes la droga, el boxeo y la villa en Marbella, ¿qué te falta? Pues tu propio vodka, claro. Para brindar.
-
-Las consecuencias fueron inmediatas. Pocos días después, MTK Global anunció que cerraba, alegando un escrutinio sin precedentes. Y en el mundo del boxeo, de repente, nadie quería aparecer en una foto con Daniel Kinahan.
 
 Porque la Costa del Sol todavía tenía un capítulo más en esta historia.
 
@@ -120,15 +106,11 @@ Fue el primero de los siete sancionados en ser detenido. Y otra vez, en la Costa
 
 Pasó a disposición judicial en Marbella. Y en 2024, según la prensa irlandesa, quedó en libertad tras pagar una fianza de sesenta mil euros, mientras seguía investigado por blanqueo y pertenencia a organización criminal. Así que, como todos los demás en este vídeo, sigue siendo un investigado, no un condenado.
 
-Recapitulemos, porque esta familia ha dado más vueltas que una ruleta. Un cártel de Dublín se instala en la Costa del Sol. La policía española lanza una gran operación y, después de doce años, solo queda en pie un pasaporte falso. Estalla una guerra con dieciocho muertos en Irlanda. El supuesto número dos aparece en el vídeo de agradecimiento del campeón del mundo de boxeo. Estados Unidos les pone precio. Y su banquero cae, otra vez, en la Costa del Sol.
-
 Solo quedaba una pieza. El jefe.
 
 Y aquí vuelve Dubái. Durante años, Dubái fue para muchos criminales europeos lo que antes había sido la Costa del Sol: un sitio de sol, lujo y, sobre todo, lejos del alcance de las policías europeas. Durante mucho tiempo, Irlanda ni siquiera tenía un tratado de extradición con los Emiratos Árabes Unidos.
 
 Pero las cosas cambiaron. Irlanda y los Emiratos firmaron un acuerdo de extradición. Y a finales de 2024, otro de los nombres vinculados a la red, Sean McGovern, fue detenido en Dubái y, después, entregado a Irlanda. Era la primera vez que ese mecanismo funcionaba con alguien de este entorno.
-
-El mensaje estaba claro. Dubái ya no era un escondite seguro.
 
 Abril de 2026. Tras una operación secreta entre la policía de los Emiratos y la irlandesa, Daniel Kinahan es detenido en Dubái con una orden de arresto irlandesa.
 
@@ -140,15 +122,9 @@ Tenía razón. Quedó en prisión preventiva.
 
 ¿De qué se le acusa exactamente? De dirigir las actividades de una organización criminal entre octubre de 2015 y abril de 2017. Es decir, justo en los años más sangrientos de la guerra contra los Hutch. Según los comunicados oficiales, las autoridades irlandesas le atribuyen también otros delitos, pero, por ahora, ante el tribunal solo hay una acusación. Daniel Kinahan no ha presentado todavía su declaración de culpable o inocente, y siempre ha negado ser un jefe criminal. Lo que decidan los jueces está por ver.
 
-Y fíjate en la ironía de todo esto. El hombre que, según la policía, escapó por la puerta trasera de un hotel en 2016, que vio cómo su familia salía casi indemne de doce años de investigación en España y que se movía entre combates de boxeo y hoteles de lujo, acabó cayendo en el único sitio que creía totalmente seguro.
-
 Durante años, los Kinahan escaparon de casi todo. De la policía irlandesa. De la policía española. De la prensa. De sus enemigos. De lo único que no consiguieron escapar fue de una cosa: del papeleo entre gobiernos.
 
 Una firma en un tratado de extradición hizo lo que no consiguieron diez años de operaciones policiales.
-
-Y ahora, la gran pregunta. ¿Se acaba aquí el cártel?
-
-Los expertos no lo tienen tan claro. Hay organizaciones que no dependen de una sola persona. Hay colaboradores en libertad, dinero escondido en muchos países y negocios que siguen funcionando aunque el jefe esté en una celda. Lo que sí parece claro es que, por primera vez en mucho tiempo, la familia que convirtió Marbella en su despacho ya no se siente intocable.
 
 Volvamos a la pregunta del principio. ¿Cómo una familia de Dublín montó un imperio con base en la Costa del Sol?
 

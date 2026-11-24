@@ -2,3 +2,6 @@
 **Título:** La MAFIA que obligó a esconderse a una PRINCESA tenía su base en ESPAÑA 🇪🇸
 **Texto miniatura:** SE FUGÓ (FUGÓ en amarillo)
 **Prompt Gemini:** Miniatura de YouTube 16:9, 1280x720, estilo fotográfico realista y cinematográfico, de noche. En la mitad derecha, primer plano de un hombre ficticio de unos 40 años, barba recortada, sudadera negra con capucha bajada y cadena fina, mirando de reojo a cámara con expresión fría; rostro inventado que no se parece a ninguna persona real. Detrás, desenfocado, el puerto deportivo de Marbella de noche con yates iluminados, y en primer plano a su lado una mesa con unas esposas abiertas y vacías. En la mitad izquierda, texto enorme en dos líneas: SE arriba en blanco y FUGÓ abajo en amarillo intenso, tipografía condensada extra gruesa (tipo Bebas Neue o Anton) con sombra negra marcada, ocupando casi toda la altura. Alto contraste, legible en un móvil pequeño. Sin logotipos, sin coronas ni símbolos reales de la monarquía, sin rostros reales.
+
+**Comentario fijado (publicarlo y fijarlo nada más salir el vídeo):**
+> Detenido en Marbella, en libertad provisional… y desaparecido 🏃‍♂️ ¿Había que mantenerlo en prisión desde el principio? 👇

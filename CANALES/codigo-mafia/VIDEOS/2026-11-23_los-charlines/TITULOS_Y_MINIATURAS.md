@@ -4,3 +4,6 @@
 **Texto miniatura:** EN AROUSA (AROUSA en amarillo)
 **Prompt Gemini:** Miniatura de YouTube 16:9, 1280x720, estilo fotográfico realista y cinematográfico, luz gris de mañana con niebla sobre una ría gallega con bateas de mejillón y barcas de pesca. En la mitad derecha, primer plano de un anciano ficticio de unos 85 años, pelo blanco peinado hacia atrás, gorra de marinero, chaqueta oscura de lana, mirando fijamente a cámara con expresión dura e impasible y una ligera sonrisa; rostro inventado que no se parece a ninguna persona real. Detrás, desenfocadas, una conservera antigua de piedra junto al puerto y una lancha rápida amarrada con fardos rectangulares envueltos en plástico. En la mitad izquierda, texto enorme en dos líneas: EN arriba en blanco y AROUSA abajo en amarillo intenso, tipografía condensada extra gruesa (tipo Bebas Neue o Anton) con sombra negra marcada, ocupando casi toda la altura. Alto contraste, legible en un móvil pequeño. Sin logotipos, banderas ni rostros reales.
 - Nota: no imitar el rostro de Manuel Charlín ni de ningún familiar. Imagen sintética, nunca como foto real.
+
+**Comentario fijado (publicarlo y fijarlo nada más salir el vídeo):**
+> Detenido a los 85 años 👴 ¿Crees que en los pueblos de las rías la gente sabía lo que pasaba o de verdad nadie se enteraba? 👇
