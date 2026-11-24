@@ -32,8 +32,6 @@ La Costa del Sol tiene todo lo que un negocio así necesita. Está a un paso de 
 
 Así que, según la prensa y la policía, la familia acabó instalada entre Marbella y Estepona. Urbanizaciones de lujo, restaurantes buenos, campos de golf. La vida de un jubilado británico, pero con otro plan de pensiones.
 
-Y durante unos años, todo fue perfecto. Hasta que la policía española decidió mirar de cerca.
-
 Mayo de 2010. La policía española lanza una gran operación contra la red en la Costa del Sol, en coordinación con policías de otros países. La bautizan Operación Shovel. Shovel, en inglés, significa pala. Y la idea era exactamente esa: ir a cavar.
 
 Los agentes detienen a más de treinta personas. Entran en casas, en empresas, en oficinas. Se llevan dinero en efectivo, coches, joyas, documentos. Entre los detenidos, Christy Kinahan, el padre. Y la prensa irlandesa lo celebra como un golpe histórico. Por fin, alguien ha tocado al cártel en su propia casa.

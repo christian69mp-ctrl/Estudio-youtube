@@ -64,8 +64,6 @@ Setenta y tres toneladas. Si esos datos se confirmaran, estaríamos ante uno de 
 
 En marzo de 2026, el juez de la Audiencia Nacional lo procesó por tráfico de drogas, blanqueo de capitales, cohecho y revelación de secretos. Esto último significa, según la acusación, que habría pasado información reservada a la organización: datos de investigaciones en marcha, de filtraciones, de lo que la policía sabía.
 
-Pero, como siempre en esta serie, cuidado con las conclusiones rápidas. Porque este caso ha tenido giros.
-
 En mayo de 2026, la Audiencia Nacional revocó ese procesamiento. Según la prensa, el tribunal consideró que la investigación estaba inconclusa, que todavía faltaban diligencias esenciales por practicar, algo que la propia fiscalía ya había advertido. Eso no significa que se anulara la causa: la investigación sigue abierta. Y Óscar Sánchez sigue en prisión provisional. De hecho, en septiembre de 2026 su prisión provisional se prorrogó dos años más.
 
 Y él, ¿qué dice? Según la información publicada, niega cualquier implicación en la organización. Su defensa sostiene que la causa está viciada, cuestiona las escuchas y asegura que se ocultaron pruebas. E incluso apunta a una supuesta red de corrupción en otro organismo. Todo eso tendrá que decidirlo un tribunal.
