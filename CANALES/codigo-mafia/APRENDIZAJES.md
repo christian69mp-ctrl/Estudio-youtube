@@ -31,10 +31,11 @@ Niveles: hipótesis · indicio · patrón repetido.
 - Evidencia: en ambos, curva plana unas horas, salto a ~900 y meseta [DATO CHRISTIAN].
 - Interpretación: YouTube prueba el vídeo con ~900 impresiones; con CTR < 2 % no amplía. La miniatura y el título tienen que estar bien ANTES de publicar.
 - Qué lo confirmaría: un vídeo con CTR ≥ 3 % en ese primer tramo que sí siga creciendo.
+- Actualización 2026-11-24: confirmado en 'Ndrangheta (CTR 6,5–8,4 % en el primer tramo → ~350 vistas y ~4.500–5.000 impresiones estimadas a ~1,5 días). El techo de ~900 era de los vídeos con CTR bajo, no del canal. Nivel: indicio reforzado (1 contraejemplo positivo).
 
 ### AP-004 — Cara ficticia con mirada intensa + 2 palabras (lugar español) + escena reconocible = CTR alto
 - Vídeo: 'Ndrangheta («EN IBIZA»): CTR 6,5 % a 10 h y 8,4 % a 19 h [DATO CHRISTIAN, 23/11]. Comparación: Trojan 0,5 % (avatares), estafas 1,3 % (móvil + complejo).
-- Nivel: indicio (1 vídeo, muestra aún pequeña).
+- Nivel: indicio (1 vídeo). Actualización 2026-11-24: CTR 7,1 % con ~350 vistas y duración media 8:50 [DATO CHRISTIAN]; el CTR se mantiene alto con muestra mayor. Falta un 2.º vídeo con el patrón para pasar a «patrón repetido».
 - Patrón: rostro humano ficticio mirando a cámara, texto enorme de 2 palabras con una en amarillo, lugar de España concreto, objeto de la trama (maletín de dinero) y detalle de tensión (luces de policía). Título y miniatura complementarios (qué mafia / dónde exactamente).
 - Aplicación: plantilla de partida para las miniaturas del PX-02.
 
