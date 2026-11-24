@@ -40,4 +40,8 @@ Niveles: hipótesis · indicio · patrón repetido.
 - Aplicación: plantilla de partida para las miniaturas del PX-02.
 
 ## Hipótesis por probar
-(ninguna)
+### H-001 — Los CTA llegan después de que se vaya el espectador medio (2026-11-24)
+- Vídeo: 'Ndrangheta (3.794 palabras, ~25 min). Duración media 8:50 (~35 %) [DATO CHRISTIAN]. CTA de suscripción hacia el ~45 % (~11 min) y pregunta de comentarios hacia el ~80 % (~20 min).
+- Evidencia: 645 vistas → +3 suscriptores en el canal y 0 comentarios.
+- Hipótesis: adelantar el CTA de suscripción a ~3–4 min y la pregunta de comentarios a ~5–6 min aumenta suscriptores y comentarios.
+- Cómo probarlo: aplicarlo en PX-02 y comparar suscriptores por cada 1.000 vistas y comentarios con 'Ndrangheta.
