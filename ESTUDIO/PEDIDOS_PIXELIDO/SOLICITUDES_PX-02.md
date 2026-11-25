@@ -14,7 +14,7 @@ Listas para volcar en el briefing de Pixelido cuando llegue. Carpeta de guiones:
 > Tono informal y burlón contra los criminales; serio en los pasajes de víctimas. Estética realista desaturada, mapas, cronologías y cifras grandes. Daniel Kinahan está acusado, no condenado: nunca presentarlo como culpable. Evitar imágenes reales del tiroteo del Regency y de víctimas. Mapas Dublín–Marbella–Dubái muy útiles. Duración objetivo ~15–16 min (no superar 18). Voz: Javier. Miniatura (patrón del canal): cara ficticia mirando a cámara + texto «EN MARBELLA (MARBELLA en amarillo)». Pantalla final: 'Ndrangheta: «La MAFIA más PODEROSA de Italia se ESCONDÍA en España». Comentario fijado (lo publica Christian): ¿Sabías que el cártel Kinahan tuvo su base en la Costa del Sol? ☀️ ¿Por qué crees que tantas mafias eligen esa zona: el clima, los puertos o algo más? 👇
 
 **Archivos Necesarios**
-> Guion 01: https://docs.google.com/document/d/1AX_dDaOMBGSzuNp9JCkcd5ovsmcagkqq7pHWJT2mJOc/edit?usp=sharing
+> Guion 01: https://docs.google.com/document/d/196qVOPAYkRnGLDKTBNHPruNs1vNPJ9Bs970u0Oujb1I/edit?usp=sharing
 
 ## Vídeo 2 — La OPERACIÓN que inspiró FARIÑA: el día que cayeron los NARCOS gallegos 🚤
 **Nombre / Título**
@@ -29,7 +29,7 @@ Listas para volcar en el briefing de Pixelido cuando llegue. Carpeta de guiones:
 > Tono informal y burlón contra los criminales; serio en los pasajes de víctimas. Estética realista desaturada, mapas, cronologías y cifras grandes. Muchos acusados fueron absueltos: distinguir siempre condenados de absueltos. Tono serio con las madres y las víctimas de la droga. Lanchas planeadoras, rías, pazos y titulares de época (recreados). Duración objetivo ~15–16 min (no superar 18). Voz: Javier. Miniatura (patrón del canal): cara ficticia mirando a cámara + texto «EN GALICIA (GALICIA en amarillo)». Pantalla final: Clan Kinahan (PX-02, vídeo 1). Comentario fijado (lo publica Christian): Si eres de Galicia o tienes familia allí: ¿cómo se recuerda hoy aquella época en tu pueblo? ¿Se habla de ello o se prefiere callar? 👇
 
 **Archivos Necesarios**
-> Guion 02: https://docs.google.com/document/d/1xcQVqTPKFSDQqrv788wI7X9DvuLfytvyDdFdQevqtQc/edit?usp=sharing
+> Guion 02: https://docs.google.com/document/d/15FA4TkAjbluK60IL5N3sAkVUlDZwhiQ5C_7TzTyFfO0/edit?usp=sharing
 
 ## Vídeo 3 — La MAFIA que obligó a esconderse a una PRINCESA tenía su base en ESPAÑA 🇪🇸
 **Nombre / Título**
@@ -44,7 +44,7 @@ Listas para volcar en el briefing de Pixelido cuando llegue. Carpeta de guiones:
 > Tono informal y burlón contra los criminales; serio en los pasajes de víctimas. Estética realista desaturada, mapas, cronologías y cifras grandes. No asociar a la comunidad marroquí con el crimen (el guion lo aclara). Respeto absoluto a Peter R. de Vries, Derk Wiersum y demás víctimas. No usar imágenes reales de la princesa Amalia salvo material oficial con licencia. Duración objetivo ~15–16 min (no superar 18). Voz: Javier. Miniatura (patrón del canal): cara ficticia mirando a cámara + texto «SE FUGÓ (FUGÓ en amarillo)». Pantalla final: Clan Kinahan (PX-02, vídeo 1). Comentario fijado (lo publica Christian): Detenido en Marbella, en libertad provisional… y desaparecido 🏃‍♂️ ¿Había que mantenerlo en prisión desde el principio? 👇
 
 **Archivos Necesarios**
-> Guion 03: https://docs.google.com/document/d/1zt2wWV8WxTeOLUmd-AXl87IYUga5GvqdWzRPQppcMiE/edit?usp=sharing
+> Guion 03: https://docs.google.com/document/d/15wxpApCWpUm7o8WkLlzRQTnR5IvABaupY2x4teVWS54/edit?usp=sharing
 
 ## Vídeo 4 — España le DEVOLVIÓ la MANSIÓN al hombre que señaló como jefe de la MAFIA RUSA 🇷🇺
 **Nombre / Título**
@@ -59,7 +59,7 @@ Listas para volcar en el briefing de Pixelido cuando llegue. Carpeta de guiones:
 > Tono informal y burlón contra los criminales; serio en los pasajes de víctimas. Estética realista desaturada, mapas, cronologías y cifras grandes. NADIE fue condenado: todos los acusados absueltos y Petrov nunca juzgado. No llamar mafioso a nadie con nombre. Humor sobre lo surrealista del caso, no sobre personas. Mansión, acantilados de Mallorca, San Petersburgo, documentos «confidencial». Duración objetivo ~15–16 min (no superar 18). Voz: Javier. Miniatura (patrón del canal): cara ficticia mirando a cámara + texto «EN MALLORCA (MALLORCA en amarillo)». Pantalla final: 'Ndrangheta: «La MAFIA más PODEROSA de Italia se ESCONDÍA en España». Comentario fijado (lo publica Christian): La justicia le dejó viajar a Rusia… y nunca volvió ✈️ ¿Error de manual o algo que no se podía evitar? 👇
 
 **Archivos Necesarios**
-> Guion 04: https://docs.google.com/document/d/1AxBwSABGqHRQ7hEzN6ymiwW26TtKcUzhZXSefO6YFgw/edit?usp=sharing
+> Guion 04: https://docs.google.com/document/d/1e5xpPS5MBLmL-ZyCxuqqoen74xqcHsqzzq-dDR8RBH4/edit?usp=sharing
 
 ## Vídeo 5 — El BANCO SECRETO de un POLÍGONO: 10 MILLONES en BILLETES y 83 DETENIDOS 💶
 **Nombre / Título**
@@ -74,7 +74,7 @@ Listas para volcar en el briefing de Pixelido cuando llegue. Carpeta de guiones:
 > Tono informal y burlón contra los criminales; serio en los pasajes de víctimas. Estética realista desaturada, mapas, cronologías y cifras grandes. Gao Ping es acusado, sin condena firme confirmada: presunción de inocencia. Aclarar que la comunidad china no tiene relación con el caso. Polígono, naves, fajos de billetes, mapa Madrid–Andorra–China. Duración objetivo ~15–16 min (no superar 18). Voz: Javier. Miniatura (patrón del canal): cara ficticia mirando a cámara + texto «EN MADRID (MADRID en amarillo)». Pantalla final: Operación Troika (PX-02, vídeo 4). Comentario fijado (lo publica Christian): 10 millones en billetes en un polígono 💶 ¿Qué te sorprendió más de la lista de detenidos: el concejal, los agentes o el actor? 👇
 
 **Archivos Necesarios**
-> Guion 05: https://docs.google.com/document/d/1m5XXp0ok-1zHonI_rMGJFbcOBZ-ORB1V3u12GIJmrHA/edit?usp=sharing
+> Guion 05: https://docs.google.com/document/d/1IXaQaMxxrXzW5KQskbBk-SGPhnZfP31QNXTujGHE4RY/edit?usp=sharing
 
 ## Vídeo 6 — Lo DETUVIERON sus COMPAÑEROS: un GUARDIA CIVIL con 120 KILOS de COCAÍNA en el COCHE PATRULLA 🚔
 **Nombre / Título**
@@ -89,7 +89,7 @@ Listas para volcar en el briefing de Pixelido cuando llegue. Carpeta de guiones:
 > Tono informal y burlón contra los criminales; serio en los pasajes de víctimas. Estética realista desaturada, mapas, cronologías y cifras grandes. Ningún agente está condenado: presunción de inocencia en todos. No mostrar escudos, uniformes ni vehículos oficiales reales identificables. Respeto a los guardias civiles fallecidos en Barbate. Duración objetivo ~15–16 min (no superar 18). Voz: Javier. Miniatura (patrón del canal): cara ficticia mirando a cámara + texto «EN BILBAO (BILBAO en amarillo)». Pantalla final: Operación Nécora (PX-02, vídeo 2). Comentario fijado (lo publica Christian): ¿Un caso aislado o la punta del iceberg? 🧊 106 agentes detenidos o investigados en cinco años según Interior. ¿Qué opinas? 👇
 
 **Archivos Necesarios**
-> Guion 06: https://docs.google.com/document/d/1bHqjNyijIxf362Qou6buDS_DjpaJd22ytMgLNLT38xc/edit?usp=sharing
+> Guion 06: https://docs.google.com/document/d/1iRA3yMh8P3GCeZyht7_aDCdoVJpw-1PIIw0BRV4_2LY/edit?usp=sharing
 
 ## Vídeo 7 — Detuvieron al LÍDER EUROPEO de los HELLS ANGELS… y 10 AÑOS después lo ABSOLVIERON 🏍️
 **Nombre / Título**
@@ -104,7 +104,7 @@ Listas para volcar en el briefing de Pixelido cuando llegue. Carpeta de guiones:
 > Tono informal y burlón contra los criminales; serio en los pasajes de víctimas. Estética realista desaturada, mapas, cronologías y cifras grandes. Hanebuth fue ABSUELTO y el tribunal descartó la organización criminal. No usar el emblema del club (marca registrada). La trata de mujeres es relato de la acusación: tono serio, sin humor. Motos, chalecos lisos, villas de Mallorca. Duración objetivo ~15–16 min (no superar 18). Voz: Javier. Miniatura (patrón del canal): cara ficticia mirando a cámara + texto «EN MALLORCA (MALLORCA en amarillo)». Pantalla final: Operación Troika (PX-02, vídeo 4). Comentario fijado (lo publica Christian): ¿Club de moteros u organización criminal? 🏍️ El tribunal no vio probada la organización. ¿Tú qué piensas? 👇
 
 **Archivos Necesarios**
-> Guion 07: https://docs.google.com/document/d/19BJc_RXuyphktNSA7USdz1XPLi1-aLHARTLnllUCY5M/edit?usp=sharing
+> Guion 07: https://docs.google.com/document/d/1938_gWE9oPTL0eEm0Yq8snAgWQ3N5_0poAu1X8BADgQ/edit?usp=sharing
 
 ## Vídeo 8 — Dijo que se iba a hacer el CAMINO DE SANTIAGO… y VOLVIÓ 19 AÑOS después 🚶‍♂️
 **Nombre / Título**
@@ -119,7 +119,7 @@ Listas para volcar en el briefing de Pixelido cuando llegue. Carpeta de guiones:
 > Tono informal y burlón contra los criminales; serio en los pasajes de víctimas. Estética realista desaturada, mapas, cronologías y cifras grandes. Aquí sí hay condenas firmes, pero más de 40 acusados fueron absueltos. Pantoja solo por su pieza separada (blanqueo). Ayuntamiento, planos urbanísticos, sellos, cuadros, Marbella de lujo. Duración objetivo ~15–16 min (no superar 18). Voz: Javier. Miniatura (patrón del canal): cara ficticia mirando a cámara + texto «EN MARBELLA (MARBELLA en amarillo)». Pantalla final: Clan Kinahan (PX-02, vídeo 1). Comentario fijado (lo publica Christian): Uno se fugó diciendo que iba a hacer el Camino de Santiago 🚶‍♂️ ¿Se te ocurre una excusa mejor? Y otra pregunta: ¿crees que hoy podría volver a pasar algo así en un ayuntamiento? 👇
 
 **Archivos Necesarios**
-> Guion 08: https://docs.google.com/document/d/1xYeAqIsuTaYcXuE59cFtMeEJSWInB1zDNNUGa-eySzE/edit?usp=sharing
+> Guion 08: https://docs.google.com/document/d/1s5uGGlzgWAbmPkfDR5Sqx9-8n7xouhzSHnF1oog8vmk/edit?usp=sharing
 
 ## Vídeo 9 — Cruzaron el ATLÁNTICO en un SUBMARINO CASERO con 3.000 KILOS de COCAÍNA 🌊
 **Nombre / Título**
@@ -134,7 +134,7 @@ Listas para volcar en el briefing de Pixelido cuando llegue. Carpeta de guiones:
 > Tono informal y burlón contra los criminales; serio en los pasajes de víctimas. Estética realista desaturada, mapas, cronologías y cifras grandes. Sin detalle técnico de cómo se construye o navega un semisumergible. «Operación Marea Negra» es ficción. Imágenes: ría con bateas, semisumergible, fardos, neopreno, mapa Brasil–Galicia. Duración objetivo ~15–16 min (no superar 18). Voz: Javier. Miniatura (patrón del canal): cara ficticia mirando a cámara + texto «EN GALICIA (GALICIA en amarillo)». Pantalla final: Operación Nécora (PX-02, vídeo 2). Comentario fijado (lo publica Christian): Cruzar el Atlántico en un submarino casero 🌊 ¿Te subirías por mucho dinero que te ofrecieran? Yo lo tengo clarísimo 👇
 
 **Archivos Necesarios**
-> Guion 09: https://docs.google.com/document/d/1w_-1aWjq42ZdCslHZZooEAb__DUAPiampIBNITAnZho/edit?usp=sharing
+> Guion 09: https://docs.google.com/document/d/1bHsMhbbnvb7t9LvR57Enwr9p_rJYW4Io8jl6QQjompU/edit?usp=sharing
 
 ## Vídeo 10 — Lo DETUVIERON por NARCO a los 85 AÑOS: el CLAN que nunca se jubiló 👴
 **Nombre / Título**
@@ -149,4 +149,4 @@ Listas para volcar en el briefing de Pixelido cuando llegue. Carpeta de guiones:
 > Tono informal y burlón contra los criminales; serio en los pasajes de víctimas. Estética realista desaturada, mapas, cronologías y cifras grandes. Solo el patriarca tiene condenas firmes; la familia fue absuelta de blanqueo. No imitar los rostros reales de la familia. Tono serio con las víctimas de la droga y las madres. Ría de Arousa, conserveras, planeadoras. Duración objetivo ~15–16 min (no superar 18). Voz: Javier. Miniatura (patrón del canal): cara ficticia mirando a cámara + texto «EN AROUSA (AROUSA en amarillo)». Pantalla final: Narcosubmarino de Galicia (PX-02, vídeo 9). Comentario fijado (lo publica Christian): Detenido a los 85 años 👴 ¿Crees que en los pueblos de las rías la gente sabía lo que pasaba o de verdad nadie se enteraba? 👇
 
 **Archivos Necesarios**
-> Guion 10: https://docs.google.com/document/d/1sykHWFD2Nj3YA5RIXRlLkwykYzOC30L1_fDasB9wzTw/edit?usp=sharing
+> Guion 10: https://docs.google.com/document/d/1MoqNJbtzi65MU9xYaxskCzwYX8JSu27oNObJw6mLz3w/edit?usp=sharing
