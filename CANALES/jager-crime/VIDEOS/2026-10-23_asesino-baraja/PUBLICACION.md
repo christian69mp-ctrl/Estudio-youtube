@@ -1,7 +1,7 @@
 # PUBLICACIÓN — El asesino de la baraja
 Estado: listo para programar (no programado hasta que Christian lo confirme).
 **Programación propuesta:** domingo 29/11/2026, 19:00 (Europe/Madrid).
-**Miniatura:** elegir entre las que tiene Christian (patrón: naipe en el asfalto + «54 DÍAS»).
+**Miniatura:** `MINIATURAS/baraja_54_dias.jpg` (25/11): imagen de Christian (naipe en el asfalto + silueta) sin la franja «SE ENTREGÓ ÉL MISMO» (repetía el título) y con «54 DÍAS» grande (54 en rojo).
 
 **Título:** Mató a 6 PERSONAS y nadie lo encontró… hasta que SE ENTREGÓ
 
