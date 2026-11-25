@@ -23,3 +23,8 @@
 - Visualizaciones: **1,7 k** · CTR: **7,2 %** · Duración media: **8:53** · 12 «me gusta» · **0 comentarios** · Puesto **1 de 10**.
 - Canal (28 días): 3,1 k vistas · 144 h · **352 suscriptores**. Estafas: 56 vistas a 5 d 16 h.
 - Lectura [INTERPRETACIÓN]: ritmo ~55 vistas/h entre las 45 h y las 64 h (645 → 1.700), sigue acelerando; CTR y duración estables con 2,6× más vistas: YouTube sigue ampliando. El canal pasa de 1,8 k a 3,1 k vistas en 28 días en un día. Conversión muy baja: 348 → 352 suscriptores con ~1.650 vistas nuevas (≈ 2–3 por cada 1.000 vistas) y sigue con 0 comentarios. Refuerza H-001.
+
+## Captura 6 — 2026-11-25 ~15:00 (≈ 2 d 20 h) [DATO CHRISTIAN, Studio escritorio] · ID de vídeo: moS3Z3cdSUU
+- Impresiones: **6,4 k** · CTR: **7,1 %** · Tiempo de visualización: **93,8 h** · Suscriptores: **+4**.
+- Fuentes de tráfico (vistas): **Funciones de exploración 1,8 k** (~97 %) · Vídeos sugeridos 15 · Otros 39.
+- Lectura [INTERPRETACIÓN]: el crecimiento viene casi entero de la página principal (exploración), es decir, YouTube lo está recomendando a gente que no conoce el canal; ni búsqueda ni sugeridos pesan. AP-003 superado con claridad (6,4 k impresiones frente al techo de ~900). Conversión: +4 suscriptores con ~1,85 k vistas (≈ 2 por cada 1.000). Espectador de exploración = frío: necesita motivo explícito y temprano para suscribirse (H-001) y más vídeos del mismo tipo en el canal. 93,8 h de un solo vídeo en < 3 días.

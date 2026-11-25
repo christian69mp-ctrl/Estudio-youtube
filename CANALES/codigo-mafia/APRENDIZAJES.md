@@ -45,3 +45,4 @@ Niveles: hipótesis · indicio · patrón repetido.
 - Evidencia: 645 vistas → +3 suscriptores en el canal y 0 comentarios.
 - Hipótesis: adelantar el CTA de suscripción a ~3–4 min y la pregunta de comentarios a ~5–6 min aumenta suscriptores y comentarios.
 - Cómo probarlo: aplicarlo en PX-02 y comparar suscriptores por cada 1.000 vistas y comentarios con 'Ndrangheta.
+- Dato 2026-11-25: 'Ndrangheta = ~97 % del tráfico desde exploración (público frío), +4 suscriptores con ~1,85 k vistas (≈ 2/1.000). Referencia a batir en PX-02.
