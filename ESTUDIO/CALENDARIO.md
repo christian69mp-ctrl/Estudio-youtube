@@ -15,5 +15,5 @@ Estados: `planificado` (fecha objetivo) · `programado` (confirmado por Christia
 | 2026-11-22 | 19:00 | Código Mafia | La MAFIA más PODEROSA de Italia se ESCONDÍA en España 🇪🇸 | largo | publicado | Confirmado por Christian 16/11; pantalla final: Policía antidroga; Probar y comparar |
 | 2026-11-27 | 19:00 | Jager Aviación | Volaron 32 MINUTOS sin poder controlar el avión · Japan Airlines 123 ✈️ | largo | planificado | Propuesta 25/11; miniatura «SIN COLA» elegida; pendiente de confirmar |
 | 2026-11-29 | 19:00 | Jager Crime (HistoriasProhibidas) | Mató a 6 PERSONAS y nadie lo encontró… hasta que SE ENTREGÓ | largo | planificado | Propuesta 25/11; miniatura «54 DÍAS» lista; pendiente de confirmar |
-| 2026-12-01 | 19:00 | Archivos Sagrados | El OBJETO más SAGRADO de la Biblia DESAPARECIÓ… ¿dónde está hoy? | largo | planificado | Propuesta 25/11; pendiente de confirmar y elegir miniatura |
+| 2026-12-01 | 19:00 | Archivos Sagrados | Dicen que solo UN HOMBRE puede ver el OBJETO más SAGRADO de la Biblia 🕯️ | largo | planificado | Propuesta 25/11; miniatura «¿DÓNDE ESTÁ?» elegida; pendiente de confirmar |
 | 2026-12-03 | 19:00 | Jager Explica | ¿Y si ROMA nunca hubiera CAÍDO? Así sería tu vida HOY 🏛️ | largo | planificado | Propuesta 25/11; pendiente de confirmar y elegir miniatura |

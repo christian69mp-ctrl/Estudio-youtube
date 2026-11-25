@@ -1,9 +1,10 @@
 # PUBLICACIÓN — El Arca de la Alianza
 Estado: listo para programar (no programado hasta que Christian lo confirme).
 **Programación propuesta:** martes 01/12/2026, 19:00 (Europe/Madrid).
-**Miniatura:** elegir entre las que tiene Christian (patrón: arca dorada tras una verja + «SOLO ÉL LO VE»).
+**Miniatura:** elegida 25/11 — arca dorada iluminada en una cámara de piedra + «¿DÓNDE ESTÁ?». Descartada «SU PODER ES REAL Y SECRETO»: afirma como hecho una creencia (contra los límites del canal) y mezcla dos arcas y un querubín infantil.
 
-**Título:** El OBJETO más SAGRADO de la Biblia DESAPARECIÓ… ¿dónde está hoy?
+**Título:** Dicen que solo UN HOMBRE puede ver el OBJETO más SAGRADO de la Biblia 🕯️
+(Cambiado 25/11: el anterior terminaba en «¿dónde está hoy?», igual que la miniatura.)
 
 **Descripción:**
 En una pequeña ciudad de Etiopía hay una capilla rodeada por una verja. Según la tradición de la Iglesia ortodoxa etíope, dentro se guarda el Arca de la Alianza. Y solo un hombre en el mundo puede verla.
