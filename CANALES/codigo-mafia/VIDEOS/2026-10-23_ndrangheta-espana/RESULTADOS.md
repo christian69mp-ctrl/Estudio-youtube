@@ -18,3 +18,8 @@
 - Visualizaciones: **645** · CTR: **7,4 %** · Duración media: **8:50** · 7 «me gusta» · **0 comentarios** · Puesto **1 de 10**.
 - Canal (28 días): 1,8 k vistas · 80,1 h · **351 suscriptores** (348 → 351). Estafas: 55 vistas y 3 «me gusta» a 4 d 21 h.
 - Lectura [INTERPRETACIÓN]: ritmo de ~23 vistas/h entre las 19 h y las 45 h (53 → 645), acelerando; el CTR sube (7,1 → 7,4 %) con más impresiones, señal de que el público nuevo responde igual que el inicial. Punto débil: conversión casi nula a suscriptores (+3 con ~600 vistas nuevas) y 0 comentarios.
+
+## Captura 5 — 2026-11-25 11:06 (2 d 16 h) [DATO CHRISTIAN, captura de Studio]
+- Visualizaciones: **1,7 k** · CTR: **7,2 %** · Duración media: **8:53** · 12 «me gusta» · **0 comentarios** · Puesto **1 de 10**.
+- Canal (28 días): 3,1 k vistas · 144 h · **352 suscriptores**. Estafas: 56 vistas a 5 d 16 h.
+- Lectura [INTERPRETACIÓN]: ritmo ~55 vistas/h entre las 45 h y las 64 h (645 → 1.700), sigue acelerando; CTR y duración estables con 2,6× más vistas: YouTube sigue ampliando. El canal pasa de 1,8 k a 3,1 k vistas en 28 días en un día. Conversión muy baja: 348 → 352 suscriptores con ~1.650 vistas nuevas (≈ 2–3 por cada 1.000 vistas) y sigue con 0 comentarios. Refuerza H-001.
