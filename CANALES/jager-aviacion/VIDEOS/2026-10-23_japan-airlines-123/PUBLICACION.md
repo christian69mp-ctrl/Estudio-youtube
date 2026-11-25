@@ -1,9 +1,10 @@
 # PUBLICACIÓN — Japan Airlines 123
 Estado: listo para programar (no programado hasta que Christian lo confirme).
 **Programación propuesta:** viernes 27/11/2026, 19:00 (Europe/Madrid).
-**Miniatura:** elegir entre las que tiene Christian (patrón: 747 sin cola + «SIN COLA»).
+**Miniatura:** elegida 25/11 — 747 al atardecer con la cola resaltada en rojo + «32 MINUTOS SIN CONTROL».
 
-**Título:** Volaron 32 MINUTOS sin poder controlar el avión | Japan Airlines 123 ✈️
+**Título:** Una REPARACIÓN de 1978 derribó este BOEING 747 | Japan Airlines 123 ✈️
+(Cambiado 25/11: el anterior, «Volaron 32 MINUTOS sin poder controlar el avión», repetía el texto de la miniatura elegida.)
 
 **Descripción:**
 12 de agosto de 1985. Un Boeing 747 de Japan Airlines con 524 personas a bordo pierde de golpe todo el control hidráulico. Los motores siguen funcionando… pero los mandos ya no responden.
