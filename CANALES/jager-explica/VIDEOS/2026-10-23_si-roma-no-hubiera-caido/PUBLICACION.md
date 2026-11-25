@@ -1,9 +1,10 @@
 # PUBLICACIÓN — ¿Y si Roma nunca hubiera caído?
 Estado: listo para programar (no programado hasta que Christian lo confirme).
 **Programación propuesta:** jueves 03/12/2026, 19:00 (Europe/Madrid).
-**Miniatura:** elegir entre las que tiene Christian (patrón: legionario con selfie en ciudad moderna + «AÑO 2026»).
+**Miniatura:** elegida 25/11 — Roma actual fotorrealista (Coliseo intacto, rascacielos, monorraíl) + «¿Y SI ROMA NO CAYÓ?». Descartada «ASÍ SERÍA EL MUNDO HOY!»: repite el título, le falta «¡», estilo ilustración recargado y elementos de fantasía.
 
-**Título:** ¿Y si ROMA nunca hubiera CAÍDO? Así sería tu vida HOY 🏛️
+**Título:** ¿Hablarías LATÍN? Así sería tu VIDA HOY si el imperio siguiera en pie 🏛️
+(Cambiado 25/11: el anterior empezaba igual que el texto de la miniatura.)
 
 **Descripción:**
 Imagina que mañana te llega al móvil un mensaje del emperador. En latín. Que pagas el pan en denarios y que el telediario abre con las legiones en el Danubio.
