@@ -1,4 +1,4 @@
-# GUION — Hells Angels en Mallorca (v3 · ≤2.500 palabras + CTA, 2026-11-23)
+# GUION — Hells Angels en Mallorca (v4 · intro compacta, 2026-11-23)
 
 Veintitrés de julio de 2013. Mallorca. Pleno verano. Playas llenas, aeropuerto a reventar, turistas de media Europa tomando el sol.
 
@@ -18,9 +18,7 @@ Esta es la historia de los Ángeles del Infierno en Mallorca. Una operación int
 
 Bienvenido a Código Mafia. Hoy nos subimos a una Harley. Pero sin casco, que lo que viene es una curva tras otra.
 
-Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque te voy a contar cuánto pagaron de multa al día algunos de los acusados que pactaron con la fiscalía. Y es menos de lo que cuesta un café.
-
-Antes de arrancar, el aviso de siempre, que en esta historia es especialmente importante. La sentencia descartó que existiera una organización criminal y absolvió al principal acusado. Así que vamos a separar con mucho cuidado lo que dijo la policía, lo que pedía la fiscalía y lo que finalmente se dio por probado. Y vamos a reírnos de lo que tiene gracia, pero no de las posibles víctimas.
+Un aviso rápido: la sentencia absolvió al principal acusado y descartó la organización criminal, así que separaremos lo que dijo la policía de lo que se probó. Y si te gustan estas historias contadas con datos y con mala leche, suscríbete, que es gratis y nos ayuda muchísimo. Quédate hasta el final, porque te voy a contar cuánto pagaron de multa al día algunos de los acusados que pactaron con la fiscalía. Y es menos de lo que cuesta un café.
 
 Empecemos por el principio. ¿Quiénes son los Hells Angels?
 

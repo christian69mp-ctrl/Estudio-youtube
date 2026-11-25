@@ -1,4 +1,4 @@
-# GUION — Garbanzos negros (v3 · ≤2.500 palabras + CTA, 2026-11-23)
+# GUION — Garbanzos negros (v4 · intro compacta, 2026-11-23)
 
 Domingo, dieciséis de noviembre de 2025. Puerto de Bilbao.
 
@@ -16,9 +16,7 @@ Y este no es el único. Según datos del propio Ministerio del Interior, entre 2
 
 Bienvenido a Código Mafia. Hoy no vamos a hablar de un capo. Vamos a hablar de algo que necesitan todos los capos: alguien dentro.
 
-Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque te voy a contar dónde aparecieron veinte millones de euros escondidos. Y no, no era un banco.
-
-Antes de empezar, dos avisos importantes. El primero: todos los casos de este vídeo están en investigación o pendientes de juicio. Ninguno de los agentes de los que vamos a hablar ha sido condenado, así que todos tienen derecho a la presunción de inocencia. El segundo: la Policía Nacional y la Guardia Civil suman decenas de miles de agentes. Ciento seis casos en cinco años son muchos para lo que significan, pero son una parte muy pequeña de un colectivo en el que la inmensa mayoría se juega la vida contra estas mismas organizaciones. Este vídeo va de las manzanas podridas, no del cesto.
+Un aviso rápido: ninguno de estos agentes ha sido condenado, y la inmensa mayoría de policías y guardias civiles se juega la vida contra estas organizaciones. Esto va de manzanas podridas, no del cesto. Y si te gustan estas historias contadas con datos y con mala leche, suscríbete, que es gratis y nos ayuda muchísimo. Quédate hasta el final, porque te voy a contar dónde aparecieron veinte millones de euros escondidos. Y no, no era un banco.
 
 Empecemos por entender por qué un narcotraficante quiere tener a un agente en nómina. Porque no es un capricho. Es, probablemente, la inversión más rentable de todo su negocio.
 

@@ -1,4 +1,4 @@
-# GUION — El narcosubmarino de Galicia (v3 · ≤2.500 palabras + CTA, 2026-11-23)
+# GUION — El narcosubmarino de Galicia (v4 · intro compacta, 2026-11-23)
 
 Noviembre de 2019. Ría de Aldán, en Cangas, Pontevedra. Una de esas rías gallegas tranquilas, con bateas de mejillón, barcos de pesca y aldeas junto al mar.
 
@@ -14,9 +14,7 @@ Esta es la historia del narcosubmarino de Galicia. Según la prensa, el primer n
 
 Bienvenido a Código Mafia. Hoy nos vamos bajo el agua. Bueno, casi bajo el agua, que ya verás que el matiz es importante.
 
-Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque al final te cuento la gran paradoja de esta historia: quién se llevó las penas más duras… y quién ni siquiera aparece en la sentencia.
-
-Antes de empezar, una buena noticia para este canal: esta historia tiene sentencia firme. Los tres tripulantes confesaron en el juicio y fueron condenados, y esas condenas fueron confirmadas. Así que vamos a poder hablar de hechos probados. Eso sí, con los acusados que esperaban en tierra, la historia judicial tuvo varios giros, y te los cuento al final con detalle.
+Y una buena noticia: esta historia tiene sentencia firme, así que vamos a hablar de hechos probados. Y si te gustan estas historias contadas con datos y con mala leche, suscríbete, que es gratis y nos ayuda muchísimo. Quédate hasta el final, porque al final te cuento la gran paradoja de esta historia: quién se llevó las penas más duras… y quién ni siquiera aparece en la sentencia.
 
 Empecemos por entender qué es un narcosubmarino. Porque cuando oyes la palabra submarino, probablemente imaginas algo militar, enorme, capaz de sumergirse a cientos de metros. No es eso.
 

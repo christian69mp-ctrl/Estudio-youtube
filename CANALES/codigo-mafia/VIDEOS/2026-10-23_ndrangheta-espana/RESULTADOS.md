@@ -33,3 +33,8 @@
 - Retención: duración media **8:51 = 36,8 %** (vídeo de ~24 min) · Visualizaciones interesadas: 601 · Tiempo de visualización: 95,7 h · Hypes: 0.
 - Lectura [INTERPRETACIÓN]: con 24 min, 8:51 es un 36,8 %; con los guiones de ~16 min de PX-02, la misma duración absoluta sería ~55 % [HIPÓTESIS]. Falta la curva de «Momentos clave» (introducción a los 30 s y caídas) para ajustar guiones.
 - Christian confirma: marca de agua, comentario fijado y botón Suscribirse en pantalla final, hechos (25/11).
+
+## Captura 8 — 2026-11-25 16:06 · Momentos clave de retención [DATO CHRISTIAN]
+- Duración total 24:03. **Introducción: 76 % sigue a los 0:30** («por encima de la media» según YouTube).
+- Curva [INTERPRETACIÓN, leída del gráfico]: caída fuerte de ~76 % a ~57 % entre 0:30 y ~1:45 (fin del gancho + «Bienvenido» + paso a contexto); después descenso suave: ~45 % hacia el min 7 (pequeño repunte ~7:30), ~38–40 % hacia el min 12 con un escalón, ~30 % en el min 16, ~22 % al final.
+- Aplicado (D-CTA v2, 25/11): en PX-02, el bloque sin historia tras el gancho (bienvenida + CTA + aviso legal) pasa de ~150–180 a ~65–105 palabras (−25 s aprox.): aviso legal en una frase y CTA corto unido al bucle abierto.

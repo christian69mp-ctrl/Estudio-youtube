@@ -1,4 +1,4 @@
-# GUION — Caso Malaya (v3 · ≤2.500 palabras + CTA, 2026-11-23)
+# GUION — Caso Malaya (v4 · intro compacta, 2026-11-23)
 
 Octubre de 2025. Aeropuerto de Madrid-Barajas.
 
@@ -16,9 +16,7 @@ Esta es la historia del Caso Malaya. La operación que destapó, según la justi
 
 Bienvenido a Código Mafia. Hoy no hay narcolanchas ni pistolas. Hoy el arma del crimen es una licencia de obras.
 
-Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque te voy a contar qué tribunal decidió subirle la condena al cerebro de la trama. Algo que en esta serie casi nunca pasa.
-
-Antes de empezar, una aclaración que en este vídeo es distinta a otros. Aquí sí hay sentencias firmes. Así que vamos a poder hablar de hechos probados. Pero también vamos a separar bien quién fue condenado, por qué y por cuánto, porque no todos los acusados acabaron igual. Y vamos a reírnos, porque esta historia tiene momentos que ni el mejor guionista se atrevería a escribir.
+Un aviso rápido: aquí sí hay sentencias firmes, pero no todos los acusados acabaron igual, así que iremos nombre por nombre. Y si te gustan estas historias contadas con datos y con mala leche, suscríbete, que es gratis y nos ayuda muchísimo. Quédate hasta el final, porque te voy a contar qué tribunal decidió subirle la condena al cerebro de la trama. Algo que en esta serie casi nunca pasa.
 
 Para entender el Caso Malaya, primero hay que entender Marbella en los años noventa.
 

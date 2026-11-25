@@ -1,4 +1,4 @@
-# GUION — Operación Nécora (v3 · ≤2.500 palabras + CTA, 2026-11-23)
+# GUION — Operación Nécora (v4 · intro compacta, 2026-11-23)
 
 En las Rías Baixas, en Galicia, hay un pazo precioso rodeado de viñedos. Hoy es una bodega de albariño. Se hacen visitas, catas, bodas. Y una parte del dinero de cada botella que se vende va a parar a programas contra la droga.
 
@@ -12,9 +12,7 @@ Ese pazo se llama Baión. Y su dueño de entonces era uno de los nombres más co
 
 Bienvenido a Código Mafia. Hoy toca marisco. Del caro.
 
-Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque el gran juicio de la Nécora no salió como nadie esperaba. Y te voy a explicar por qué.
-
-Antes de empezar, como siempre: aquí separamos lo que dijeron los tribunales, lo que contaron los testigos y lo que nunca se llegó a demostrar. Porque en esta historia hubo muchos acusados… y bastantes absueltos.
+Un aviso rápido: en esta historia hubo muchos acusados… y bastantes absueltos. Y si te gustan estas historias contadas con datos y con mala leche, suscríbete, que es gratis y nos ayuda muchísimo. Quédate hasta el final, porque el gran juicio de la Nécora no salió como nadie esperaba. Y te voy a explicar por qué.
 
 Para entender la Nécora hay que entender primero las rías.
 

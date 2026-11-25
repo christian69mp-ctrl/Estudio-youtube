@@ -1,4 +1,4 @@
-# GUION — El clan Kinahan en Marbella (v3 · ≤2.500 palabras + CTA, 2026-11-23)
+# GUION — El clan Kinahan en Marbella (v4 · intro compacta, 2026-11-23)
 
 Nueve de agosto de 2026. Un avión del Gobierno irlandés aterriza en Dublín, escoltado como si llevara a un jefe de Estado. Dentro no viaja un presidente. Viaja un hombre por el que Estados Unidos ofrecía hasta cinco millones de dólares por información que llevara a su detención.
 
@@ -14,9 +14,7 @@ Hoy vas a descubrir cómo una familia de Dublín montó su imperio en la Costa d
 
 Bienvenido a Código Mafia. Ponte la crema solar, que nos vamos a la Costa del Sol.
 
-Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque de toda una macrooperación contra este cártel, al final, lo único que quedó en pie fue… bueno, eso te lo cuento en unos minutos. Y no te lo vas a creer.
-
-Antes de empezar, una cosa importante. A Daniel Kinahan le acusan de muchas cosas, pero, a día de hoy, está acusado, no condenado. Él siempre ha negado ser un jefe criminal. Así que en este vídeo vamos a separar con cuidado lo que han dicho los tribunales, lo que dicen las policías y lo que todavía está por juzgar. Y, por supuesto, nos vamos a reír de quien se lo merece.
+Un aviso rápido: Daniel Kinahan está acusado, no condenado, y siempre ha negado ser un jefe criminal. Y si te gustan estas historias contadas con datos y con mala leche, suscríbete, que es gratis y nos ayuda muchísimo. Quédate hasta el final, porque de toda una macrooperación contra este cártel, al final, lo único que quedó en pie fue… bueno, eso te lo cuento en unos minutos. Y no te lo vas a creer.
 
 Empecemos por la familia. Porque esto, como casi todas las grandes mafias, es una empresa familiar.
 

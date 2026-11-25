@@ -1,4 +1,4 @@
-# GUION — Operación Emperador (v3 · ≤2.500 palabras + CTA, 2026-11-23)
+# GUION — Operación Emperador (v4 · intro compacta, 2026-11-23)
 
 Octubre de 2012. Un polígono industrial en Fuenlabrada, al sur de Madrid. Naves enormes llenas de ropa, juguetes, bolsos y zapatillas. El sitio donde miles de tiendas de toda España van a comprar mercancía al por mayor. Un lugar ruidoso, lleno de furgonetas, de cajas y de gente trabajando.
 
@@ -14,9 +14,7 @@ Esta es la historia de la Operación Emperador. La investigación que destapó, 
 
 Bienvenido a Código Mafia. Hoy nos vamos de compras a un polígono. Pero no a por ropa.
 
-Y antes de arrancar, un favor rápido: si te gustan estas historias contadas con datos y con un poco de mala leche, suscríbete ahora a Código Mafia. Es gratis, tarda un segundo y es lo que nos permite seguir investigando casos como este. Y quédate hasta el final, porque catorce años después de la redada, uno de los acusados le pidió algo al juez que te va a hacer reír. Te lo cuento más adelante.
-
-Antes de empezar, como siempre: en esta historia hay muchísimos acusados y muy pocas certezas judiciales definitivas. Así que vamos a separar con cuidado lo que dijo la policía, lo que dijo la fiscalía y lo que se ha resuelto en los tribunales. Y vamos a reírnos de lo que tiene gracia, que en esta historia es bastante.
+Un aviso rápido: hay muchísimos acusados y muy pocas certezas judiciales, así que separaremos lo que dijo la policía de lo que se ha resuelto. Y si te gustan estas historias contadas con datos y con mala leche, suscríbete, que es gratis y nos ayuda muchísimo. Quédate hasta el final, porque catorce años después de la redada, uno de los acusados le pidió algo al juez que te va a hacer reír. Te lo cuento más adelante.
 
 Empecemos por el lugar. El polígono Cobo Calleja, en Fuenlabrada, es uno de los mayores centros de venta al por mayor de Europa. Cientos de naves, muchas de ellas de empresarios de origen chino, que venden de todo a tiendas, bazares y comercios de toda España. La inmensa mayoría de esos negocios son completamente legales, y conviene dejarlo claro desde el principio: la comunidad china en España no tiene nada que ver con esta historia más allá de que algunos de los acusados eran de ese origen.
 

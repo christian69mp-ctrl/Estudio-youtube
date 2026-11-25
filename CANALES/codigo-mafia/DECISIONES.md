@@ -57,3 +57,9 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 - Qué: en cada guion largo: (1) CTA de suscripción breve + bucle abierto (teaser concreto) justo después de «Bienvenido a Código Mafia» (~7–9 %, ~1:30–2 min); (2) pregunta de comentarios hacia el 29–35 % (~6–7 min), antes de la duración media; (3) recordatorio de suscripción corto a mitad (35–45 %), con re-enganche a lo que viene.
 - Por qué: H-001 — en 'Ndrangheta los CTA caían después de la duración media (8:50 de ~25 min): 645 vistas, +3 suscriptores, 0 comentarios.
 - Aplicado a: los 10 guiones de PX-02 (v2). Medir suscriptores por cada 1.000 vistas y comentarios frente a 'Ndrangheta.
+
+### D-CTA v2 — 2026-11-25 — Intro compacta tras el gancho
+- Estado: aplicada (dentro de la instrucción de Christian de maximizar retención, 24/11).
+- Qué: tras «Bienvenido a Código Mafia», un único párrafo: aviso legal en una frase + CTA de suscripción corto + bucle abierto. Sin párrafo de advertencia separado.
+- Por qué: curva de 'Ndrangheta: la mayor caída (76 % → ~57 %) ocurre entre 0:30 y ~1:45, justo donde los guiones v3 de PX-02 tenían ~1 min sin historia (CTA + aviso).
+- Sustituye a: punto (1) de D-CTA en cuanto a extensión; la posición se mantiene.
