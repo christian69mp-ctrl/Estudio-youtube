@@ -41,4 +41,4 @@ Indicarlo en «Observaciones» de cada vídeo en todos los pedidos.
 | Pedido | Enviado | Contenido | Fase actual | Notas |
 |---|---|---|---|---|
 | PX-01 | 2026-10-31 [DATO CHRISTIAN] | 10 guiones (PED-01, 2 por canal) | 1 · guion (revisión de Pixelido / aprobación de Christian) | Guiones en Drive: `PEDIDOS_PIXELIDO/guiones_drive.md`. Medir días por fase. |
-| PX-02 | — | **10 vídeos, solo Código Mafia** [DATO CHRISTIAN, 31/10] | **Preparado (24/11), pendiente del briefing de Pixelido**: guiones v3 (≤2.500 palabras) en Drive, solicitudes, miniaturas y comentarios fijados | `ESTUDIO/PEDIDOS_PIXELIDO/SOLICITUDES_PX-02.md` · `solicitudes_PX-02_10_videos.xlsx` · `guiones_drive_PX-02.md` · `MINIATURAS_PX-02.md` |
+| PX-02 | — | **10 vídeos, solo Código Mafia** [DATO CHRISTIAN, 31/10] | **Preparado (24/11); carpeta de Drive compartida «cualquiera con el enlace — lector» (25/11, a petición de Christian); pendiente del briefing de Pixelido**: guiones v3 (≤2.500 palabras) en Drive, solicitudes, miniaturas y comentarios fijados | `ESTUDIO/PEDIDOS_PIXELIDO/SOLICITUDES_PX-02.md` · `solicitudes_PX-02_10_videos.xlsx` · `guiones_drive_PX-02.md` · `MINIATURAS_PX-02.md` |

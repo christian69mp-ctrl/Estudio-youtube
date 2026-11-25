@@ -28,3 +28,8 @@
 - Impresiones: **6,4 k** · CTR: **7,1 %** · Tiempo de visualización: **93,8 h** · Suscriptores: **+4**.
 - Fuentes de tráfico (vistas): **Funciones de exploración 1,8 k** (~97 %) · Vídeos sugeridos 15 · Otros 39.
 - Lectura [INTERPRETACIÓN]: el crecimiento viene casi entero de la página principal (exploración), es decir, YouTube lo está recomendando a gente que no conoce el canal; ni búsqueda ni sugeridos pesan. AP-003 superado con claridad (6,4 k impresiones frente al techo de ~900). Conversión: +4 suscriptores con ~1,85 k vistas (≈ 2 por cada 1.000). Espectador de exploración = frío: necesita motivo explícito y temprano para suscribirse (H-001) y más vídeos del mismo tipo en el canal. 93,8 h de un solo vídeo en < 3 días.
+
+## Captura 7 — 2026-11-25 16:03 [DATO CHRISTIAN, app Studio · Interacción]
+- Retención: duración media **8:51 = 36,8 %** (vídeo de ~24 min) · Visualizaciones interesadas: 601 · Tiempo de visualización: 95,7 h · Hypes: 0.
+- Lectura [INTERPRETACIÓN]: con 24 min, 8:51 es un 36,8 %; con los guiones de ~16 min de PX-02, la misma duración absoluta sería ~55 % [HIPÓTESIS]. Falta la curva de «Momentos clave» (introducción a los 30 s y caídas) para ajustar guiones.
+- Christian confirma: marca de agua, comentario fijado y botón Suscribirse en pantalla final, hechos (25/11).
