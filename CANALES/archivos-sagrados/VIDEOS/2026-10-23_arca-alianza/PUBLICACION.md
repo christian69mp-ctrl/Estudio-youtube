@@ -1,5 +1,5 @@
 # PUBLICACIÓN — El Arca de la Alianza
-Estado: listo para programar (no programado hasta que Christian lo confirme).
+Estado: **programado** (confirmado por Christian, 25/11).
 **Programación propuesta:** martes 01/12/2026, 19:00 (Europe/Madrid).
 **Miniatura:** elegida 25/11 — arca dorada iluminada en una cámara de piedra + «¿DÓNDE ESTÁ?». Descartada «SU PODER ES REAL Y SECRETO»: afirma como hecho una creencia (contra los límites del canal) y mezcla dos arcas y un querubín infantil.
 

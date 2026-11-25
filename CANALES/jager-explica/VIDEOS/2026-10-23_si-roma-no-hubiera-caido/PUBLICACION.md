@@ -1,5 +1,5 @@
 # PUBLICACIÓN — ¿Y si Roma nunca hubiera caído?
-Estado: listo para programar (no programado hasta que Christian lo confirme).
+Estado: **programado** (confirmado por Christian, 25/11).
 **Programación propuesta:** jueves 03/12/2026, 19:00 (Europe/Madrid).
 **Miniatura:** elegida 25/11 — Roma actual fotorrealista (Coliseo intacto, rascacielos, monorraíl) + «¿Y SI ROMA NO CAYÓ?». Descartada «ASÍ SERÍA EL MUNDO HOY!»: repite el título, le falta «¡», estilo ilustración recargado y elementos de fantasía.
 

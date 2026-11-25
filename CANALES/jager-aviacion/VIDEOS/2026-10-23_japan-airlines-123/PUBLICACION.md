@@ -1,5 +1,5 @@
 # PUBLICACIÓN — Japan Airlines 123
-Estado: listo para programar (no programado hasta que Christian lo confirme).
+Estado: **programado** (confirmado por Christian, 25/11).
 **Programación propuesta:** viernes 27/11/2026, 19:00 (Europe/Madrid).
 **Miniatura:** elegida 25/11 — «SIN COLA»: 747 sobre montañas de Japón con la cola arrancada, círculo y flecha rojos. (Sustituye a «32 MINUTOS SIN CONTROL», que queda de reserva.)
 
