@@ -1,4 +1,6 @@
-# GUION — El narcosubmarino de Galicia (v4 · intro compacta, 2026-11-23)
+# GUION — El narcosubmarino de Galicia (v5 · arranque en frío + intro compacta, 2026-11-23)
+
+Tres hombres cruzaron el océano Atlántico dentro de un submarino casero cargado de cocaína. Su viaje terminó en una ría gallega.
 
 Noviembre de 2019. Ría de Aldán, en Cangas, Pontevedra. Una de esas rías gallegas tranquilas, con bateas de mejillón, barcos de pesca y aldeas junto al mar.
 

@@ -63,3 +63,9 @@ Formato: plantilla C de `ESTUDIO/PROTOCOLOS.md`. Nunca borrar: marcar como susti
 - Qué: tras «Bienvenido a Código Mafia», un único párrafo: aviso legal en una frase + CTA de suscripción corto + bucle abierto. Sin párrafo de advertencia separado.
 - Por qué: curva de 'Ndrangheta: la mayor caída (76 % → ~57 %) ocurre entre 0:30 y ~1:45, justo donde los guiones v3 de PX-02 tenían ~1 min sin historia (CTA + aviso).
 - Sustituye a: punto (1) de D-CTA en cuanto a extensión; la posición se mantiene.
+
+### D-CTA v3 — 2026-11-26 — Arranque en frío y edición de los primeros 30 s
+- Estado: aplicada (Christian: «guiones retocados para que la gente no abandone en los primeros 30 seg»).
+- Qué: cada guion abre con una frase-golpe (≤ 25 palabras) que confirma la promesa de título y miniatura antes de la escena; en las solicitudes a Pixelido, reglas de edición para los primeros 30 s (sin intro/logo/fundido, imagen de la miniatura en 3–5 s, planos de 2–4 s, rótulos y música desde el segundo 0, cambio visual cada 5–8 s, gráficos animados en cifras).
+- Por qué: retención de 'Ndrangheta: 76 % a los 0:30 (buena), mayor caída 0:30–1:45; repunte con humor (min 7) y escalón en cifras (min 12).
+- Aplicado a: PX-02 v5 (Kinahan, Nécora, Mocro, Emperador, Garbanzos, Hells Angels, Narcosubmarino, Charlines; Troika y Malaya ya abrían con el golpe).

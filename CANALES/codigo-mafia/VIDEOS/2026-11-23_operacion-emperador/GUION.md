@@ -1,4 +1,6 @@
-# GUION — Operación Emperador (v4 · intro compacta, 2026-11-23)
+# GUION — Operación Emperador (v5 · arranque en frío + intro compacta, 2026-11-23)
+
+Diez millones de euros en billetes, escondidos entre ropa y juguetes en un polígono de Madrid. Y eso no fue lo más sorprendente.
 
 Octubre de 2012. Un polígono industrial en Fuenlabrada, al sur de Madrid. Naves enormes llenas de ropa, juguetes, bolsos y zapatillas. El sitio donde miles de tiendas de toda España van a comprar mercancía al por mayor. Un lugar ruidoso, lleno de furgonetas, de cajas y de gente trabajando.
 

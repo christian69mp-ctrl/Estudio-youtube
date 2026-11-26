@@ -1,4 +1,6 @@
-# GUION — Los Charlines (v4 · intro compacta, 2026-11-23)
+# GUION — Los Charlines (v5 · arranque en frío + intro compacta, 2026-11-23)
+
+La policía detuvo a un narcotraficante de ochenta y cinco años. Y no era la primera vez. Ni mucho menos.
 
 Ocho de agosto de 2018. Vilanova de Arousa, Pontevedra. Una mañana de verano en un pueblo marinero de las Rías Baixas.
 

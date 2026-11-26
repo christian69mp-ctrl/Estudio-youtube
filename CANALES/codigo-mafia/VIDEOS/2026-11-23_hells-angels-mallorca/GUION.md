@@ -1,4 +1,6 @@
-# GUION — Hells Angels en Mallorca (v4 · intro compacta, 2026-11-23)
+# GUION — Hells Angels en Mallorca (v5 · arranque en frío + intro compacta, 2026-11-23)
+
+Detuvieron al hombre al que presentaban como el líder europeo de los Hells Angels. Diez años después, salió absuelto de todo.
 
 Veintitrés de julio de 2013. Mallorca. Pleno verano. Playas llenas, aeropuerto a reventar, turistas de media Europa tomando el sol.
 

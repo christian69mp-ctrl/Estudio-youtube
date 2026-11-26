@@ -1,4 +1,6 @@
-# GUION — Garbanzos negros (v4 · intro compacta, 2026-11-23)
+# GUION — Garbanzos negros (v5 · arranque en frío + intro compacta, 2026-11-23)
+
+Un coche patrulla. Ciento veinte kilos de cocaína. Y lo detuvieron sus propios compañeros.
 
 Domingo, dieciséis de noviembre de 2025. Puerto de Bilbao.
 

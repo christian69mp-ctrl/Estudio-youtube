@@ -1,4 +1,6 @@
-# GUION — Mocro Maffia en la Costa del Sol (v4 · intro compacta, 2026-11-23)
+# GUION — Mocro Maffia en la Costa del Sol (v5 · arranque en frío + intro compacta, 2026-11-23)
+
+Una mafia obligó a esconderse a la futura reina de los Países Bajos. Y la pista acaba en Marbella.
 
 Otoño de 2022. La futura reina de los Países Bajos, la princesa Amalia, tiene dieciocho años y acaba de empezar la universidad en Ámsterdam. Como cualquier estudiante, se ha mudado a una residencia. Y unas semanas después, tiene que irse.
 

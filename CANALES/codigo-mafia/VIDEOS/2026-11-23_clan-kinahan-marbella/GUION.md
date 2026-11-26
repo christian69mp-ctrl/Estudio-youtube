@@ -1,4 +1,6 @@
-# GUION — El clan Kinahan en Marbella (v4 · intro compacta, 2026-11-23)
+# GUION — El clan Kinahan en Marbella (v5 · arranque en frío + intro compacta, 2026-11-23)
+
+Uno de los cárteles más buscados del planeta eligió la Costa del Sol para vivir. Y lo que acabó con él no fue la policía.
 
 Nueve de agosto de 2026. Un avión del Gobierno irlandés aterriza en Dublín, escoltado como si llevara a un jefe de Estado. Dentro no viaja un presidente. Viaja un hombre por el que Estados Unidos ofrecía hasta cinco millones de dólares por información que llevara a su detención.
 
