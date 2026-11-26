@@ -38,3 +38,7 @@
 - Duración total 24:03. **Introducción: 76 % sigue a los 0:30** («por encima de la media» según YouTube).
 - Curva [INTERPRETACIÓN, leída del gráfico]: caída fuerte de ~76 % a ~57 % entre 0:30 y ~1:45 (fin del gancho + «Bienvenido» + paso a contexto); después descenso suave: ~45 % hacia el min 7 (pequeño repunte ~7:30), ~38–40 % hacia el min 12 con un escalón, ~30 % en el min 16, ~22 % al final.
 - Aplicado (D-CTA v2, 25/11): en PX-02, el bloque sin historia tras el gancho (bienvenida + CTA + aviso legal) pasa de ~150–180 a ~65–105 palabras (−25 s aprox.): aviso legal en una frase y CTA corto unido al bucle abierto.
+
+## Captura 9 — 2026-11-26 05:26 (3 d 10 h) [DATO CHRISTIAN]
+- Visualizaciones: **2,3 k** · CTR: **7,3 %** · Duración media: **9:02** · 17 «me gusta» · **1 comentario** (respondido) · Puesto **2 de 10**. Canal: **354 suscriptores**.
+- Lectura [INTERPRETACIÓN]: el ritmo baja (~55 vistas/h entre 45–64 h → ~33 vistas/h entre 64–82 h): el empujón de exploración empieza a estabilizarse, lo normal al 3.er–4.º día. CTR y duración se mantienen o mejoran. Primer comentario tras fijar el comentario. Conversión: ~2 suscriptores por cada 1.000 vistas, sin cambio aún tras la marca de agua (llevan < 1 día).
