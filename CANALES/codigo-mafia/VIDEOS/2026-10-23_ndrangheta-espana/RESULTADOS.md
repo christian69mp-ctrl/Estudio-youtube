@@ -42,3 +42,7 @@
 ## Captura 9 — 2026-11-26 05:26 (3 d 10 h) [DATO CHRISTIAN]
 - Visualizaciones: **2,3 k** · CTR: **7,3 %** · Duración media: **9:02** · 17 «me gusta» · **1 comentario** (respondido) · Puesto **2 de 10**. Canal: **354 suscriptores**.
 - Lectura [INTERPRETACIÓN]: el ritmo baja (~55 vistas/h entre 45–64 h → ~33 vistas/h entre 64–82 h): el empujón de exploración empieza a estabilizarse, lo normal al 3.er–4.º día. CTR y duración se mantienen o mejoran. Primer comentario tras fijar el comentario. Conversión: ~2 suscriptores por cada 1.000 vistas, sin cambio aún tras la marca de agua (llevan < 1 día).
+
+## Captura 10 — 2026-11-27 05:44 (4 d 10 h) [DATO CHRISTIAN]
+- Visualizaciones: **2,7 k** · CTR: **7,4 %** · Duración media: **9:17** · 18 «me gusta» · 1 comentario · Puesto 2 de 10. Canal (28 d): 3,8 k vistas · 186 h · **356 suscriptores**.
+- Lectura [INTERPRETACIÓN]: ritmo ~17 vistas/h (82→106 h), curva de cola larga normal tras el pico de los días 2–3. Señales de satisfacción bajas en relación con las vistas: 0,7 % «me gusta», 1 comentario, ~2–3 suscriptores por cada 1.000 vistas; y el canal no ofrece un siguiente vídeo del mismo tipo para alargar la sesión.
