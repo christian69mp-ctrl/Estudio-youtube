@@ -5,3 +5,8 @@
 - Canal (28 d): 867 vistas · 4,4 h · 1.143 suscriptores.
 - Lectura [INTERPRETACIÓN]: mejor arranque de un largo en el canal (sus largos recientes: 4–30 vistas en días), pero CTR bajo para que YouTube amplíe (AP-003 de Código Mafia: con < 2–3 % no pasa de la prueba inicial). Si 38 vistas ≈ 2,4 % de las impresiones, ya llevaría ~1.500 impresiones [estimación; pendiente dato real]. Contexto: AP-001 del canal (audiencia de Shorts que no ve largos).
 - Regla acordada: revisar a las 24 h (28/11 19:00) con impresiones reales; si > 1.500 impresiones y CTR < 3 %, cambiar a miniatura «32 MINUTOS SIN CONTROL» + título «Una REPARACIÓN de 1978 derribó este BOEING 747 | Japan Airlines 123 ✈️».
+
+## Cambio 1 — 2026-11-28 (~11 h) [decisión de Christian: «deberíamos cambiar miniatura o título»]
+- Se cambia SOLO el título: «Volaron 32 MINUTOS sin poder controlar el avión | Japan Airlines 123 ✈️» → «Una REPARACIÓN de 1978 derribó este BOEING 747 | Japan Airlines 123 ✈️». Se mantiene la miniatura «SIN COLA».
+- Por qué: cambiar una sola cosa permite saber qué funcionó; la miniatura es la parte más fuerte (imagen clara) y el título nuevo añade el misterio de la causa sin repetirla (miniatura = efecto, título = causa).
+- Siguiente revisión: 48 h (29/11 19:00). Si el CTR sigue < 3 %, cambiar también la miniatura a «32 MINUTOS SIN CONTROL» (con el título nuevo no se repite).

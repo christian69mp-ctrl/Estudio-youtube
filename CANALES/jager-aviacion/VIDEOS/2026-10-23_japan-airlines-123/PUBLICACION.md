@@ -3,7 +3,7 @@ Estado: **programado** (confirmado por Christian, 25/11).
 **Programación propuesta:** viernes 27/11/2026, 19:00 (Europe/Madrid).
 **Miniatura:** elegida 25/11 — «SIN COLA»: 747 sobre montañas de Japón con la cola arrancada, círculo y flecha rojos. (Sustituye a «32 MINUTOS SIN CONTROL», que queda de reserva.)
 
-**Título:** Volaron 32 MINUTOS sin poder controlar el avión | Japan Airlines 123 ✈️
+**Título:** Una REPARACIÓN de 1978 derribó este BOEING 747 | Japan Airlines 123 ✈️ (desde 28/11; antes: «Volaron 32 MINUTOS sin poder controlar el avión | Japan Airlines 123 ✈️», CTR 2,4 % a 11 h)
 (25/11: se recupera el título original —vidIQ 82— porque con «SIN COLA» ya no repite la miniatura. Alternativa si se usa «32 MINUTOS SIN CONTROL»: «Una REPARACIÓN de 1978 derribó este BOEING 747 | Japan Airlines 123 ✈️».)
 
 **Descripción:**
